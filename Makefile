@@ -8,7 +8,7 @@ BSPS = $(MAPS:.map=.bsp)
 default: $(BSPS)
 
 $(TARGET)/default/maps/%.bsp: $(TARGET)/default/maps/%.map
-	quemap -bsp -w ./$(TARGET)/default maps/$*.map
+	quemap -w $(TARGET)/default -bsp maps/$*.map
 
 QUETOO_DATA_S3_BUCKET = s3://quetoo-data
 

@@ -40,7 +40,7 @@
 @PointClass base(TeamFlag) color(255 0 0) = item_flag_team1 : "Red flag" []
 @PointClass base(TeamFlag) color(0 0 255) = item_flag_team2 : "Blue flag" []
 @PointClass base(TeamFlag) color(255 255 0) = item_flag_team3 : "Yellow flag" []
-@PointClass base(TeamFlag) color(0 0 255) = item_flag_team4 : "Green flag" []
+@PointClass base(TeamFlag) color(0 255 0) = item_flag_team4 : "Green flag" []
 
 @BaseClass base(Item) size(-16 -16 -16, 16 16 16) = Weapon []
 @PointClass base(Weapon) color(225 200 40) studio("") = weapon_blaster : "Blaster" []
@@ -230,19 +230,14 @@
 	angles(string) : "The pitch yaw roll angles for the camera (e.g. 20 270 0)."
 ]
 
-@PointClass base(Targetname) color(255 255 255) size(-8 -8 -8, 8 8 8) = light : "Point light source."
+@PointClass base(Target) color(255 212 63) size(-8 -8 -8, 8 8 8) = light : "Point light source."
 [
 	radius(integer) : "Light radius" : 300
 	color(string) : "Light color as 3 decimal values from 0.0 - 1.0" : "1 1 1"
 	intensity(float) : "Light intensity as a positive scalar value" : "1"
-]
-
-@PointClass base(Target) color(255 255 255) size(-8 -8 -8, 8 8 8) = misc_light : "Point light with configurable style."
-[
-	radius(integer) : "Light radius" : 300
-	color(string) : "Light color as 3 decimal values from 0.0 - 1.0" : "1 1 1"
-	intensity(float) : "Light intensity as a positive scalar value" : "1"
-	style(choices) : "String of A(0.0) to Z(1.0) that modulate over time as a defined style. Each additional character adds 100ms to the sequence" : "m" =
+	team(string) : "Specifies what 'team' the light is on to get key/values from" : ""
+	team_master(string) : "Setting this value makes this light the 'leader' of the specified team. Can be any value." : ""
+	style(choices) : "String of A(0.0) to Z(1.0) that modulates over time as a defined style. Each additional character adds 100ms to the sequence" : "m" =
 	[
 		//Ripped from q1/q2
 		"m" : "Normal"
@@ -292,7 +287,7 @@
 	wait(float) : "The interval in seconds between fireball emissions" : "5"
 ]
 
-@PointClass color(255 120 20) size(-16 -16 -16, 16 16 16) = misc_flame : "Client-side flame emitter, useful for torches and ambience."
+@PointClass color(255 120 20) size(-8 -8 -8, 8 8 8) = misc_flame : "Client-side flame emitter, useful for torches and ambience."
 [
 	density(float) : "The flame density" : "1"
  	drift(float) : "The factor of randomized drift applied to the emission rate"
@@ -301,9 +296,19 @@
 	sound(string) : "The looping sound to play, or 'none' to disable" : "world/fire"
 ]
 
-@SolidClass color(230 230 230) = misc_fog : "Fog volumes. When compiled, fog brushes are merged into the world. Fog volumes are processed during the lighting compile phase. These are typically contents atmospheric, but can be contents water, etc."
+@SolidClass color(230 230 230) = misc_fog : "Fog volumes. When compiled, fog brushes are merged into the world. Fog volumes are processed during the lighting compile phase. These are typically contents atmospheric, but can be contents water, etc. Omit color to use the material color."
 [
+	color(string) : "The sprite HSVA color as 4 decimal values" : "0 0 1 1"
+	absorption(float) : "The fog absorption, or how much light color it absorbs" : ".5"
 	density(float) : "The fog density, or thickness" : "1"
+	noise(float) : "The fog noise, or variation in density" : "0"
+	frequency(float) : "The simplex noise frequency - effectively the scale of the noise texture" : "32"
+	amplitude(float) : "The simplex noise amplitude - effectively the upper limit of noise values" : "1"
+	lacunarity(float) : "The simplex noise lacunarity - multiplier per-octave of frequency" : "2"
+	persistence(float) : "The simplex noise persistence - multiplier per-octave of amplitude" : "0.5"
+	octaves(float) : "The number of octaves to sample" : "5"
+	seed(float) : "The simplex noise permutation vector seed" : "0"
+	offset(string) : "An offset added to the noise calculation" : "0 0 0"
 ]
 
 @PointClass color(80 180 80) size(-16 -16 -16, 16 16 16) = misc_model : "Client-side emission of static models (non-interactive map objects). These are useful for placing trees, torches, and other non-brush scenery."
@@ -380,7 +385,7 @@
 	]
 ]
 
-@PointClass base(Targetname) color(255 0 0) size(-32 -32 -24, 32 32 -16) = misc_teleporter_dest : "Teleport destination for misc_teleporters."
+@PointClass base(Targetname) color(63 255 127) size(-32 -32 -24, 32 32 -16) = misc_teleporter_dest : "Teleport destination for misc_teleporters."
 [
 	angle(integer) : "Direction in which player will look when teleported"
 ]
@@ -492,7 +497,7 @@
 	speed(integer) : "The speed with which to push the player" : 100
 ]
 
-@SolidClass base(Phong, Target) color(200 200 40) = trigger_teleporter : "Touching this will warp players to the targeted misc_teleporter_dest entity. This is the brush form of misc_teleporter." []
+@SolidClass base(Phong, Target) color(0 255 40) = trigger_teleporter : "Touching this will warp players to the targeted misc_teleporter_dest entity. This is the brush form of misc_teleporter." []
 
 @SolidClass base(Phong) = worldspawn : "The worldspawn entity defines global conditions and behavior for the entire level. All brushes not belonging to an explicit entity implicitly belong to worldspawn."
 [
@@ -504,6 +509,7 @@
 		"none" : "None"
 		"rain" : "Rain"
 		"snow" : "Snow"
+		"ash" : "Ash"
 	]
 	gravity(integer) : "Gravity" : 800
 	gameplay(choices) : "Weather effects" : "deathmatch" =
@@ -536,6 +542,7 @@
 		2 : "Auto-balanced"
 	]
 	fraglimit(integer) : "The frag limit" : 20
+	roundlimit(integer) : "The round limit" : 20
 	capturelimit(integer) : "The capture limit" : 8
 	timelimit(integer) : "The time limit in minutes" : 20
 	give(string) : "A comma-delimited item string to give each player on spawn"

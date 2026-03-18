@@ -4,7 +4,7 @@
 
 # Quetoo BETA Game Data
 
-![Quetoo BETA](http://quetoo.org/files/15385369_1245001622212024_7988137002503923923_o.jpg)
+![Quetoo BETA](https://raw.githubusercontent.com/jdolan/quetoo/main/quetoo-edge.jpg)
 
 ## Overview
 

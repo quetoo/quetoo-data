@@ -1,0 +1,8 @@
+{
+	diffusemap lun3dm3/telefloor
+	surface "blend_66"
+	{
+		texture lun3dm3/telefloorfx
+		blend GL_SRC_ALPHA GL_ONE
+	}
+}

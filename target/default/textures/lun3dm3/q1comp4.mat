@@ -1,0 +1,7 @@
+{
+	diffusemap lun3dm3/q1comp4
+	{
+		texture lun3dm3/q1comp4glow
+		blend GL_SRC_ALPHA GL_ONE
+	}
+}

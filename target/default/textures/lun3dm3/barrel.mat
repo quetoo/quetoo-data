@@ -1,0 +1,7 @@
+{
+	diffusemap lun3dm3/barrel
+	{
+		texture lun3dm3/barrelglow
+		blend GL_SRC_ALPHA GL_ONE
+	}
+}

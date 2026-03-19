@@ -206,7 +206,7 @@
 */
 
 /*QUAKED func_group (.4 .8 .4) ?
- Groups brushes together in Radiant for convenience. When the map is compiled, these entities are merged back into worldspawn. 
+ Groups brushes together in Radiant for convenience. When the map is compiled, these entities are merged back into worldspawn.
 
  -------- Keys --------
  phong : The Phong shading threshold for this model, in degrees (default 60).
@@ -289,7 +289,7 @@
  start_on : The wall will initially be present, but can be toggled off.
 */
 
-/*QUAKED func_water (0 .5 .8) ? start_open
+/*QUAKED func_water(0 .5 .8) ? start_open
  A movable water brush, which must be targeted to operate.
 
  -------- Keys --------
@@ -584,7 +584,8 @@
  -------- Keys --------
  color : Light color as 3 decimal values from 0.0 - 1.0 (default 1 1 1).
  intensity : Light intensity as a positive scalar value (default 1).
- radius :  style : The light style, a string of characters a-z that modulate the light intensity over time (default 'zzz').
+ radius : Light radius in units (default 300).
+ style : The light style, a string of characters a-z that modulate the light intensity over time (default 'zzz').
 */
 
 /*QUAKED misc_dust (.8 .8 .7)
@@ -597,6 +598,7 @@
  dir : The sprite directional axis (0 0 0 is billboard).
  end_color : The sprite HSVA end color as 4 decimal values (default 0 0 0 0).
  height : The sprite height. Setting this will cause size to be ignored (default 0).
+ hz : The emission rate, in events-per-second (default 10).
  lifetime : The sprite lifetime in seconds (default 10).
  lighting : The sprite lighting scalar (default 1).
  rotation : The sprite rotation in degrees (default 0).
@@ -624,7 +626,7 @@
 /*QUAKED misc_flame (1 .7 .1) (-8 -8 -8) (8 8 8)
  Client-side flame emitter, useful for torches and ambience.
 
- -------- Keys --------.
+ -------- Keys --------
  density : The flame density (default 1).
  drift : The factor of randomized drift applied to the emission rate.
  hz : The emission rate, in events-per-second (default 10).
@@ -635,7 +637,7 @@
 /*QUAKED misc_fog (.7 .7 .7)
  Fog volumes. When compiled, fog brushes are merged into the world. Fog volumes are processed during the lighting compile phase. These are typically contents atmospheric, but can be contents water, etc.
 
- -------- Keys --------.
+ -------- Keys --------
  density : The fog density, or thickness (default 1).
 */
 
@@ -663,8 +665,9 @@
 
  -------- Keys --------
  angle : Sparks direction (up = -1, down = -2, yaw = positive value).
+ count : The count of sparks to emit per emission (default 12).
  drift : The factor of randomized drift applied to the emission rate.
- hz : The emission rate, in events-per-second (default 0).
+ hz : The emission rate, in events-per-second (default 0.5).
  target : The name of the entity to target to resolve the sparks direction.
 */
 
@@ -675,12 +678,11 @@
  acceleration : The sprite acceleration (default 0 0 0).
  color : The sprite HSVA color as 4 decimal values (default 0 0 1 1).
  count : The count of sprites to emit per emission (default 1).
- density : The sprite density (default 1).
  dir : The sprite directional axis (0 0 0 is billboard).
- drift : The factor of randomized drift applied to the emission rate (default .01).
+ drift : The factor of randomized drift applied to the emission rate (default 3).
  end_color : The sprite HSVA end color as 4 decimal values (default 0 0 0 0).
  height : The sprite height. Setting this will cause size to be ignored (default 0).
- hz : The emission rate, in events-per-second (default 10).
+ hz : The emission rate, in events-per-second (default 0.5).
  lifetime : The sprite lifetime in seconds (default 10).
  lighting : The sprite lighting scalar (default 1).
  rotation : The sprite rotation in degrees (default 0).
@@ -700,8 +702,8 @@
 
  -------- Keys --------
  count : The count of sprites to emit per emission (default 1).
- drift : The factor of randomized drift applied to the emission rate (default .01).
- hz : The emission rate, in events-per-second (default 10).
+ drift : The factor of randomized drift applied to the emission rate (default 0.01).
+ hz : The emission rate, in events-per-second (default 24).
  size : The initial sprite size (default 32).
  sound : The looping sound to play, or 'none' to disable (default "world/steam").
  target : The name of the entity to target to resolve the steam direction and velocity.
@@ -723,17 +725,17 @@
  targetname : The target name of this entity.
 */
 
-/*QUAKED misc_weather (.4 .6 .8)
- Weather volumes emit weather particles (rain, snow, or ash) within the bounds of their brushes. Place brushes where weather should fall. These are typically contents atmospheric.
+/*QUAKED misc_weather (.6 .7 .8)
+ Weather volumes emit rain, snow, or ash particles within their brushes. These are typically contents atmospheric.
 
  -------- Keys --------
- weather : Weather type: rain, snow, or ash (default rain).
- sound : Ambient sound sample. Defaults per weather type. Set to "none" to disable.
  density : Density multiplier for particle count (default 1.0).
- hz : Spawn rate in Hz (default 5 for rain, 2 for snow/ash).
+ hz : Spawn rate in Hz (default 5).
+ sound : Ambient sound sample (default per weather type, 'none' to disable).
+ weather : Weather type: rain, snow, or ash (default "rain").
 */
 
-/*QUAKED path_corner (.7 .3 0) (-8 -8 -8) (8 8 8) teleport
+/*QUAKED path_corner (.7 .3 0) (-8 -8 -8) (8 8 8) teleport no_effects
  Path corner for func_trains.
 
  -------- Keys --------
@@ -750,8 +752,8 @@
  Emits a user-defined light when used. Lights can be chained with teams.
 
  -------- Keys --------
- _color : The light color (default 1.0 1.0 1.0).
- light : The radius of the light in units (default 300).
+ color : The light color (default 1.0 1.0 1.0).
+ radius : The radius of the light in units (default 300).
  delay : The delay before activating, in seconds (default 0).
  targetname : The target name of this entity.
  team : The team name for alternating lights.

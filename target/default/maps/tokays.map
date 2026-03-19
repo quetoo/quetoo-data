@@ -11819,7 +11819,7 @@
 {
 "classname" "misc_sound"
 "origin" "640 320 1152"
-"sound" "common/ambient/thunder_1"
+"sound" "common/thunder_1"
 "atten" "1"
 }
 // entity 82
@@ -11827,7 +11827,7 @@
 "classname" "misc_sound"
 "atten" "1"
 "origin" "1408 -64 992"
-"sound" "common/ambient/wind_1"
+"sound" "common/wind_1"
 }
 // entity 83
 {
@@ -11927,7 +11927,7 @@
 "classname" "misc_sound"
 "atten" "1"
 "origin" "640 -448 832"
-"sound" "common/ambient/wind_1"
+"sound" "common/wind_1"
 }
 // entity 86
 {
@@ -12182,19 +12182,19 @@
 {
 "classname" "misc_sound"
 "origin" "1192 440 648"
-"sound" "common/ambient/amb1"
+"sound" "common/amb1"
 }
 // entity 117
 {
 "classname" "misc_sound"
 "origin" "600 -56 520"
-"sound" "common/ambient/amb1"
+"sound" "common/amb1"
 }
 // entity 118
 {
 "classname" "misc_sound"
 "origin" "1080 -504 200"
-"sound" "common/ambient/100hz"
+"sound" "common/100hz"
 }
 // entity 119
 {
@@ -12297,7 +12297,7 @@
 {
 "classname" "misc_sound"
 "origin" "1544 436 812"
-"sound" "common/ambient/100hz"
+"sound" "common/100hz"
 }
 // entity 127
 {
@@ -12309,7 +12309,7 @@
 {
 "classname" "misc_sound"
 "origin" "1016 508 212"
-"sound" "common/ambient/amb1"
+"sound" "common/amb1"
 }
 // entity 129
 {

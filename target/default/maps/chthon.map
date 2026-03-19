@@ -19286,7 +19286,7 @@
 {
 "classname" "misc_sound"
 "origin" "-88 1216 104"
-"sound" "common/ambient/drone_4.wav"
+"sound" "common/drone_4.wav"
 "volume" "1"
 "angle" "180"
 "_tb_group" "4484"
@@ -19407,7 +19407,7 @@
 "classname" "misc_sound"
 "origin" "0 -656 120"
 "atten" "2"
-"sound" "common/ambient/drone_3"
+"sound" "common/drone_3"
 }
 // entity 133
 {
@@ -21382,7 +21382,7 @@
 "classname" "misc_sound"
 "origin" "0 -656 136"
 "atten" "2"
-"sound" "common/ambient/wind_2"
+"sound" "common/wind_2"
 }
 // entity 221
 {
@@ -23350,7 +23350,7 @@
 {
 "classname" "misc_sound"
 "origin" "-1472 0 16"
-"sound" "common/ambient/drone_4.wav"
+"sound" "common/drone_4.wav"
 "_tb_group" "3790"
 }
 // entity 249

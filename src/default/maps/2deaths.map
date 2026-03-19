@@ -12089,7 +12089,7 @@
 {
 "classname" "misc_sound"
 "origin" "304 1600 -80"
-"sound" "common/ambient/drone_1"
+"sound" "common/drone_1"
 }
 // entity 102
 {

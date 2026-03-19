@@ -13897,7 +13897,7 @@
 {
 "classname" "misc_sound"
 "origin" "-216 -800 0"
-"sound" "common/ambient/drone_1"
+"sound" "common/drone_1"
 }
 // entity 105
 {
@@ -13933,7 +13933,7 @@
 {
 "classname" "misc_sound"
 "origin" "-496 -128 568"
-"sound" "common/ambient/wind_3"
+"sound" "common/wind_3"
 }
 // entity 111
 {

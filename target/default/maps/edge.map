@@ -19412,21 +19412,21 @@
 "classname" "misc_sound"
 "atten" "1"
 "origin" "200 168 576"
-"sound" "common/ambient/wind_1"
+"sound" "common/wind_1"
 }
 // entity 73
 {
 "classname" "misc_sound"
 "atten" "1"
 "origin" "-752 -448 416"
-"sound" "common/ambient/wind_2"
+"sound" "common/wind_2"
 }
 // entity 74
 {
 "classname" "misc_sound"
 "atten" "1"
 "origin" "640 -576 576"
-"sound" "common/ambient/wind_2"
+"sound" "common/wind_2"
 }
 // entity 75
 {
@@ -19440,7 +19440,7 @@
 "classname" "misc_sound"
 "atten" "1"
 "origin" "-784 -1104 248"
-"sound" "common/ambient/wind_2"
+"sound" "common/wind_2"
 }
 // entity 77
 {
@@ -19594,14 +19594,14 @@
 "classname" "misc_sound"
 "atten" "1"
 "origin" "424 -216 576"
-"sound" "common/ambient/wind_1"
+"sound" "common/wind_1"
 }
 // entity 102
 {
 "classname" "misc_sound"
 "atten" "1"
 "origin" "-768 64 448"
-"sound" "common/ambient/wind_1"
+"sound" "common/wind_1"
 }
 // entity 103
 {

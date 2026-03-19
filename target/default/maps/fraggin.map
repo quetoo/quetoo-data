@@ -9282,7 +9282,7 @@
 {
 "classname" "misc_sound"
 "origin" "0 -1496 -32"
-"sound" "common/ambient/drone_6a"
+"sound" "common/drone_6a"
 "_tb_group" "2158"
 }
 // entity 10
@@ -9396,7 +9396,7 @@
 {
 "classname" "misc_sound"
 "origin" "-1264 0 -576"
-"sound" "common/ambient/drone_6a"
+"sound" "common/drone_6a"
 "_tb_group" "2165"
 }
 // entity 17
@@ -10037,7 +10037,7 @@
 {
 "classname" "misc_sound"
 "origin" "0 784 -352"
-"sound" "common/ambient/drone_6a"
+"sound" "common/drone_6a"
 "_tb_group" "515"
 }
 // entity 53
@@ -27083,28 +27083,28 @@
 {
 "classname" "misc_sound"
 "origin" "-192 0 -576"
-"sound" "common/ambient/bloodbath_amb"
+"sound" "common/bloodbath_amb"
 "atten" "1"
 }
 // entity 214
 {
 "classname" "misc_sound"
 "origin" "0 1216 -448"
-"sound" "common/ambient/bloodbath_amb"
+"sound" "common/bloodbath_amb"
 "atten" "1"
 }
 // entity 215
 {
 "classname" "misc_sound"
 "origin" "944 384 -88"
-"sound" "common/ambient/bloodbath_amb"
+"sound" "common/bloodbath_amb"
 "atten" "1"
 }
 // entity 216
 {
 "classname" "misc_sound"
 "origin" "-992 0 -664"
-"sound" "common/ambient/bloodbath_amb"
+"sound" "common/bloodbath_amb"
 "atten" "1"
 }
 // entity 217

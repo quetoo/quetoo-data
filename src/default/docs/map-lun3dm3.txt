@@ -1,0 +1,26 @@
+- Lun3DM3src: File Information ------------------------------------------- 03.05.2007 ---
+
+Filename: Lun3DM3src.zip
+Author: Matt "Lunaran"  Breit
+Email: matt@lunaran.com
+Web Site: http://www.lunaran.com
+Description: Source .map files for Lun3DM3: A Load of Useless Bloody Loonies, 
+originally released in 2001.
+
+No guarantees that your compile will match mine (especially lighting), and no
+guarantees that there won't be broken or missing textures.  You're here for the
+brushwork and entity placement.
+
+- Copyright / Permissions ----------------------------------------------------------------
+	This program is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with this program.  If not, see <http://www.gnu.org/licenses/>.

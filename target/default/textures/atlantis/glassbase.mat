@@ -1,10 +1,7 @@
 {
 	material atlantis/glassbase
 	normalmap atlantis/glassbase_nm
-	
-	bloom 1
 	parallax 0
-	
 	surface "blend_66"
 	contents "window"	
 }

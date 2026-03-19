@@ -48,6 +48,7 @@
 @PointClass base(Weapon) color(220 160 0) studio("") = weapon_supershotgun : "Super shotgun" []
 @PointClass base(Weapon) color(255 255 0) studio("") = weapon_machinegun : "Machinegun" []
 @PointClass base(Weapon) color(0 160 0) studio("") = weapon_grenadelauncher : "Grenade launcher" []
+@PointClass base(Weapon) color(0 200 0) studio("") = weapon_handgrenades : "Hand Grenades" []
 @PointClass base(Weapon) color(200 0 0) studio("") = weapon_rocketlauncher : "Rocket launcher" []
 @PointClass base(Weapon) color(100 200 255) studio("") = weapon_hyperblaster : "Hyperblaster" []
 @PointClass base(Weapon) color(225 225 225) studio("") = weapon_lightning : "Lightning" []
@@ -377,6 +378,14 @@
 	velocity(string) : "The steam velocity (if not specified via target)" : "0 0 32"
 ]
 
+@SolidClass color(100 150 200) = misc_weather : "Weather volumes emit weather particles (rain, snow, or ash) within the bounds of their brushes. Place brushes where weather should fall. These are typically contents atmospheric."
+[
+	weather(string) : "Weather type: rain, snow, or ash" : "rain"
+	sound(string) : "Ambient sound sample (default per weather type, 'none' to disable)"
+	density(string) : "Density multiplier for particle count" : "1.0"
+	hz(string) : "Spawn rate in Hz (default 5 for rain, 2 for snow/ash)"
+]
+
 @PointClass base(Target) color(0 255 0) size(-32 -32 -24, 32 32 -16) = misc_teleporter : "Warps players who touch this entity to the targeted misc_teleporter_dest entity."
 [
 	spawnflags(Flags) =
@@ -504,15 +513,8 @@
 	message(string) : "The map title"
 	sky(string) : "The sky environment map" : "template"
 	ambient(float) : "The ambient light level" : "0"
-	weather(choices) : "Weather effects" : "none" =
-	[
-		"none" : "None"
-		"rain" : "Rain"
-		"snow" : "Snow"
-		"ash" : "Ash"
-	]
 	gravity(integer) : "Gravity" : 800
-	gameplay(choices) : "Weather effects" : "deathmatch" =
+	gameplay(choices) : "Gameplay mode" : "deathmatch" =
 	[
 		"deathmatch" : "Deathmatch"
 		"instagib" : "Instagib"

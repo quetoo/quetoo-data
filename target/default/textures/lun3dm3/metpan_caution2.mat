@@ -1,5 +1,6 @@
 {
 	diffusemap lun3dm3/metpan_caution2
+	normalmap lun3dm3/metpan_caution_nm
 	heightmap lun3dm3/metpan_caution2_h
 	parallax 1.0
 	hardness 3.0

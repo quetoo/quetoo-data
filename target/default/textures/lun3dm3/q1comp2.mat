@@ -1,3 +1,8 @@
 {
 	diffusemap lun3dm3/q1comp2
+	roughness 2.15
+	hardness 8.00
+	specularity 2.31
+	parallax 3.05
+	shadow 6.49
 }

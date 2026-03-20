@@ -1,3 +1,8 @@
 {
 	diffusemap lun3dm3/floor2
+	roughness 2.00
+	hardness 2.78
+	specularity 1.43
+	parallax 3.00
+	shadow 3.95
 }

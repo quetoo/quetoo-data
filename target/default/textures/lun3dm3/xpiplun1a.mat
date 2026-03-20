@@ -1,4 +1,8 @@
 {
 	diffusemap lun3dm3/xpiplun1a
+	roughness 2.07
+	specularity 2.58
+	parallax 3.04
+	shadow 6.91
 	surface "alpha_test"
 }

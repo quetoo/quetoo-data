@@ -1,8 +1,8 @@
 {
 	diffusemap lun3dm3/q1comp6
-	surface "alpha_test"
 	{
-		texture lun3dm3/q1comp6fx
+		texture lun3dm3/q1comp6fx0
 		blend GL_SRC_ALPHA GL_ONE
+		anim 6 0.50
 	}
 }

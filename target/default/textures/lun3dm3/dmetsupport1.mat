@@ -1,8 +1,8 @@
 {
 	diffusemap lun3dm3/dmetsupport1
-	roughness 2.31
+	roughness 8.00
 	hardness 3.00
 	specularity 1.50
-	parallax 2.92
-	shadow 6.56
+	parallax 2.03
+	shadow 8.00
 }

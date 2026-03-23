@@ -1,5 +1,7 @@
 {
 	diffusemap lun3dm3/than_button2
+	roughness 0.98
+	parallax 1.04
 	{
 		texture lun3dm3/than_button2fx
 		blend GL_SRC_ALPHA GL_ONE

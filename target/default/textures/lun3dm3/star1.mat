@@ -1,5 +1,6 @@
 {
 	diffusemap lun3dm3/star1
-	roughness 1.07
-	parallax 1.70
+	roughness 1.98
+	parallax 3.03
+	shadow 4.02
 }

@@ -1,6 +1,5 @@
 # Wavefront OBJ exported by MilkShape 3D
 
-mtllib tris.mtl
 
 v 11.741107 23.717678 -1.180367
 v 11.826266 23.571037 -0.430876
@@ -2432,7 +2431,7 @@ vn 0.230752 0.547848 0.804124
 # 968 normals
 
 g ssggroup
-usemtl skin
+usemtl weapons/supershotgun/skin
 s 16
 f 1/1/1 2/2/2 3/3/3
 f 2/2/2 4/4/4 3/3/3

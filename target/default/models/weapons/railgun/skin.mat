@@ -1,0 +1,13 @@
+{
+	diffusemap weapons/railgun/skin
+	roughness 2.61224
+	parallax 0.0816327
+	hardness 8
+	specularity 4.89796
+	parallax 0.0816327
+		{
+		texture weapons/railgun/skin_glow
+		blend GL_SRC_ALPHA GL_ONE
+		pulse 0.75
+	}
+}

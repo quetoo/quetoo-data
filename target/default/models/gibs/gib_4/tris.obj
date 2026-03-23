@@ -1,6 +1,5 @@
 # Blender v2.77 (sub 0) OBJ File: 'newtorso.blend'
 # www.blender.org
-mtllib tris.mtl
 o Circle
 v 2.411538 -3.316656 11.427705
 v -4.014714 -1.978391 10.038060
@@ -1294,8 +1293,8 @@ vn -0.4287 -0.6317 0.6458
 vn 0.5279 -0.4695 -0.7077
 vn 0.6958 0.6131 0.3741
 vn 0.8096 -0.4893 0.3241
-usemtl skin
 s 1
+usemtl gibs/gib_4/skin
 f 223/1/1 16/2/2 25/3/3
 f 13/4/4 98/5/5 12/6/6
 f 13/4/4 26/7/7 27/8/8

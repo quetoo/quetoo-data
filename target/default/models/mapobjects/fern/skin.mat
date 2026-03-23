@@ -1,5 +1,5 @@
 {
-	diffusemap #models/mapobjects/fern/skin
+	diffusemap mapobjects/fern/skin
 	roughness 0
 	parallax 0.0816327
 	hardness 0

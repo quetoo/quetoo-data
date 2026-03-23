@@ -1,0 +1,13 @@
+{
+	diffusemap armor/shard/skin
+	roughness 3.59184
+	parallax 5.38775
+	hardness 6.12245
+	specularity 4.2449
+	parallax 5.38775
+		{
+		texture armor/shard/skin_glow
+		blend GL_SRC_ALPHA GL_ONE
+		pulse 1.5
+	}
+}

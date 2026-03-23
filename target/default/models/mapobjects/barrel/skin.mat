@@ -1,7 +1,7 @@
 {
-	diffusemap #models/mapobjects/barrel/skin
+	diffusemap mapobjects/barrel/skin
 	{
-		texture #models/mapobjects/barrel/skin_glow
+		texture mapobjects/barrel/skin_glow
 		blend GL_SRC_ALPHA GL_ONE
 	}
 }

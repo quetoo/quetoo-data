@@ -1,6 +1,5 @@
 # Wavefront OBJ exported by MilkShape 3D
 
-mtllib tris.mtl
 
 v -6.786506 24.071814 5.185410
 v -6.421559 27.018047 0.000000
@@ -732,7 +731,7 @@ vn -0.749967 0.661475 0.000000
 # 218 normals
 
 g techrune
-usemtl skin
+usemtl techs/haste/skin
 s 1
 f 1/1/1 2/2/2 3/3/3
 f 1/1/1 4/4/4 2/2/2
@@ -969,7 +968,7 @@ f 170/91/160 169/92/159 219/127/205
 # 232 triangles in group
 
 g charm
-usemtl skin
+usemtl techs/haste/skin
 f 221/129/207 225/130/207 229/131/207
 f 231/129/208 235/130/208 239/132/208
 f 241/133/2 243/134/2 246/135/2

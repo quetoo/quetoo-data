@@ -1,0 +1,11 @@
+{
+	material powerups/quad/skin
+	roughness 5.30612
+	hardness 6.36735
+	specularity 1.71429
+		{
+		texture powerups/quad/skin_glow
+		blend GL_SRC_ALPHA GL_ONE
+		pulse 1.25
+	}
+}

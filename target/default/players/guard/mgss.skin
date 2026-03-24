@@ -1,7 +1,7 @@
-h_helmet,players/guard/mgss_h.tga
-h_face,players/guard/mgss_h.tga
-h_mask,players/guard/mgss_v.tga
-u_torso,players/guard/mgss.tga
-u_larm,players/guard/mgss.tga
-u_rarm,players/guard/mgss.tga
-l_legs,players/guard/mgss.tga
+h_helmet,players/guard/mgss_h
+h_face,players/guard/mgss_h
+h_mask,players/guard/mgss_v
+u_torso,players/guard/mgss
+u_larm,players/guard/mgss
+u_rarm,players/guard/mgss
+l_legs,players/guard/mgss

@@ -1,5 +1,5 @@
-h_head,players/bunker/fidget_h.tga
-u_torso,players/bunker/fidget.tga
-l_legs,players/bunker/fidget.tga
-l_pouch,players/bunker/fidget.tga
-l_bpouch,players/bunker/fidget_h.tga
+h_head,players/bunker/fidget_h
+u_torso,players/bunker/fidget
+l_legs,players/bunker/fidget
+l_pouch,players/bunker/fidget
+l_bpouch,players/bunker/fidget_h

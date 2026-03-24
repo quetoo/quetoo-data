@@ -1,5 +1,5 @@
-h_head,players/bunker/default_h.tga
-u_torso,players/bunker/default.tga
-l_legs,players/bunker/default.tga
-l_pouch,players/bunker/ctf.tga
-l_bpouch,players/bunker/ctf_h.tga
+h_head,players/bunker/default_h
+u_torso,players/bunker/default
+l_legs,players/bunker/default
+l_pouch,players/bunker/ctf
+l_bpouch,players/bunker/ctf_h

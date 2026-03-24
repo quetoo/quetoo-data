@@ -1,4 +1,4 @@
-h_eye,players/dragoon/eye_alpha.tga
-h_head,players/dragoon/baron_h.tga
-u_torso,players/dragoon/baron.tga
-l_lower,players/dragoon/baron.tga
+h_eye,players/dragoon/eye_alpha
+h_head,players/dragoon/baron_h
+u_torso,players/dragoon/baron
+l_lower,players/dragoon/baron

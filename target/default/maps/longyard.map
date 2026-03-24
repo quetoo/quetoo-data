@@ -1,3 +1,5 @@
+// Game: Quetoo
+// Format: Quake2
 // entity 0
 {
 "classname" "worldspawn"
@@ -5,6 +7,8 @@
 "ambient" "0.24 0.16 0.24"
 "message" "Longest Yard of Chaos"
 "sky" "purple_chaos"
+"author" "Skies912"
+"version" "1.5.3"
 // brush 0
 {
 ( -64 -264 -32 ) ( -64 -256 -40 ) ( -64 -256 -32 ) trak5/base1a 0 0 0 0.25 0.25
@@ -19541,6 +19545,24 @@
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
+"_tb_name" "TEMP"
+"_tb_id" "7"
+"_tb_layer_sort_index" "8"
+"_tb_layer_omit_from_export" "1"
+}
+// entity 374
+{
+"classname" "func_group"
+"_tb_type" "_tb_layer"
+"_tb_name" "UNUSED"
+"_tb_id" "8"
+"_tb_layer_sort_index" "9"
+"_tb_layer_omit_from_export" "1"
+}
+// entity 375
+{
+"classname" "func_group"
+"_tb_type" "_tb_layer"
 "_tb_name" "Clip Brushes"
 "_tb_id" "2162"
 "_tb_layer_sort_index" "6"
@@ -19798,7 +19820,7 @@
 ( -1024 816 208 ) ( -1024 816 209 ) ( -1024 817 208 ) common/clip 0 0 0 0.25 0.25
 }
 }
-// entity 374
+// entity 376
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"

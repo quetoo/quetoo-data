@@ -1,0 +1,7 @@
+h_helmet,players/guard/default_h.tga
+h_face,players/guard/default_h.tga
+h_mask,players/guard/default_v.tga
+u_torso,players/guard/ctf.tga
+u_larm,players/guard/ctf.tga
+u_rarm,players/guard/ctf.tga
+l_legs,players/guard/ctf.tga

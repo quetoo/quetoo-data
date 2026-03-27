@@ -1,0 +1,6 @@
+{
+	diffusemap common/lun3dm3/starc
+	roughness 1.96
+	parallax 3.03
+	shadow 1.40
+}

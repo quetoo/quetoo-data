@@ -1,0 +1,15 @@
+{
+	diffusemap common/lun3dm3/metpan_lite1
+	roughness 1.87
+	hardness 3.00
+	specularity 1.50
+	parallax 2.99
+	shadow 8.00
+	{
+		texture common/lun3dm3/metpan_lite1fx
+		blend GL_SRC_ALPHA GL_ONE
+	}
+	{
+		flare flare_1
+	}
+}

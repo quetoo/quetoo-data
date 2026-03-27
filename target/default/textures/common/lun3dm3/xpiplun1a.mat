@@ -1,0 +1,9 @@
+{
+	diffusemap common/lun3dm3/xpiplun1a
+	roughness 0.00
+	hardness 2.45
+	specularity 0.32
+	parallax 2.30
+	shadow 8.00
+	surface "alpha_test"
+}

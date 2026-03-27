@@ -1,0 +1,8 @@
+{
+	diffusemap common/lun3dm3/metpan1
+	roughness 2.12
+	hardness 3.00
+	specularity 1.50
+	parallax 1.50
+	shadow 8.00
+}

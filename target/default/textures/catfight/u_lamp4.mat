@@ -9,8 +9,8 @@
 		flare flare_1
 	}
 	{
-		texture trak5/light2a_blend
+		texture catfight/u_lamp4_blend
 		blend GL_SRC_ALPHA GL_ONE
-		color 1 1 1 0.5
+		color 1 1 1 0.85
 	}
 }

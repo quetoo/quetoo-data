@@ -12958,31 +12958,31 @@
 {
 "classname" "misc_sound"
 "origin" "416 1152 72"
-"sound" "common/lava_flow_1"
+"sound" "ambient/lava_flow_1"
 }
 // entity 84
 {
 "classname" "misc_sound"
 "origin" "1680.000000 544.000000 -32.000000"
-"sound" "common/lava_flow_2"
+"sound" "ambient/lava_flow_2"
 }
 // entity 85
 {
 "classname" "misc_sound"
 "origin" "216 592 160"
-"sound" "common/lava_2"
+"sound" "ambient/lava_2"
 }
 // entity 86
 {
 "classname" "misc_sound"
 "origin" "960.000000 584.000000 24.000000"
-"sound" "common/lava_1"
+"sound" "ambient/lava_1"
 }
 // entity 87
 {
 "classname" "misc_sound"
 "origin" "1528 1352 88"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 }
 // entity 88
 {

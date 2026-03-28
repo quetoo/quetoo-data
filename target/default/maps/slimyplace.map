@@ -9023,56 +9023,56 @@
 {
 "classname" "misc_sound"
 "origin" "-320 816 -192"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 }
 // entity 13
 {
 "classname" "misc_sound"
 "origin" "-384 -656 -88"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 }
 // entity 14
 {
 "classname" "misc_sound"
 "origin" "0 272 -336"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 }
 // entity 15
 {
 "classname" "misc_sound"
 "atten" "0"
 "origin" "-160 -128 80"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 }
 // entity 16
 {
 "classname" "misc_sound"
 "origin" "-416 304 -176"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 }
 // entity 17
 {
 "classname" "misc_sound"
 "origin" "-720 -432 -104"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 }
 // entity 18
 {
 "classname" "misc_sound"
 "origin" "-384 -496 -88"
-"sound" "common/water_1"
+"sound" "ambient/water_1"
 }
 // entity 19
 {
 "classname" "misc_sound"
 "origin" "64 440 -96"
-"sound" "common/water_1"
+"sound" "ambient/water_1"
 }
 // entity 20
 {
 "classname" "misc_sound"
 "origin" "240 -16 -176"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 }
 // entity 21
 {

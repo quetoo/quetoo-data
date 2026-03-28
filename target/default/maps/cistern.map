@@ -6193,13 +6193,13 @@
 {
 "classname" "misc_sound"
 "origin" "240 -336 128"
-"sound" "common/drip_1"
+"sound" "ambient/drip_1"
 }
 // entity 97
 {
 "classname" "misc_sound"
 "origin" "360 -448 -176"
-"sound" "common/water_2"
+"sound" "ambient/water_2"
 }
 // entity 98
 {
@@ -6327,13 +6327,13 @@
 {
 "classname" "misc_sound"
 "origin" "360 -288 -184"
-"sound" "common/water_2"
+"sound" "ambient/water_2"
 }
 // entity 102
 {
 "classname" "misc_sound"
 "origin" "360 -136 -184"
-"sound" "common/water_2"
+"sound" "ambient/water_2"
 }
 // entity 103
 {

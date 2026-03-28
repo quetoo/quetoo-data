@@ -9284,7 +9284,7 @@
 {
 "classname" "misc_sound"
 "origin" "0 -1496 -32"
-"sound" "common/drone_6a"
+"sound" "ambient/drone_6a"
 "_tb_group" "2158"
 }
 // entity 10
@@ -9398,7 +9398,7 @@
 {
 "classname" "misc_sound"
 "origin" "-1264 0 -576"
-"sound" "common/drone_6a"
+"sound" "ambient/drone_6a"
 "_tb_group" "2165"
 }
 // entity 17
@@ -10039,7 +10039,7 @@
 {
 "classname" "misc_sound"
 "origin" "0 784 -352"
-"sound" "common/drone_6a"
+"sound" "ambient/drone_6a"
 "_tb_group" "515"
 }
 // entity 53

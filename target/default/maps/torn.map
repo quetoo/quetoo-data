@@ -25639,7 +25639,7 @@
 {
 "classname" "misc_sound"
 "origin" "-64 528 -64"
-"sound" "common/100hz"
+"sound" "ambient/100hz"
 }
 // entity 38
 {
@@ -25651,7 +25651,7 @@
 {
 "classname" "misc_sound"
 "origin" "816 -456 -24"
-"sound" "common/electric"
+"sound" "ambient/electric"
 }
 // entity 40
 {
@@ -25663,13 +25663,13 @@
 {
 "classname" "misc_sound"
 "origin" "-176 -104 128"
-"sound" "common/100hz"
+"sound" "ambient/100hz"
 }
 // entity 42
 {
 "classname" "misc_sound"
 "origin" "160 -32 128"
-"sound" "common/100hz"
+"sound" "ambient/100hz"
 }
 // entity 43
 {
@@ -25681,31 +25681,31 @@
 {
 "classname" "misc_sound"
 "origin" "40 -304 96"
-"sound" "common/comp"
+"sound" "ambient/comp"
 }
 // entity 45
 {
 "classname" "misc_sound"
 "origin" "40 -496 96"
-"sound" "common/comp"
+"sound" "ambient/comp"
 }
 // entity 46
 {
 "classname" "misc_sound"
 "origin" "-32 64 -48"
-"sound" "common/100hz"
+"sound" "ambient/100hz"
 }
 // entity 47
 {
 "classname" "misc_sound"
 "origin" "-752 -208 -48"
-"sound" "common/electric"
+"sound" "ambient/electric"
 }
 // entity 48
 {
 "classname" "misc_sound"
 "origin" "-88 -704 160"
-"sound" "common/comp"
+"sound" "ambient/comp"
 }
 // entity 49
 {
@@ -25717,13 +25717,13 @@
 {
 "classname" "misc_sound"
 "origin" "464 -64 -160"
-"sound" "common/100hz"
+"sound" "ambient/100hz"
 }
 // entity 51
 {
 "classname" "misc_sound"
 "origin" "-16 352 -272"
-"sound" "common/100hz"
+"sound" "ambient/100hz"
 }
 // entity 52
 {
@@ -25781,31 +25781,31 @@
 {
 "classname" "misc_sound"
 "origin" "424 -1088 232"
-"sound" "common/thunder"
+"sound" "ambient/thunder"
 }
 // entity 61
 {
 "classname" "misc_sound"
 "origin" "-448 336 400"
-"sound" "common/thunder"
+"sound" "ambient/thunder"
 }
 // entity 62
 {
 "classname" "misc_sound"
 "origin" "896 -8 -24"
-"sound" "common/electric"
+"sound" "ambient/electric"
 }
 // entity 63
 {
 "classname" "misc_sound"
 "origin" "384 208 352"
-"sound" "common/thunder"
+"sound" "ambient/thunder"
 }
 // entity 64
 {
 "classname" "misc_sound"
 "origin" "-32 256 168"
-"sound" "common/100hz"
+"sound" "ambient/100hz"
 }
 // entity 65
 {
@@ -26362,7 +26362,7 @@
 {
 "classname" "misc_sound"
 "origin" "368 -400 288"
-"sound" "common/fan"
+"sound" "ambient/fan"
 }
 // entity 89
 {

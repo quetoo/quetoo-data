@@ -19412,42 +19412,42 @@
 "classname" "misc_sound"
 "atten" "1"
 "origin" "200 168 576"
-"sound" "common/wind_1"
+"sound" "ambient/wind_1"
 }
 // entity 73
 {
 "classname" "misc_sound"
 "atten" "1"
 "origin" "-752 -448 416"
-"sound" "common/wind_2"
+"sound" "ambient/wind_2"
 }
 // entity 74
 {
 "classname" "misc_sound"
 "atten" "1"
 "origin" "640 -576 576"
-"sound" "common/wind_2"
+"sound" "ambient/wind_2"
 }
 // entity 75
 {
 "classname" "misc_sound"
 "atten" "2"
 "origin" "-784 -832 -200"
-"sound" "common/drip_1"
+"sound" "ambient/drip_1"
 }
 // entity 76
 {
 "classname" "misc_sound"
 "atten" "1"
 "origin" "-784 -1104 248"
-"sound" "common/wind_2"
+"sound" "ambient/wind_2"
 }
 // entity 77
 {
 "classname" "misc_sound"
 "atten" "2"
 "origin" "-1160 -96 -192"
-"sound" "common/crickets_2"
+"sound" "ambient/crickets_2"
 }
 // entity 78
 {
@@ -19515,7 +19515,7 @@
 "drift" "1"
 "hz" "1"
 "origin" "-1184 -544 -152"
-"sound" "common/frogs_1"
+"sound" "ambient/frogs_1"
 }
 // entity 89
 {
@@ -19582,7 +19582,7 @@
 "classname" "misc_sound"
 "atten" "2"
 "origin" "-104 -24 -360"
-"sound" "common/drip_1"
+"sound" "ambient/drip_1"
 }
 // entity 100
 {
@@ -19594,14 +19594,14 @@
 "classname" "misc_sound"
 "atten" "1"
 "origin" "424 -216 576"
-"sound" "common/wind_1"
+"sound" "ambient/wind_1"
 }
 // entity 102
 {
 "classname" "misc_sound"
 "atten" "1"
 "origin" "-768 64 448"
-"sound" "common/wind_1"
+"sound" "ambient/wind_1"
 }
 // entity 103
 {

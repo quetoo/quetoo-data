@@ -24850,7 +24850,7 @@ common/lun3dm3/concrete0dark
 // entity 17
 {
 "classname" "misc_sound"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 "origin" "200 184 0"
 }
 // entity 18
@@ -24863,25 +24863,25 @@ common/lun3dm3/concrete0dark
 // entity 19
 {
 "classname" "misc_sound"
-"sound" "common/comp"
+"sound" "ambient/comp"
 "origin" "-1096 1008 264"
 }
 // entity 20
 {
 "classname" "misc_sound"
-"sound" "common/comp"
+"sound" "ambient/comp"
 "origin" "-1048 1008 264"
 }
 // entity 21
 {
 "classname" "misc_sound"
-"sound" "common/drone_3"
+"sound" "ambient/drone_3"
 "origin" "-1072 1008 264"
 }
 // entity 22
 {
 "classname" "misc_sound"
-"sound" "common/drone_4"
+"sound" "ambient/drone_4"
 "origin" "-752 -56 64"
 }
 // entity 23
@@ -25193,163 +25193,163 @@ common/lun3dm3/floor2
 // entity 60
 {
 "classname" "misc_sound"
-"sound" "common/drone_3"
+"sound" "ambient/drone_3"
 "origin" "256 672 -64"
 }
 // entity 61
 {
 "classname" "misc_sound"
-"sound" "common/comp"
+"sound" "ambient/comp"
 "origin" "-1096 1008 240"
 }
 // entity 62
 {
 "classname" "misc_sound"
-"sound" "common/electric"
+"sound" "ambient/electric"
 "origin" "-1072 1008 240"
 }
 // entity 63
 {
 "classname" "misc_sound"
-"sound" "common/electric"
+"sound" "ambient/electric"
 "origin" "-1048 1008 240"
 }
 // entity 64
 {
 "classname" "misc_sound"
-"sound" "common/comp"
+"sound" "ambient/comp"
 "origin" "-600 1136 104"
 }
 // entity 65
 {
 "classname" "misc_sound"
-"sound" "common/comp"
+"sound" "ambient/comp"
 "origin" "-552 1136 104"
 }
 // entity 66
 {
 "classname" "misc_sound"
-"sound" "common/drone_4"
+"sound" "ambient/drone_4"
 "origin" "-576 1136 104"
 }
 // entity 67
 {
 "classname" "misc_sound"
-"sound" "common/comp"
+"sound" "ambient/comp"
 "origin" "-600 1136 80"
 }
 // entity 68
 {
 "classname" "misc_sound"
-"sound" "common/electric"
+"sound" "ambient/electric"
 "origin" "-576 1136 80"
 }
 // entity 69
 {
 "classname" "misc_sound"
-"sound" "common/electric"
+"sound" "ambient/electric"
 "origin" "-552 1136 80"
 }
 // entity 70
 {
 "classname" "misc_sound"
-"sound" "common/comp"
+"sound" "ambient/comp"
 "origin" "456 1424 136"
 }
 // entity 71
 {
 "classname" "misc_sound"
-"sound" "common/comp"
+"sound" "ambient/comp"
 "origin" "504 1424 136"
 }
 // entity 72
 {
 "classname" "misc_sound"
-"sound" "common/drone_4"
+"sound" "ambient/drone_4"
 "origin" "480 1424 136"
 }
 // entity 73
 {
 "classname" "misc_sound"
-"sound" "common/comp"
+"sound" "ambient/comp"
 "origin" "456 1424 112"
 }
 // entity 74
 {
 "classname" "misc_sound"
-"sound" "common/electric"
+"sound" "ambient/electric"
 "origin" "480 1424 112"
 }
 // entity 75
 {
 "classname" "misc_sound"
-"sound" "common/electric"
+"sound" "ambient/electric"
 "origin" "504 1424 112"
 }
 // entity 76
 {
 "classname" "misc_sound"
-"sound" "common/comp"
+"sound" "ambient/comp"
 "origin" "-24 464 232"
 }
 // entity 77
 {
 "classname" "misc_sound"
-"sound" "common/comp"
+"sound" "ambient/comp"
 "origin" "24 464 232"
 }
 // entity 78
 {
 "classname" "misc_sound"
-"sound" "common/drone_3"
+"sound" "ambient/drone_3"
 "origin" "0 464 232"
 }
 // entity 79
 {
 "classname" "misc_sound"
-"sound" "common/comp"
+"sound" "ambient/comp"
 "origin" "-24 464 208"
 }
 // entity 80
 {
 "classname" "misc_sound"
-"sound" "common/electric"
+"sound" "ambient/electric"
 "origin" "0 464 208"
 }
 // entity 81
 {
 "classname" "misc_sound"
-"sound" "common/electric"
+"sound" "ambient/electric"
 "origin" "24 464 208"
 }
 // entity 82
 {
 "classname" "misc_sound"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 "origin" "200 -200 0"
 }
 // entity 83
 {
 "classname" "misc_sound"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 "origin" "-200 -200 0"
 }
 // entity 84
 {
 "classname" "misc_sound"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 "origin" "-200 184 0"
 }
 // entity 85
 {
 "classname" "misc_sound"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 "origin" "-912 680 88"
 }
 // entity 86
 {
 "classname" "misc_sound"
-"sound" "common/slime_1"
+"sound" "ambient/slime_1"
 "origin" "-816 1048 88"
 }
 // entity 87

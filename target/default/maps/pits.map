@@ -13197,21 +13197,21 @@
 {
 "classname" "misc_sound"
 "origin" "352.000000 -160.000000 248.000000"
-"sound" "common/drone_3"
+"sound" "ambient/drone_3"
 }
 // entity 84
 {
 "classname" "misc_sound"
 "atten" "3"
 "origin" "-216.000000 664.000000 72.000000"
-"sound" "common/drip_1"
+"sound" "ambient/drip_1"
 }
 // entity 85
 {
 "classname" "misc_sound"
 "atten" "3"
 "origin" "-896.000000 1312.000000 664.000000"
-"sound" "common/wind_1"
+"sound" "ambient/wind_1"
 }
 // entity 86
 {
@@ -13325,7 +13325,7 @@
 "classname" "misc_sound"
 "atten" "3"
 "origin" "152.000000 920.000000 760.000000"
-"sound" "common/wind_1"
+"sound" "ambient/wind_1"
 }
 // entity 100
 {
@@ -15152,7 +15152,7 @@
 "classname" "misc_sound"
 "atten" "3"
 "origin" "352 184 72"
-"sound" "common/drip_1"
+"sound" "ambient/drip_1"
 "_tb_layer" "3"
 }
 // entity 118

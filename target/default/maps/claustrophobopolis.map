@@ -13861,55 +13861,55 @@
 {
 "classname" "misc_sound"
 "origin" "192 1008 -128"
-"sound" "common/lava_flow_1"
+"sound" "ambient/lava_flow_1"
 }
 // entity 99
 {
 "classname" "misc_sound"
 "origin" "-32 800 -168"
-"sound" "common/lava_2"
+"sound" "ambient/lava_2"
 }
 // entity 100
 {
 "classname" "misc_sound"
 "origin" "-640 408 -32"
-"sound" "common/lava_2"
+"sound" "ambient/lava_2"
 }
 // entity 101
 {
 "classname" "misc_sound"
 "origin" "-568 -128 -32"
-"sound" "common/lava_flow_1"
+"sound" "ambient/lava_flow_1"
 }
 // entity 102
 {
 "classname" "misc_sound"
 "origin" "-392 -128 -32"
-"sound" "common/lava_flow_1"
+"sound" "ambient/lava_flow_1"
 }
 // entity 103
 {
 "classname" "misc_sound"
 "origin" "-264 -800 -32"
-"sound" "common/lava_2"
+"sound" "ambient/lava_2"
 }
 // entity 104
 {
 "classname" "misc_sound"
 "origin" "-216 -800 0"
-"sound" "common/drone_1"
+"sound" "ambient/drone_1"
 }
 // entity 105
 {
 "classname" "misc_sound"
 "origin" "776 -1040 72"
-"sound" "common/lava_2"
+"sound" "ambient/lava_2"
 }
 // entity 106
 {
 "classname" "misc_sound"
 "origin" "272 -1208 48"
-"sound" "common/lava_flow_1"
+"sound" "ambient/lava_flow_1"
 }
 // entity 107
 {
@@ -13921,19 +13921,19 @@
 {
 "classname" "misc_sound"
 "origin" "192 480 -8"
-"sound" "common/lava_flow_2"
+"sound" "ambient/lava_flow_2"
 }
 // entity 109
 {
 "classname" "misc_sound"
 "origin" "240 248 0"
-"sound" "common/lava_flow_2"
+"sound" "ambient/lava_flow_2"
 }
 // entity 110
 {
 "classname" "misc_sound"
 "origin" "-496 -128 568"
-"sound" "common/wind_3"
+"sound" "ambient/wind_3"
 }
 // entity 111
 {

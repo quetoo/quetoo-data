@@ -3,8 +3,8 @@
 	normalmap common/lun3dm3/starc_nm
 	heightmap common/lun3dm3/starc_height
 	specularmap common/lun3dm3/starc_gloss
-	roughness 0.38
-	hardness 1.98
+	roughness 0.99
+	hardness 1.63
 	parallax 3.03
-	shadow 1.40
+	shadow 1.24
 }

@@ -1,0 +1,11 @@
+{
+	material objects/grenade/skin
+	roughness 4.0
+	hardness 1.5
+	specularity 2.0
+		{	
+		texture objects/grenade/skin_glow
+		blend GL_SRC_ALPHA GL_ONE
+		pulse 2
+	}
+}

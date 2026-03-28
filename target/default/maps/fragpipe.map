@@ -11936,7 +11936,6 @@
 "classname" "func_button"
 "angle" "180"
 "model" "*3"
-"noise" "sounds/butn2.wav"
 "speed" "200"
 "target" "button1"
 "wait" "6"

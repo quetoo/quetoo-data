@@ -3,7 +3,7 @@
 	normalmap common/lun3dm3/metpan_lite1_nm
 	heightmap common/lun3dm3/metpan_lite1_height
 	specularmap common/lun3dm3/metpan_lite1_gloss
-	roughness 1.87
+	roughness 4.02
 	hardness 3.00
 	specularity 1.50
 	parallax 2.62

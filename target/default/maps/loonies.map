@@ -24623,7 +24623,7 @@ common/lun3dm3/starc
 // entity 1
 {
 "classname" "misc_sound"
-"sound" "common/wind2"
+"sound" "ambient/wind_5"
 "origin" "600 1752 208"
 }
 // entity 2
@@ -24856,7 +24856,7 @@ common/lun3dm3/concrete0dark
 // entity 18
 {
 "classname" "misc_sound"
-"sound" "common/drip1"
+"sound" "ambient/drip_1"
 "origin" "-272 272 -24"
 "wait" "7"
 }

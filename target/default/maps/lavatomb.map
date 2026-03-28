@@ -17505,91 +17505,91 @@
 {
 "classname" "misc_sound"
 "origin" "-384.000000 -168.000000 -376.000000"
-"sound" "common/lavaflow2"
+"sound" "ambient/lava_flow_1"
 }
 // entity 92
 {
 "classname" "misc_sound"
 "origin" "496.000000 1456.000000 0.000000"
-"sound" "common/wind_des2"
+"sound" "ambient/wind_6"
 }
 // entity 93
 {
 "classname" "misc_sound"
 "origin" "1280.000000 632.000000 -328.000000"
-"sound" "common/lavaflow2"
+"sound" "ambient/lava_flow_1"
 }
 // entity 94
 {
 "classname" "misc_sound"
 "origin" "-960.000000 1024.000000 -240.000000"
-"sound" "common/lavaflow2"
+"sound" "ambient/lava_flow_1"
 }
 // entity 95
 {
 "classname" "misc_sound"
 "origin" "304.000000 1568.000000 -416.000000"
-"sound" "common/lavaflow2"
+"sound" "ambient/lava_flow_1"
 }
 // entity 96
 {
 "classname" "misc_sound"
 "origin" "656.000000 1184.000000 -416.000000"
-"sound" "common/lavaflow2"
+"sound" "ambient/lava_flow_1"
 }
 // entity 97
 {
 "classname" "misc_sound"
 "origin" "528.000000 1024.000000 -448.000000"
-"sound" "common/lavaflow2"
+"sound" "ambient/lava_flow_1"
 }
 // entity 98
 {
 "classname" "misc_sound"
 "origin" "208.000000 -416.000000 -352.000000"
-"sound" "common/engine02"
+"sound" "ambient/drone_2"
 }
 // entity 99
 {
 "classname" "misc_sound"
 "origin" "-288.000000 608.000000 -232.000000"
-"sound" "common/lavamud"
+"sound" "ambient/lava_4"
 }
 // entity 100
 {
 "classname" "misc_sound"
 "origin" "-24.000000 256.000000 -248.000000"
-"sound" "common/lavaflow2"
+"sound" "ambient/lava_flow_1"
 }
 // entity 101
 {
 "classname" "misc_sound"
 "origin" "-680.000000 256.000000 -248.000000"
-"sound" "common/lavamud"
+"sound" "ambient/lava_4"
 }
 // entity 102
 {
 "classname" "misc_sound"
 "origin" "224.000000 -272.000000 -432.000000"
-"sound" "common/lavamud"
+"sound" "ambient/lava_4"
 }
 // entity 103
 {
 "classname" "misc_sound"
 "origin" "-16.000000 1392.000000 -416.000000"
-"sound" "common/lavamud"
+"sound" "ambient/lava_4"
 }
 // entity 104
 {
 "classname" "misc_sound"
 "origin" "-16.000000 1392.000000 64.000000"
-"sound" "common/wind_des2"
+"sound" "ambient/wind_6"
 }
 // entity 105
 {
 "classname" "misc_sound"
 "origin" "-80.000000 1024.000000 -416.000000"
-"sound" "common/lavaflow2"
+"sound" "ambient/lava_flow_1"
 }
 // entity 106
 {

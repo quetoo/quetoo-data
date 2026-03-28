@@ -27085,28 +27085,28 @@
 {
 "classname" "misc_sound"
 "origin" "-192 0 -576"
-"sound" "common/bloodbath_amb"
+"sound" "ambient/flow"
 "atten" "1"
 }
 // entity 214
 {
 "classname" "misc_sound"
 "origin" "0 1216 -448"
-"sound" "common/bloodbath_amb"
+"sound" "ambient/flow"
 "atten" "1"
 }
 // entity 215
 {
 "classname" "misc_sound"
 "origin" "944 384 -88"
-"sound" "common/bloodbath_amb"
+"sound" "ambient/flow"
 "atten" "1"
 }
 // entity 216
 {
 "classname" "misc_sound"
 "origin" "-992 0 -664"
-"sound" "common/bloodbath_amb"
+"sound" "ambient/flow"
 "atten" "1"
 }
 // entity 217

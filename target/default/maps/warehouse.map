@@ -15237,89 +15237,89 @@
 "classname" "misc_sound"
 "atten" "3"
 "origin" "768.000000 -608.000000 752.000000"
-"sound" "common/quake2/ventilate"
+"sound" "ambient/fan_3"
 }
 // entity 99
 {
 "classname" "misc_sound"
 "atten" "3"
 "origin" "928.000000 -736.000000 760.000000"
-"sound" "common/quake2/conveyor"
+"sound" "ambient/conveyor_1"
 }
 // entity 100
 {
 "classname" "misc_sound"
 "atten" "3"
 "origin" "384.000000 -32.000000 656.000000"
-"sound" "common/quake2/ventilate"
+"sound" "ambient/fan_3"
 }
 // entity 101
 {
 "classname" "misc_sound"
 "atten" "3"
 "origin" "-800.000000 416.000000 688.000000"
-"sound" "common/quake2/ambilight"
+"sound" "ambient/light_1"
 }
 // entity 102
 {
 "classname" "misc_sound"
 "atten" "3"
 "origin" "32.000000 928.000000 688.000000"
-"sound" "common/quake2/ambilight"
+"sound" "ambient/light_1"
 }
 // entity 103
 {
 "classname" "misc_sound"
 "atten" "3"
 "origin" "-1008.000000 1056.000000 -48.000000"
-"sound" "common/quake2/conveyor"
+"sound" "ambient/conveyor_1"
 }
 // entity 104
 {
 "classname" "misc_sound"
 "atten" "3"
 "origin" "-544.000000 1144.000000 -40.000000"
-"sound" "common/quake2/conveyor"
+"sound" "ambient/conveyor_1"
 }
 // entity 105
 {
 "classname" "misc_sound"
 "atten" "3"
 "origin" "-32.000000 1144.000000 -40.000000"
-"sound" "common/quake2/conveyor"
+"sound" "ambient/conveyor_1"
 }
 // entity 106
 {
 "classname" "misc_sound"
 "atten" "3"
 "origin" "32.000000 1168.000000 384.000000"
-"sound" "common/quake2/conveyor"
+"sound" "ambient/conveyor_1"
 }
 // entity 107
 {
 "classname" "misc_sound"
 "atten" "3"
 "origin" "288.000000 1056.000000 728.000000"
-"sound" "common/quake2/conveyor"
+"sound" "ambient/conveyor_1"
 }
 // entity 108
 {
 "classname" "misc_sound"
 "origin" "672.000000 1056.000000 760.000000"
-"sound" "common/quake2/conveyor"
+"sound" "ambient/conveyor_1"
 }
 // entity 109
 {
 "classname" "misc_sound"
 "origin" "928.000000 672.000000 760.000000"
-"sound" "common/quake2/conveyor"
+"sound" "ambient/conveyor_1"
 }
 // entity 110
 {
 "classname" "misc_sound"
 "atten" "3"
 "origin" "928.000000 -224.000000 760.000000"
-"sound" "common/quake2/conveyor"
+"sound" "ambient/conveyor_1"
 }
 // entity 111
 {
@@ -15666,7 +15666,7 @@
 "classname" "misc_sound"
 "atten" "3"
 "origin" "-64.000000 0.000000 656.000000"
-"sound" "common/quake2/ventilate"
+"sound" "ambient/fan_3"
 }
 // entity 139
 {

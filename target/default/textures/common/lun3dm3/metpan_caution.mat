@@ -1,8 +1,11 @@
 {
 	diffusemap common/lun3dm3/metpan_caution
+	normalmap common/lun3dm3/metpan_caution_nm
+	heightmap common/lun3dm3/metpan_caution_height
+	specularmap common/lun3dm3/metpan_caution_gloss
 	roughness 2.54
 	hardness 3.00
 	specularity 1.50
-	parallax 3.03
+	parallax 2.54
 	shadow 8.00
 }

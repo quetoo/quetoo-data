@@ -11819,7 +11819,7 @@
 {
 "classname" "misc_sound"
 "origin" "640 320 1152"
-"sound" "ambient/thunder_1"
+"sound" "ambient/thunder_2"
 "atten" "1"
 }
 // entity 82
@@ -12182,13 +12182,13 @@
 {
 "classname" "misc_sound"
 "origin" "1192 440 648"
-"sound" "ambient/amb1"
+"sound" "ambient/amb_1"
 }
 // entity 117
 {
 "classname" "misc_sound"
 "origin" "600 -56 520"
-"sound" "ambient/amb1"
+"sound" "ambient/amb_1"
 }
 // entity 118
 {
@@ -12309,7 +12309,7 @@
 {
 "classname" "misc_sound"
 "origin" "1016 508 212"
-"sound" "ambient/amb1"
+"sound" "ambient/amb_1"
 }
 // entity 129
 {

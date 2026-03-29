@@ -1,3 +1,5 @@
+// Game: Quetoo
+// Format: Quake3
 // entity 0
 {
 "classname" "worldspawn"
@@ -16053,7 +16055,7 @@
 // entity 261
 {
 "classname" "misc_fog"
-"density" "0.125"
+"density" "0.666"
 // brush 0
 {
 ( -256 -256 -320 ) ( -256 -255 -320 ) ( -256 -256 -319 ) common/fog 0 0 0 0.25 0.25
@@ -16067,7 +16069,7 @@
 // entity 262
 {
 "classname" "misc_fog"
-"density" "0.125"
+"density" "0.666"
 // brush 0
 {
 ( -1344 768 -320 ) ( -1344 769 -320 ) ( -1344 768 -319 ) common/fog 0 0 0 0.25 0.25

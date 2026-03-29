@@ -1,7 +1,7 @@
 {
     diffusemap pk02/pk02_light01b_d
-    normalmap pk02/pk02_light01b_n
-    specularmap pk02/pk02_light01b_s
+    normalmap pk02/pk02_light01a_n
+    specularmap pk02/pk02_light01a_s
     shadow 0
     {
         scale.s 1.25

@@ -1,5 +1,5 @@
 {
 	diffusemap trak4/base_paint_yellow_d
-	normalmap trak4/base_paint_yellow_n
+	normalmap trak4/base_paint_red_n
 	specularmap trak4/base_paint_yellow_s
 }

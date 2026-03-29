@@ -1,6 +1,6 @@
 {
 	diffusemap spacectf/u_trlightline_blue
-	normalmap spacectf/u_trlightline_blue_nm
+	normalmap spacectf/u_trlightline_red_nm
 	parallax 2.5
 	shadow 0
 	{

@@ -1,4 +1,5 @@
 {
+	normalmap quake/city2_1_norm
 	diffusemap quake/city2_6
 	roughness 0.43
 	hardness 2.02

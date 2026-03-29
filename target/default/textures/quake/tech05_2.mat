@@ -1,4 +1,5 @@
 {
+	normalmap quake/tech05_1_norm
 	diffusemap quake/tech05_2
 	hardness 1.96
 	specularity 1.22

@@ -1,3 +1,4 @@
 {
+	normalmap quake/metal4_6_norm
 	diffusemap quake/mmetal1_3
 }

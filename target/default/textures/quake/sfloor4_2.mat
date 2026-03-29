@@ -1,4 +1,5 @@
 {
+	normalmap quake/sfloor4_1_norm
 	diffusemap quake/sfloor4_2
 	hardness 2.53
 	specularity 1.47

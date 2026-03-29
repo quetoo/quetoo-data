@@ -1,4 +1,5 @@
 {
+	normalmap quake/tlight03_norm
 	diffusemap quake/tlight05
 	{
 		texture quake/tlight05_luma

@@ -1,0 +1,8 @@
+{
+	diffusemap turbo/waterpool
+	roughness 0
+	hardness 0
+	parallax 1.25
+	surface "blend_33 blend_66 liquid"
+	contents "water detail"
+}

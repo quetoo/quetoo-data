@@ -1,0 +1,15 @@
+{
+	diffusemap turbo/wlight2_160
+	hardness 3.50
+	parallax 3.50
+	{
+		texture turbo/wlight2_160fx
+		blend GL_SRC_ALPHA GL_ONE
+	}
+	{
+		color 1 0.9 0.8 1.00
+		scale.s 1.250
+		scale.t 1.250
+		flare flare_0
+	}
+}

@@ -1,0 +1,12 @@
+{
+	diffusemap turbo/srchlamp
+	surface "blend_100"
+	contents "mist"
+	{
+		texture turbo/srchlamp_glow
+		blend GL_ONE GL_ONE
+	}
+	{
+		flare flare_2
+	}
+}

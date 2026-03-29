@@ -1,0 +1,6 @@
+{
+	diffusemap quake/tyr_09
+	normalmap quake/tyr_09_norm
+	specularmap quake/tyr_09_gloss
+	parallax 4.00
+}

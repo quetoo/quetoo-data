@@ -1,0 +1,8 @@
+{
+	diffusemap quake/twall3_1
+	{
+		texture quake/twall3_1_luma
+		blend GL_SRC_ALPHA GL_ONE
+		pulse 0.23
+	}
+}

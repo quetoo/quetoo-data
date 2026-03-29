@@ -1,0 +1,8 @@
+{
+	diffusemap quake2/yellow1_4
+	roughness 4.00
+	hardness 2.00
+	specularity 1.50
+	parallax 0.15
+	shadow 0.00
+}

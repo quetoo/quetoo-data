@@ -1,0 +1,10 @@
+{
+	diffusemap lun3dm3/concrete0dark
+	normalmap lun3dm3/concrete0dark_nm
+	heightmap lun3dm3/concrete0dark_height
+	specularmap lun3dm3/concrete0dark_gloss
+	roughness 1.67
+	hardness 3.01
+	specularity 1.01
+	parallax 1.23
+}

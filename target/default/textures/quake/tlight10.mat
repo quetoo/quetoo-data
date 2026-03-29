@@ -1,0 +1,8 @@
+{
+	diffusemap quake/tlight10
+	{
+		texture quake/tlight10_luma
+		blend GL_SRC_ALPHA GL_ONE
+		pulse 0.46
+	}
+}

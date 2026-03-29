@@ -1,0 +1,5 @@
+{
+	diffusemap trak6/floor_tile2_d
+	normalmap trak6/floor_tile2_n
+	specularmap trak6/floor_tile2_s
+}

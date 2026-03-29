@@ -1,0 +1,11 @@
+{
+	diffusemap lun3dm3/floor2
+	normalmap lun3dm3/floor2_nm
+	heightmap lun3dm3/floor2_height
+	specularmap lun3dm3/floor2_gloss
+	roughness 3.02
+	hardness 4.49
+	specularity 1.67
+	parallax 2.64
+	shadow 4.53
+}

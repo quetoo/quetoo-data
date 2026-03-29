@@ -1,0 +1,18 @@
+{
+	diffusemap quake2/ceil1_2
+	normalmap quake2/ceil1_nm
+	heightmap quake2/ceil1_2_height
+	specularmap quake2/ceil1_2_gloss
+	roughness 1.33
+	hardness 3.21
+	specularity 0.91
+	parallax 3.58
+	shadow 0.00
+	{
+		texture quake2/ceil1_2fx
+		blend GL_SRC_ALPHA GL_ONE
+	}
+	{
+		flare flare_2
+	}
+}

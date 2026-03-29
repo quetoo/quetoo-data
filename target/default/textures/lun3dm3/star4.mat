@@ -1,0 +1,7 @@
+{
+	diffusemap lun3dm3/star4
+	normalmap lun3dm3/star1_nm
+	roughness 1.97
+	parallax 3.05
+	shadow 4.75
+}

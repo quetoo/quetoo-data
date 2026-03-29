@@ -1,0 +1,12 @@
+{
+	diffusemap quake2/lightstrip
+	roughness 2.00
+	hardness 1.50
+	specularity 1.30
+	parallax 0.00
+	shadow 0.00
+	{
+		texture quake2/lightstripfx
+		blend GL_SRC_ALPHA GL_ONE
+	}
+}

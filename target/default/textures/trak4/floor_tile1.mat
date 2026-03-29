@@ -1,0 +1,5 @@
+{
+	diffusemap trak4/floor_tile1_d
+	normalmap trak4/floor_tile1_n
+	specularmap trak4/floor_tile1_s
+}

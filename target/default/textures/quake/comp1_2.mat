@@ -1,0 +1,8 @@
+{
+	diffusemap quake/comp1_2
+	{
+		texture quake/comp1_2_luma
+		blend GL_SRC_ALPHA GL_ONE
+		pulse 0.35
+	}
+}

@@ -1,0 +1,4 @@
+{
+    diffusemap quake/dem4_4
+    normalmap quake/demc4_4_norm
+}

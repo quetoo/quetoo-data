@@ -1,0 +1,9 @@
+{
+	diffusemap lun3dm3/floor1stripe
+	normalmap lun3dm3/floor1_nm
+	roughness 1.75
+	hardness 2.29
+	specularity 1.36
+	parallax 1.97
+	shadow 8.00
+}

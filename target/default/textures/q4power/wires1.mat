@@ -1,0 +1,6 @@
+{
+	diffusemap q4power/wires1_d
+	normalmap q4power/wires1_local
+	heightmap q4power/wires1_h
+	specularmap q4power/wires1_s
+}

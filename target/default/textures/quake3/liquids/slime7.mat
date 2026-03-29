@@ -1,0 +1,5 @@
+{
+	diffusemap quake3/liquids/slime7
+	hardness 1.15
+	contents "slime"
+}

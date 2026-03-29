@@ -1,0 +1,15 @@
+{
+	diffusemap quake/light01+0
+	normalmap quake/light01+0_norm
+	specularmap quake/light01+0_gloss
+	roughness 1.00
+	hardness 1.00
+	specularity 1.00
+	parallax 2.50
+	shadow 0.00
+	{
+		texture quake/light01+0
+		anim 3 6.00
+		lighting .5
+	}
+}

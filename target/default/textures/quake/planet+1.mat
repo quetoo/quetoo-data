@@ -1,0 +1,8 @@
+{
+	diffusemap quake/planet+1
+	{
+		texture quake/planet+1_luma
+		blend GL_SRC_ALPHA GL_ONE
+		pulse 0.25
+	}
+}

@@ -1,0 +1,9 @@
+{
+	diffusemap quake2/trim_plat
+	normalmap quake2/trim_plat_nm
+	roughness 1.80
+	hardness 2.50
+	specularity 1.50
+	parallax 2.00
+	shadow 8.00
+}

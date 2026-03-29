@@ -1,0 +1,6 @@
+{
+	diffusemap trak5/trim4a_d
+	normalmap trak5/trim4_n
+	heightmap trak5/trim4_h
+	parallax 2.5
+}

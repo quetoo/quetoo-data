@@ -1,0 +1,11 @@
+{
+	diffusemap quake2/palmet11_2-heat
+	normalmap quake2/palmet11_2_nm
+	hardness 1.5
+	specularity 1.5
+	shadow 0
+	{
+		texture quake2/glowedge
+		blend GL_SRC_ALPHA GL_ONE
+	}
+}

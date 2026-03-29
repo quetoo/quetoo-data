@@ -1,0 +1,10 @@
+{
+	diffusemap q4power/panel128_4_d
+	normalmap q4power/panel128_4_local
+	heightmap q4power/panel128_4_h
+	specularmap q4power/panel128_4_s
+	{
+		texture q4power/panel128_4_glow
+		blend GL_SRC_ALPHA GL_ONE
+	}
+}

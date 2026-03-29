@@ -1,0 +1,5 @@
+{
+	diffusemap quake/sfloor4_6
+	normalmap quake/sfloor4_6_norm
+	specularmap quake/sfloor4_6_gloss
+}

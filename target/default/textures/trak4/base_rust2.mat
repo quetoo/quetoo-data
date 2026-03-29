@@ -1,0 +1,5 @@
+{
+	diffusemap trak4/base_rust2_d
+	normalmap trak4/base_rust2_n
+	specularmap trak4/base_rust2_s
+}

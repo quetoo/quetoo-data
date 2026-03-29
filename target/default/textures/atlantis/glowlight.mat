@@ -1,0 +1,9 @@
+{
+	material atlantis/glowlight
+	normalmap atlantis/glowlight_nm	
+	contents "detail"
+	{
+		texture atlantis/glowlight
+		blend GL_SRC_ALPHA GL_ONE
+	}
+}

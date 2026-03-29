@@ -1,0 +1,11 @@
+{
+	diffusemap trak5/light3b_d
+	normalmap trak5/light3b_n
+	heightmap trak5/light3b_h
+	shadow 0
+	{
+		scale.s 1.25
+		scale.t 1.25
+		flare flare_1
+	}
+}

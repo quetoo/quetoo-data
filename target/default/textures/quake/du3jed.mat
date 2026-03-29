@@ -1,0 +1,7 @@
+{
+	diffusemap quake/du3jed
+	normalmap quake/du3jed_norm
+	specularmap quake/du3jed_gloss
+	roughness 1.47
+	parallax 2.04
+}

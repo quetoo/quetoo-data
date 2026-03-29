@@ -1,0 +1,8 @@
+{
+	diffusemap quake/lava1
+	contents "lava"
+	{
+		texture quake/lava1
+		warp 0.1 0.05
+	}
+}

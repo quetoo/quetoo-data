@@ -1,0 +1,6 @@
+{
+	diffusemap q4power/panel64_6_d
+	normalmap q4power/panel64_6_local
+	heightmap q4power/panel64_6_h
+	specularmap q4power/panel64_6_s
+}

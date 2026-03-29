@@ -1,0 +1,6 @@
+{
+	diffusemap trak5/floor1a_d
+	normalmap trak5/floor1a_n
+	heightmap trak5/floor1a_h
+	parallax 3.0
+}

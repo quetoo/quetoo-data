@@ -1,0 +1,10 @@
+{
+	diffusemap q4power/qcomp4_d
+	normalmap q4power/qcomp4_local
+	heightmap q4power/qcomp4_h
+	specularmap q4power/qcomp4_s
+	{
+		texture q4power/qcomp4_glow
+		blend GL_SRC_ALPHA GL_ONE
+	}
+}

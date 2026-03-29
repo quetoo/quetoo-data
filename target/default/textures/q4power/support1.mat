@@ -1,0 +1,6 @@
+{
+	diffusemap q4power/support1_d
+	normalmap q4power/support1_local
+	heightmap q4power/support1_h
+	specularmap q4power/support1_s
+}

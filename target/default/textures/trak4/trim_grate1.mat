@@ -1,0 +1,5 @@
+{
+	diffusemap trak4/trim_grate1_d
+	normalmap trak4/trim_grate1_n
+	specularmap trak4/trim_grate1_s
+}

@@ -1,0 +1,11 @@
+{
+	diffusemap lun3dm3/metpan1r
+	normalmap lun3dm3/metpan1r_nm
+	heightmap lun3dm3/metpan1r_height
+	specularmap lun3dm3/metpan1r_gloss
+	roughness 4.04
+	hardness 3.00
+	specularity 1.50
+	parallax 2.00
+	shadow 6.99
+}

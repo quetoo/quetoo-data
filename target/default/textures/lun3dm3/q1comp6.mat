@@ -1,0 +1,16 @@
+{
+	diffusemap lun3dm3/q1comp6
+	normalmap lun3dm3/q1comp6_nm
+	heightmap lun3dm3/q1comp6_height
+	specularmap lun3dm3/q1comp6_gloss
+	roughness 2.17
+	hardness 6.00
+	specularity 2.32
+	parallax 2.57
+	shadow 6.51
+	{
+		texture lun3dm3/q1comp6fx0
+		blend GL_SRC_ALPHA GL_ONE
+		anim 6 0.50
+	}
+}

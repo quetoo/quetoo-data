@@ -1,8 +1,11 @@
 {
 	diffusemap quake2/lead1_1
-	roughness 2.25
-	hardness 4.00
-	specularity 1.75
-	parallax 2.50
-	shadow 0.25
+	normalmap quake2/lead1_1_nm
+	heightmap quake2/lead1_1_height
+	specularmap quake2/lead1_1_gloss
+	roughness 1.98
+	hardness 3.97
+	specularity 1.12
+	parallax 2.04
+	shadow 2.55
 }

@@ -1,11 +1,13 @@
 {
 	diffusemap quake2/metal2_1_subslime
 	normalmap quake2/metal2_1_nm
+	heightmap quake2/metal2_1_subslime_height
+	specularmap quake2/metal2_1_subslime_gloss
 	roughness 1.14
 	hardness 2.00
 	specularity 2.00
 	parallax 3.67
-	shadow 0.00
+	shadow 8.00
 	{
 		texture quake2/metal2_1_glowedge
 		blend GL_SRC_ALPHA GL_ONE

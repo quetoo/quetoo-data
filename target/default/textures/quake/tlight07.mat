@@ -1,5 +1,13 @@
 {
 	diffusemap quake/tlight07
+	normalmap quake/tlight07_norm
+	heightmap quake/tlight07_height
+	specularmap quake/tlight07_gloss
+	roughness 1.99
+	hardness 0.95
+	specularity 0.89
+	parallax 2.96
+	shadow 3.50
 	{
 		texture quake/tlight07_luma
 		blend GL_SRC_ALPHA GL_ONE

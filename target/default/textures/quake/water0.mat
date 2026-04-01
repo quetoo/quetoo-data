@@ -1,16 +1,18 @@
 {
 	diffusemap quake/water0
+	normalmap quake/water0_bump
+	heightmap quake/water0_height
+	specularmap quake/water0_gloss
 	roughness 0.00
-	parallax 2.00
+	hardness 1.00
+	specularity 2.87
+	parallax 0.00
 	shadow 0.00
-	hardness 8.0
-	specularity 0.90
-	surface "blend_33 liquid"
 	contents "water detail"
+	surface "liquid blend_33"
 	{
 		texture quake/water0
 		blend GL_SRC_ALPHA GL_ONE
 		warp 0.66 0.05
-		lighting .5
 	}
 }

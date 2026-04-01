@@ -1,3 +1,10 @@
 {
 	diffusemap quake/tech_32bord
+	normalmap quake/tech_32bord_norm
+	heightmap quake/tech_32bord_height
+	specularmap quake/tech_32bord_gloss
+	roughness 2.80
+	hardness 2.33
+	parallax 0.00
+	shadow 0.70
 }

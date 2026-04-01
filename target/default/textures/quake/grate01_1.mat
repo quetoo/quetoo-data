@@ -1,3 +1,10 @@
 {
 	diffusemap quake/grate01_1
+	normalmap quake/grate01_1_norm
+	heightmap quake/grate01_1_height
+	specularmap quake/grate01_1_gloss
+	roughness 1.53
+	hardness 2.05
+	parallax 4.21
+	shadow 8.00
 }

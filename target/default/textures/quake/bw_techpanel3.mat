@@ -1,6 +1,11 @@
 {
 	diffusemap quake/bw_techpanel3
+	normalmap quake/bw_techpanel3_norm
+	heightmap quake/bw_techpanel3_height
+	specularmap quake/bw_techpanel3_gloss
+	roughness 1.64
 	hardness 2.53
 	specularity 1.47
-	parallax 3.02
+	parallax 3.53
+	shadow 2.55
 }

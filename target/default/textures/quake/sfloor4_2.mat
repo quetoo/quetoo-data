@@ -1,7 +1,10 @@
 {
-	normalmap quake/sfloor4_1_norm
 	diffusemap quake/sfloor4_2
+	normalmap quake/sfloor4_1_norm
+	heightmap quake/sfloor4_2_height
+	specularmap quake/sfloor4_2_gloss
 	hardness 2.53
 	specularity 1.47
 	parallax 2.53
+	shadow 3.79
 }

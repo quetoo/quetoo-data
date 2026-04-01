@@ -1,10 +1,13 @@
 {
 	diffusemap quake/cop1_1
 	normalmap quake/cop1_1_norm
+	heightmap quake/cop1_1_height
 	specularmap quake/cop1_1_gloss
-	roughness 0.74
+	roughness 1.27
 	hardness 4.00
-	parallax 3.02
+	specularity 2.08
+	parallax 1.53
+	shadow 8.00
 	surface "phong"
 	footsteps metal
 }

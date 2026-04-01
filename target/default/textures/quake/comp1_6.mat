@@ -1,5 +1,13 @@
 {
 	diffusemap quake/comp1_6
+	normalmap quake/comp1_6_norm
+	heightmap quake/comp1_6_height
+	specularmap quake/comp1_6_gloss
+	roughness 1.86
+	hardness 2.78
+	specularity 1.72
+	parallax 3.00
+	shadow 6.00
 	{
 		texture quake/comp1_6_luma
 		blend GL_SRC_ALPHA GL_ONE

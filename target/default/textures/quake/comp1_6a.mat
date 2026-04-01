@@ -1,6 +1,11 @@
 {
 	diffusemap quake/comp1_6a
-	hardness 2.53
-	specularity 1.47
-	parallax 3.02
+	normalmap quake/comp1_6a_norm
+	heightmap quake/comp1_6a_height
+	specularmap quake/comp1_6a_gloss
+	roughness 1.71
+	hardness 8.00
+	specularity 1.05
+	parallax 4.67
+	shadow 4.70
 }

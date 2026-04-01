@@ -1,3 +1,10 @@
 {
 	diffusemap quake/adoor03_6
+	normalmap quake/adoor03_6_norm
+	heightmap quake/adoor03_6_height
+	specularmap quake/adoor03_6_gloss
+	roughness 1.87
+	hardness 1.46
+	parallax 1.83
+	shadow 6.69
 }

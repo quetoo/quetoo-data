@@ -1,11 +1,12 @@
 {
 	diffusemap quake/tech04_9
 	normalmap quake/tech04_9_norm
+	heightmap quake/tech04_9_height
 	specularmap quake/tech04_9_gloss
 	roughness 2.00
 	hardness 2.00
 	specularity 1.25
 	parallax 3.02
-	shadow 1.25
+	shadow 2.45
 	footsteps metal
 }

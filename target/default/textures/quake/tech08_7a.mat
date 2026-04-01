@@ -1,3 +1,10 @@
 {
 	diffusemap quake/tech08_7a
+	normalmap quake/tech08_7a_norm
+	heightmap quake/tech08_7a_height
+	specularmap quake/tech08_7a_gloss
+	roughness 2.45
+	hardness 2.31
+	parallax 2.96
+	shadow 7.00
 }

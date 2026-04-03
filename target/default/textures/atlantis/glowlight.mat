@@ -1,5 +1,5 @@
 {
-	material atlantis/glowlight
+	diffusemap atlantis/glowlight
 	normalmap atlantis/glowlight_nm	
 	contents "detail"
 	{

@@ -1,5 +1,5 @@
 {
-	material atlantis/light04
+	diffusemap atlantis/light04
 	normalmap atlantis/light04_nm
 	{
 		texture atlantis/light04_glow

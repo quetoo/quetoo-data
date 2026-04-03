@@ -1,5 +1,5 @@
 {
-	material armor/combat/skin
+	diffusemap armor/combat/skin
 	roughness 4.81633
 	hardness 4
 	specularity 2

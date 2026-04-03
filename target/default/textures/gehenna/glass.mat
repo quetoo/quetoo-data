@@ -1,5 +1,5 @@
 {
-	material gehenna/glass
+	diffusemap gehenna/glass
 	hardness 6.5
 	specularity 1.75
 	surface "blend_33"

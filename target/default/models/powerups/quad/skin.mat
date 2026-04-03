@@ -1,5 +1,5 @@
 {
-	material powerups/quad/skin
+	diffusemap powerups/quad/skin
 	roughness 5.30612
 	hardness 6.36735
 	specularity 1.71429

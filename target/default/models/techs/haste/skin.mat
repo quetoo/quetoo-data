@@ -1,5 +1,5 @@
 {
-	material techs/haste/skin
+	diffusemap techs/haste/skin
 	roughness 3.18367
 	hardness 3
 	specularity 2.61224

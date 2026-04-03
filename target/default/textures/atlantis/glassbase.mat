@@ -1,5 +1,5 @@
 {
-	material atlantis/glassbase
+	diffusemap atlantis/glassbase
 	normalmap atlantis/glassbase_nm
 	parallax 0
 	surface "blend_66"

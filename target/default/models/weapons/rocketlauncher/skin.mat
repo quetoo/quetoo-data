@@ -1,5 +1,5 @@
 {
-	material weapons/rocketlauncher/skin
+	diffusemap weapons/rocketlauncher/skin
 	roughness 6.44898
 	hardness 2.20408
 	specularity 1.55102

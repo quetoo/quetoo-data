@@ -1,5 +1,5 @@
 {
-	material atlantis/metalbase05b
+	diffusemap atlantis/metalbase05b
 	hardness 3
 	specularity 2
 	parallax 0

@@ -1,5 +1,5 @@
 {
-	material base1/base1_m01f01
+	diffusemap base1/base1_m01f01
 	normalmap base1/base1_m01f01_nm
 	bump 0.3
 	hardness 3
@@ -7,7 +7,7 @@
 	parallax 0.075
 }
 {
-	material base1/base1_m01f02
+	diffusemap base1/base1_m01f02
 	normalmap base1/base1_m01f02_nm
 	bump 0.5
 	hardness 3
@@ -15,7 +15,7 @@
 	parallax 0.35
 }
 {
-	material base1/base1_m01f03
+	diffusemap base1/base1_m01f03
 	normalmap base1/base1_m01f03_nm
 	bump 0.17
 	hardness 2.5
@@ -23,7 +23,7 @@
 	parallax 0.35
 }
 {
-	material base1/base1_m01g01
+	diffusemap base1/base1_m01g01
 	normalmap base1/base1_m01g01_nm
 	bump 1
 	hardness 3
@@ -31,7 +31,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01t01
+	diffusemap base1/base1_m01t01
 	normalmap base1/base1_m01t01_nm
 	bump 0.8
 	hardness 3
@@ -39,7 +39,7 @@
 	parallax 1
 }
 {
-	material base1/base1_m01t02
+	diffusemap base1/base1_m01t02
 	normalmap base1/base1_m01t02_nm
 	bump 1
 	hardness 3
@@ -47,7 +47,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01t03
+	diffusemap base1/base1_m01t03
 	normalmap base1/base1_m01t03_nm
 	bump 0.5
 	hardness 3
@@ -55,7 +55,7 @@
 	parallax 0.35
 }
 {
-	material base1/base1_m01t04
+	diffusemap base1/base1_m01t04
 	normalmap base1/base1_m01t04_nm
 	bump 1
 	hardness 3
@@ -63,7 +63,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01t05
+	diffusemap base1/base1_m01t05
 	normalmap base1/base1_m01t05_nm
 	bump 1
 	hardness 3
@@ -71,7 +71,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01w01
+	diffusemap base1/base1_m01w01
 	normalmap base1/base1_m01w01_nm
 	bump 1
 	hardness 3
@@ -79,7 +79,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01w02
+	diffusemap base1/base1_m01w02
 	normalmap base1/base1_m01w01_nm
 	bump 1
 	hardness 3
@@ -87,7 +87,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01w03
+	diffusemap base1/base1_m01w03
 	normalmap base1/base1_m01w03_nm
 	bump 1
 	hardness 3
@@ -95,7 +95,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01w04
+	diffusemap base1/base1_m01w04
 	normalmap base1/base1_m01w04_nm
 	bump 1
 	hardness 3
@@ -103,7 +103,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01w05
+	diffusemap base1/base1_m01w05
 	normalmap base1/base1_m01w05_nm
 	bump 1
 	hardness 3
@@ -111,7 +111,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01w06
+	diffusemap base1/base1_m01w06
 	normalmap base1/base1_m01w06_nm
 	bump 1
 	hardness 3
@@ -119,7 +119,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01w07
+	diffusemap base1/base1_m01w07
 	normalmap base1/base1_m01w07_nm
 	bump 1
 	hardness 3
@@ -127,7 +127,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01w10
+	diffusemap base1/base1_m01w10
 	normalmap base1/base1_m01w10_nm
 	bump 1
 	hardness 3
@@ -135,7 +135,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01w11
+	diffusemap base1/base1_m01w11
 	normalmap base1/base1_m01w11_nm
 	bump 1
 	hardness 3
@@ -143,7 +143,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01w12
+	diffusemap base1/base1_m01w12
 	normalmap base1/base1_m01w12_nm
 	bump 1
 	hardness 3
@@ -151,7 +151,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01w20
+	diffusemap base1/base1_m01w20
 	normalmap base1/base1_m01w20_nm
 	bump 1
 	hardness 3
@@ -159,7 +159,7 @@
 	parallax 0.7
 }
 {
-	material base1/base1_m01w30
+	diffusemap base1/base1_m01w30
 	normalmap base1/base1_m01w30_nm
 	bump 0.5
 	hardness 3
@@ -167,7 +167,7 @@
 	parallax 0.25
 }
 {
-	material base1/base1_m01x01
+	diffusemap base1/base1_m01x01
 	normalmap base1/base1_m01x01_nm
 	bump 0.5
 	hardness 5
@@ -175,7 +175,7 @@
 	parallax 0.5
 }
 {
-	material base1/base1_m01x02
+	diffusemap base1/base1_m01x02
 	normalmap base1/base1_m01x02_nm
 	bump 0.7
 	hardness 3.25
@@ -183,7 +183,7 @@
 	parallax 0.5
 }
 {
-	material base1/base1_m01x03
+	diffusemap base1/base1_m01x03
 	normalmap base1/base1_m01x03_nm
 	bump 0.6
 	hardness 3.5
@@ -191,7 +191,7 @@
 	parallax 0
 }
 {
-	material base1/base1_r01_f01
+	diffusemap base1/base1_r01_f01
 	normalmap base1/base1_r01_f01_nm
 	bump 1
 	hardness 2
@@ -199,7 +199,7 @@
 	parallax 1
 }
 {
-	material base1/base1_r01_f02
+	diffusemap base1/base1_r01_f02
 	normalmap base1/base1_r01_f02_nm
 	bump 1
 	hardness 2.5
@@ -207,28 +207,28 @@
 	parallax 0.25
 }
 {
-	material common/caulk
+	diffusemap common/caulk
 	bump 1
 	hardness 1
 	specular 1
 	parallax 1
 }
 {
-	material common/clip
+	diffusemap common/clip
 	bump 1
 	hardness 1
 	specular 1
 	parallax 1
 }
 {
-	material common/sky
+	diffusemap common/sky
 	bump 1
 	hardness 1
 	specular 1
 	parallax 1
 }
 {
-	material fire/horizontal01
+	diffusemap fire/horizontal01
 	bump 1
 	hardness 1
 	specular 1
@@ -240,7 +240,7 @@
 	}
 }
 {
-	material fire/radial
+	diffusemap fire/radial
 	bump 1
 	hardness 1
 	specular 1

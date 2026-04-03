@@ -1,5 +1,5 @@
 {
-	material atlantis/light03
+	diffusemap atlantis/light03
 	normalmap atlantis/light03_nm
 	
 	{

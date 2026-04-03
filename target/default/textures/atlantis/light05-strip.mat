@@ -1,5 +1,5 @@
 {
-	material atlantis/light05-strip
+	diffusemap atlantis/light05-strip
 	normalmap atlantis/light05-strip_nm
 	parallax 2
 	{

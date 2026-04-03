@@ -1,5 +1,5 @@
 {
-	material grenade/skin
+	diffusemap grenade/skin
 	roughness 4.0
 	hardness 1.5
 	specularity 2.0

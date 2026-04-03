@@ -1,5 +1,5 @@
 {
-	material gehenna/pipefix
+	diffusemap gehenna/pipefix
 	roughness 0.5
 	hardness 3.8
 	specularity 3

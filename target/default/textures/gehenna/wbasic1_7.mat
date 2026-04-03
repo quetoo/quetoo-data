@@ -1,5 +1,5 @@
 {
-	material gehenna/wbasic1_7
+	diffusemap gehenna/wbasic1_7
 	roughness 0.8
 	hardness 1.5
 	specularity 1.5

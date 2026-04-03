@@ -1,5 +1,5 @@
 {
-	material gehenna/light4
+	diffusemap gehenna/light4
 	roughness 1.06122
 	hardness 2.5
 	specularity 2.36735.87755

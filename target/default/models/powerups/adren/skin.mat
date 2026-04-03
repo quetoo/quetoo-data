@@ -1,5 +1,5 @@
 {
-	material powerups/adren/skin
+	diffusemap powerups/adren/skin
 	roughness 3.59184
 	hardness 5.38775
 	specularity 2.04082

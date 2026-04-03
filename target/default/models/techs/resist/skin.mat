@@ -1,5 +1,5 @@
 {
-	material techs/resist/skin
+	diffusemap techs/resist/skin
 	roughness 3.18367
 	hardness 3
 	specularity 2.61224

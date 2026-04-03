@@ -1,5 +1,5 @@
 {
-	material techs/regen/skin
+	diffusemap techs/regen/skin
 	roughness 3.18367
 	hardness 3
 	specularity 2.61224

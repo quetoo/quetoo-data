@@ -1,5 +1,5 @@
 {
-	material techs/strength/skin
+	diffusemap techs/strength/skin
 	roughness 3.18367
 	hardness 3
 	specularity 2.61224

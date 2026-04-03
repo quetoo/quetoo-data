@@ -1,5 +1,5 @@
 {
-	material gehenna/clangfloor_01b_d
+	diffusemap gehenna/clangfloor_01b_d
 	roughness 2.20408
 	hardness 3.18367
 	specularity 1.95918

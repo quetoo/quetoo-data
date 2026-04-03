@@ -1,5 +1,5 @@
 {
-	material weapons/blaster/skin
+	diffusemap weapons/blaster/skin
 	roughness 4.61225
 	hardness 2.69388
 	specularity 1.46939

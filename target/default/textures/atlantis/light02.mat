@@ -1,5 +1,5 @@
 {
-	material atlantis/light02
+	diffusemap atlantis/light02
 	normalmap atlantis/light02_nm2
 	
 	parallax 1.75

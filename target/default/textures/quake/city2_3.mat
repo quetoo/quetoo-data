@@ -1,9 +1,10 @@
 {
 	diffusemap quake/city2_3
 	normalmap quake/city2_1_norm
+	heightmap quake/city2_3_height
 	specularmap quake/city2_3_gloss
 	roughness 0.85
-	hardness 2.00
+	hardness 1.28
 	parallax 4.00
 	shadow 8.00
 }

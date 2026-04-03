@@ -1,12 +1,13 @@
 {
 	diffusemap quake/light3_8
 	normalmap quake/light3_8_norm
+	heightmap quake/light3_8_height
 	specularmap quake/light3_8_gloss
-	hardness 1.50
+	hardness 4.92
 	parallax 4.00
 	{
-		scale.s .50
-		scale.t .50
+		scale.s 0.500
+		scale.t 0.500
 		flare flare_1
 	}
 	{

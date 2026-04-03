@@ -1,7 +1,12 @@
 {
 	diffusemap turbo/fmetal4base
-	roughness 2
-	hardness 3
-	parallax 1.25 
+	normalmap turbo/fmetal4base_nm
+	heightmap turbo/fmetal4base_height
+	specularmap turbo/fmetal4base_gloss
+	roughness 1.82
+	hardness 8.00
+	specularity 0.59
+	parallax 0.00
+	shadow 0.00
 	surface "phong"
 }

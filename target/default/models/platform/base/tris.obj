@@ -1492,7 +1492,7 @@ vn 0.2576 -0.9018 -0.3471
 vn -0.7303 -0.5752 -0.3685
 vn -0.8075 -0.5752 -0.1311
 s 1
-usemtl objects/platform/base/skin
+usemtl platform/base/skin
 f 1/1/1 2/2/2 3/3/3
 f 4/4/4 5/5/5 6/6/6
 f 7/7/7 8/8/8 9/9/9

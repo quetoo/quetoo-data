@@ -1,0 +1,7 @@
+{
+	diffusemap players/qforcer/default_v
+	surface blend_33
+	roughness 0
+	hardness 3
+	specularity 4
+}

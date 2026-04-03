@@ -1,0 +1,6 @@
+{
+	diffusemap players/dragoon/eye_alpha
+	surface "blend_100"
+	hardness 8
+	specularity 3
+}

@@ -1,0 +1,5 @@
+{
+	diffusemap players/guard/default
+	tintmap.tint_r_default 0.85 0.39 0.29
+	tintmap.tint_g_default 0.85 0.39 0.29
+}

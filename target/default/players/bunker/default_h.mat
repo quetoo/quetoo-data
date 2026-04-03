@@ -1,0 +1,8 @@
+{
+	diffusemap players/bunker/default_h
+	{
+		texture players/bunker/rustee_fx
+		blend GL_ONE GL_ONE
+		pulse .5
+	}
+}

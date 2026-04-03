@@ -1,0 +1,6 @@
+{
+	diffusemap players/guard/default_v
+	surface blend_33
+	hardness 3
+	specularity 4
+}

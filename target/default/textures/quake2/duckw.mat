@@ -1,19 +1,20 @@
 {
 	diffusemap quake2/duckw
-	roughness 0.34
-	hardness 8.00
-	specularity 0.90
-	parallax 1.12
+	roughness 0.5
+	hardness 4
+	specularity 1
+	parallax 1
 	shadow 0.00
-	contents "water detail"
-	surface "blend_66"
+	contents "water"
+	surface "blend_100"
 	{
-		texture common/decals/leaves
+		texture quake2/duckw
 		blend GL_SRC_ALPHA GL_ONE
-		color 1.00 0.80 0.75 1.00
-		scroll.t 0.002
+		color 1.00 1.00 1.00 0.15
+		lighting 1
+		scroll.s 0.002
 		scale.s 1.000
 		scale.t 1.000
-		warp 0.12 0.12
+		warp 0.25 0.25
 	}
 }

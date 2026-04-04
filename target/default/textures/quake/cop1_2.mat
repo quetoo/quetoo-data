@@ -4,7 +4,7 @@
 	heightmap quake/cop1_2_height
 	specularmap quake/cop1_1_gloss
 	roughness 1.50
-	hardness 4.00
+	hardness 2.46
 	parallax 3.02
 	shadow 8.00
 	surface "phong"

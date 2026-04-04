@@ -1,0 +1,10 @@
+{
+	diffusemap quake/techlight_01
+	normalmap quake/techlight_01_norm
+	heightmap quake/techlight_01_height
+	specularmap quake/techlight_01_gloss
+	roughness 1.26
+	hardness 1.96
+	parallax 2.51
+	shadow 2.54
+}

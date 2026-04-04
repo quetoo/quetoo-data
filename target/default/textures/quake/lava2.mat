@@ -1,16 +1,16 @@
 {
-	diffusemap quake/lava1
-	normalmap quake/lava1_norm
-	specularmap quake/lava1_gloss
+	diffusemap quake/lava2
+	normalmap quake/lava2_norm
+	specularmap quake/lava2_gloss
 	roughness 0.00
 	hardness 0.00
 	specularity 0.00
 	parallax 0.00
 	shadow 0.00
-	contents "lava mist detail"
+	contents "lava"
 	surface "liquid"
 	{
-		texture quake/lava1_glow
+		texture quake/lava2_glow
 		blend GL_SRC_ALPHA GL_ONE
 		scroll.s 0.014
 		scroll.t -0.018
@@ -19,7 +19,7 @@
 		warp 0.38 0.38
 	}
 	{
-		texture quake/lava1_luma
+		texture quake/lava2_luma
 		blend GL_SRC_ALPHA GL_ONE
 		color 1 1 1 0.85
 		scroll.s 0.014

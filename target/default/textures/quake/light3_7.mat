@@ -1,11 +1,16 @@
 {
 	diffusemap quake/light3_7
+	normalmap quake/light3_7_norm
+	heightmap quake/light3_7_height
+	specularmap quake/light3_7_gloss
+	roughness 1.16
 	hardness 3.65
 	specularity 1.66
+	parallax 2.48
 	shadow 2.83
 	{
-		scale.s .50
-		scale.t .50
+		scale.s 0.500
+		scale.t 0.500
 		flare flare_0
 	}
 	{

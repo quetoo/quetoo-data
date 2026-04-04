@@ -1,3 +1,10 @@
 {
 	diffusemap quake/cop1_7
+	normalmap quake/cop1_7_norm
+	heightmap quake/cop1_7_height
+	specularmap quake/cop1_7_gloss
+	roughness 1.49
+	hardness 2.12
+	parallax 2.53
+	shadow 3.32
 }

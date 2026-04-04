@@ -1,5 +1,11 @@
 {
 	diffusemap quake/metal6_1
-	parallax 3.00
-	shadow 0.00
+	normalmap quake/metal6_1_norm
+	heightmap quake/metal6_1_height
+	specularmap quake/metal6_1_gloss
+	roughness 1.99
+	hardness 2.70
+	specularity 1.33
+	parallax 3.47
+	shadow 8.00
 }

@@ -1,3 +1,8 @@
 {
 	diffusemap quake/metal1_3
+	normalmap quake/metal1_3_bump
+	heightmap quake/metal1_3_height
+	specularmap quake/metal1_3_gloss
+	roughness 1.39
+	hardness 3.63
 }

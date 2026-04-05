@@ -1,8 +1,11 @@
 {
 	diffusemap quake2/metal2_1
+	normalmap quake2/metal2_1_nm
+	heightmap quake2/metal2_1_height
+	specularmap quake2/metal2_1_gloss
 	roughness 1.70
-	hardness 1.20
-	specularity 1.70
+	hardness 1.77
+	specularity 1.43
 	parallax 2.60
 	shadow 7.96
 }

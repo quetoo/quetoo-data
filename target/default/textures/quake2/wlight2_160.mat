@@ -1,0 +1,16 @@
+{
+	diffusemap quake2/wlight2_160
+	normalmap quake2/wlight1_160_nm
+	roughness 1.48
+	hardness 2.87
+	parallax 2.00
+	shadow 2.73
+	{
+		texture quake2/wlight2_160fx
+		pulse 40
+	}
+	{
+		flare flare_2
+		color .33 .33 .33
+	}
+}

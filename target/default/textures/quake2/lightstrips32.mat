@@ -1,13 +1,16 @@
 {
 	diffusemap quake2/lightstrips32
 	normalmap quake2/lightstrips32_nm
+	heightmap quake2/lightstrips32_height
+	specularmap quake2/lightstrips32_gloss
 	roughness 2.00
-	hardness 1.50
+	hardness 4.81
 	specularity 1.30
 	parallax 1.75
-	shadow 0.00
+	shadow 1.49
 	{
 		texture quake2/lightstrips32_glow
 		blend GL_SRC_ALPHA GL_ONE
+		scroll.t 1.5
 	}
 }

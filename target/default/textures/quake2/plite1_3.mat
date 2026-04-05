@@ -1,0 +1,17 @@
+{
+	diffusemap quake2/plite1_3
+	normalmap quake2/plite1_3_nm
+	heightmap quake2/plite1_3_height
+	specularmap quake2/plite1_3_gloss
+	roughness 1.84
+	hardness 1.87
+	parallax 2.00
+	shadow 0.57
+	{
+		texture quake2/plite1_3glow
+	}
+	{
+		flare flare_1
+		color .33 .33 .33
+	}
+}

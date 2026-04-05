@@ -46,7 +46,7 @@ compact:
 	git remote set-url --push origin git@github.com:jdolan/quetoo-data.git
 	git remote set-url --push --add origin git@github.com:quetoo/quetoo-data.git
 	git add -A
-	git commit -m "Re-add binary assets after history compaction"
+	git diff-index --quiet HEAD || git commit -m "Re-add binary assets after history compaction"
 	@echo "=== After ==="
 	@du -sh .git
 	@echo

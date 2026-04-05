@@ -1,8 +1,11 @@
 {
 	diffusemap quake2/water2
+	normalmap quake2/water2_bump
+	heightmap quake2/water2_height
+	specularmap quake2/water2_gloss
 	roughness 0.00
-	hardness 0.00
-	specularity 8.00
+	hardness 1.65
+	specularity 0.62
 	parallax 0.00
 	shadow 0.00
 	surface "blend_33"

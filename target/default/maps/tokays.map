@@ -1,9 +1,9 @@
 // Game: Quetoo
-// Format: Quake2
+// Format: Quake3
 // entity 0
 {
 "classname" "worldspawn"
-"ambient" "0.33"
+"ambient" "1"
 "message" "Tokay`s Towers"
 "model" "*0"
 "sky" "acheron"
@@ -11818,9 +11818,9 @@
 // entity 81
 {
 "classname" "misc_sound"
+"atten" "1"
 "origin" "640 320 1152"
 "sound" "ambient/thunder_2"
-"atten" "1"
 }
 // entity 82
 {
@@ -11932,10 +11932,9 @@
 // entity 86
 {
 "classname" "light"
-"origin" "584 0 8"
-"team" "small_cyan"
 "color" "0 1 0.85"
 "intensity" "3"
+"origin" "584 0 8"
 "radius" "150"
 "team" "small_cyan"
 "team_master" "a"
@@ -12003,10 +12002,9 @@
 // entity 97
 {
 "classname" "light"
-"origin" "640 320 1272"
-"team" "sky"
 "color" "0.9 0.75 0.45"
 "intensity" ".85"
+"origin" "640 320 1272"
 "radius" "3062"
 "team" "sky"
 "team_master" "a"
@@ -12337,7 +12335,7 @@
 // entity 131
 {
 "classname" "misc_fog"
-"density" "0.001"
+"density" "0.125"
 "_tb_layer" "1"
 // brush 0
 {
@@ -12356,7 +12354,7 @@
 // entity 132
 {
 "classname" "misc_fog"
-"density" "0.001"
+"density" "0.125"
 "_tb_layer" "1"
 // brush 0
 {
@@ -12371,7 +12369,7 @@
 // entity 133
 {
 "classname" "misc_fog"
-"density" "0.001"
+"density" "0.125"
 "_tb_layer" "1"
 // brush 0
 {
@@ -12394,7 +12392,7 @@
 // entity 134
 {
 "classname" "misc_fog"
-"density" "0.001"
+"density" "0.125"
 "_tb_layer" "1"
 // brush 0
 {
@@ -14522,9 +14520,9 @@
 // entity 203
 {
 "classname" "light"
-"origin" "640 -696 280"
 "color" "1 0.75 0.25"
 "intensity" "2"
+"origin" "640 -696 280"
 "radius" "180"
 "team" "strip_yellow"
 "team_master" "1"
@@ -14645,12 +14643,12 @@
 // entity 220
 {
 "classname" "light"
-"origin" "1408 256 757"
-"team" "small_creme"
-"team_master" "1"
 "color" "0.9 0.8 0.4"
 "intensity" "2.5"
+"origin" "1408 256 757"
 "radius" "300"
+"team" "small_creme"
+"team_master" "1"
 "_tb_layer" "6"
 }
 // entity 221

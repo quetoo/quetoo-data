@@ -1,10 +1,12 @@
 {
 	diffusemap quake2/troof4_5
 	normalmap quake2/troof4_2_nm
+	heightmap quake2/troof4_5_height
+	specularmap quake2/troof4_5_gloss
 	roughness 3.50
 	hardness 3.00
 	specularity 1.80
-	parallax 2.86
-	shadow 1.94
+	parallax 2.51
+	shadow 2.97
 	footsteps metal
 }

@@ -1,6 +1,11 @@
 {
 	diffusemap catfight/ubase_pan2
-	hardness 1.5
-	specularity 1.5
+	normalmap catfight/ubase_pan2_nm
+	heightmap catfight/ubase_pan2_height
+	specularmap catfight/ubase_pan2_gloss
+	roughness 1.96
+	hardness 2.01
+	specularity 1.50
 	parallax 2.25
+	shadow 5.75
 }

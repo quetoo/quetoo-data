@@ -1,9 +1,12 @@
 {
 	diffusemap catfight/u_floor
-	roughness 1.25
-	hardness 1.5
-	specularity 2
-	parallax 1.25
-	shadow 0
+	normalmap catfight/u_floor_nm
+	heightmap catfight/u_floor_height
+	specularmap catfight/u_floor_gloss
+	roughness 0.22
+	hardness 0.11
+	specularity 1.31
+	parallax 1.27
+	shadow 1.25
 	footsteps metal2
 }

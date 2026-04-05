@@ -1,7 +1,11 @@
 {
 	diffusemap catfight/e8cretefloor01b
-	hardness 1.5
-	specularity 1.5
-	parallax 1.75
-	shadow 0.75
+	normalmap catfight/e8cretefloor01b_nm
+	heightmap catfight/e8cretefloor01b_height
+	specularmap catfight/e8cretefloor01b_gloss
+	roughness 0.84
+	hardness 0.76
+	specularity 2.96
+	parallax 2.45
+	shadow 1.98
 }

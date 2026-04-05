@@ -1,7 +1,11 @@
 {
 	diffusemap catfight/u_pan_6
-	hardness 1.5
-	specularity 1.5
+	normalmap catfight/u_pan_6_nm
+	heightmap catfight/u_pan_6_height
+	specularmap catfight/u_pan_6_gloss
+	roughness 1.49
+	hardness 1.99
+	specularity 1.50
 	parallax 2.25
-	shadow 0
+	shadow 8.00
 }

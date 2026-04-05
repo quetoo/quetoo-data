@@ -1,11 +1,15 @@
 {
 	diffusemap evil/e6v_light
 	normalmap evil/e6v_light_nm
-	shadow 0
+	heightmap evil/e6v_light_height
+	specularmap evil/e6v_light_gloss
+	roughness 0.99
+	shadow 0.00
 	{
-		scale.s 1.25
-		scale.t 1.25
+		scale.s 1.250
+		scale.t 1.250
 		flare flare_1
+		fog 0.00
 	}
 	{
 		texture evil/e6v_light_blend

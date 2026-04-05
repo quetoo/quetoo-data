@@ -1,9 +1,13 @@
 {
 	diffusemap evil/e6tekmtlrflr
+	normalmap evil/e6tekmtlrflr_bump
 	heightmap evil/e6tekmtlrflr_h
-	parallax 1.55
-	hardness 3.00
-	specularity 1.25
+	specularmap evil/e6tekmtlrflr_gloss
+	roughness 0.98
+	hardness 8.00
+	specularity 0.95
+	parallax 1.04
+	shadow 0.00
 	{
 		texture evil/e6tekmtlrflr_h_glow
 		blend GL_SRC_ALPHA GL_ONE

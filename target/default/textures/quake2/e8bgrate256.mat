@@ -1,0 +1,8 @@
+{
+	diffusemap quake2/e8bgrate256
+	normalmap quake2/e8bgrate256_nm
+	heightmap quake2/e8bgrate256_height
+	specularmap quake2/e8bgrate256_gloss
+	surface "alpha_test"
+	alpha_test 0.310
+}

@@ -1,0 +1,10 @@
+{
+	diffusemap quake2/grate2_2
+	normalmap quake2/grate2_2_nm
+	heightmap quake2/grate2_2_height
+	specularmap quake2/grate2_2_gloss
+	roughness 3.50
+	hardness 1.61
+	parallax 2.52
+	shadow 6.69
+}

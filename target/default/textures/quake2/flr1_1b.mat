@@ -1,9 +1,11 @@
 {
-	diffusemap quake2/flr1_1
+	diffusemap quake2/flr1_1b
 	normalmap quake2/floor2_7_nm
-	roughness 0.71
+	heightmap quake2/flr1_1b_height
+	specularmap quake2/flr1_1b_gloss
+	roughness 1.20
 	hardness 1.02
 	specularity 0.82
-	parallax 3.02
-	shadow 3.19
+	parallax 2.96
+	shadow 0.98
 }

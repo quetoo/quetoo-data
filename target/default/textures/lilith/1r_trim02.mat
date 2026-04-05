@@ -1,0 +1,8 @@
+{
+	diffusemap lilith/1r_trim02
+	normalmap lilith/1r_trim02_nm
+	heightmap lilith/1r_trim02_height
+	specularmap lilith/1r_trim02_gloss
+	hardness 2.80
+	parallax 2.73
+}

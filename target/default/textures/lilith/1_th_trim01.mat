@@ -1,0 +1,8 @@
+{
+	material lilith/1_th_trim01
+	normalmap lilith/1_th_trim01_nm
+	bump 1.2
+	hardness 2.5
+	specular 1.5
+	parallax 0.7
+}

@@ -1,0 +1,8 @@
+{
+	diffusemap lilith/1r_metwl02
+	normalmap lilith/1r_metwl02_nm
+	heightmap lilith/1r_metwl02_height
+	specularmap lilith/1r_metwl02_gloss
+	hardness 3.50
+	parallax 2.54
+}

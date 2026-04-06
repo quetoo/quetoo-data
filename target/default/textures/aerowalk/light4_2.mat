@@ -6,5 +6,10 @@
 	shadow 1.23
 	{
 		texture common/fx/padbase/padfx
+		blend GL_SRC_ALPHA GL_ONE
+	}
+	{
+		flare flare_1
+		color .3 .3 .3
 	}
 }

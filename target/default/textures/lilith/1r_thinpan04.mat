@@ -1,8 +1,6 @@
 {
 	diffusemap lilith/1r_thinpan04
 	normalmap lilith/1r_thinpan03_nm
-	heightmap lilith/1r_thinpan04_height
-	specularmap lilith/1r_thinpan04_gloss
 	roughness 2.50
 	hardness 2.50
 	parallax 2.00

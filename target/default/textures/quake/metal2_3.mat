@@ -1,8 +1,5 @@
 {
 	diffusemap quake/metal2_3
-	normalmap quake/metal2_3_norm
-	heightmap quake/metal2_3_height
-	specularmap quake/metal2_3_gloss
 	roughness 2.98
 	hardness 4.35
 	specularity 2.21

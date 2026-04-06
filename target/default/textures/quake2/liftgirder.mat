@@ -1,8 +1,5 @@
 {
 	diffusemap quake2/liftgirder
-	normalmap quake2/liftgirder_nm
-	heightmap quake2/liftgirder_height
-	specularmap quake2/liftgirder_gloss
 	roughness 1.47
 	hardness 1.59
 	specularity 1.36

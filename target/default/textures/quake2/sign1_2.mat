@@ -1,8 +1,5 @@
 {
 	diffusemap quake2/sign1_2
-	normalmap quake2/sign1_2_nm
-	heightmap quake2/sign1_2_height
-	specularmap quake2/sign1_2_gloss
 	roughness 1.66
 	hardness 1.77
 	specularity 1.43

@@ -1,8 +1,5 @@
 {
 	diffusemap quake2/metal3_6b
-	normalmap quake2/metal3_6b_nm
-	heightmap quake2/metal3_6b_height
-	specularmap quake2/metal3_6b_gloss
 	roughness 1.45
 	parallax 1.59
 	shadow 2.65

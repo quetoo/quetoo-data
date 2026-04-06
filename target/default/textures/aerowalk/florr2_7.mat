@@ -1,8 +1,5 @@
 {
 	diffusemap aerowalk/florr2_7
-	normalmap aerowalk/florr2_7_nm
-	heightmap aerowalk/florr2_7_height
-	specularmap aerowalk/florr2_7_gloss
 	roughness 3.00
 	hardness 2.58
 	specularity 1.22

@@ -1,8 +1,5 @@
 {
 	diffusemap lilith/1r_metpan01
-	normalmap lilith/1r_metpan01_nm
-	heightmap lilith/1r_metpan01_height
-	specularmap lilith/1r_metpan01_gloss
 	hardness 2.00
 	parallax 2.27
 }

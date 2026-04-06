@@ -1,7 +1,5 @@
 {
 	diffusemap quake/metalt2_1
-	normalmap quake/metalt2_1_norm
-	specularmap quake/metalt2_1_gloss
 	roughness 2.00
 	hardness 3.00
 	specularity 2.00

@@ -1,6 +1,5 @@
 {
 	diffusemap aerowalk/core1_1
-	normalmap aerowalk/core1_1_nm
 	parallax 0.25
 	shadow 0
 	{

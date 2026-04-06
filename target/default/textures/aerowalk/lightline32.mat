@@ -1,6 +1,5 @@
 {
 	diffusemap aerowalk/lightline32
-	normalmap aerowalk/lightline32_nm
 	parallax 2
 	shadow 0
 	{

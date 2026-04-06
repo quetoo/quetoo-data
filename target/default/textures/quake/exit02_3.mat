@@ -1,7 +1,5 @@
 {
 	diffusemap quake/exit02_3
-	normalmap quake/exit02_03_norm
-	specularmap quake/exit02_03_gloss
 	roughness 2.00
 	hardness 2.00
 	specularity 1.25

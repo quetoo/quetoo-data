@@ -1,8 +1,5 @@
 {
 	diffusemap quake2/prwlt1_4
-	normalmap quake2/prwlt1_4_nm
-	heightmap quake2/prwlt1_4_height
-	specularmap quake2/prwlt1_4_gloss
 	roughness 1.47
 	parallax 0.99
 	shadow 1.03

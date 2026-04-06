@@ -1,7 +1,5 @@
 {
     diffusemap pk01/pk01_panel02a_d
-    normalmap pk01/pk01_panel02a_n
-    specularmap pk01/pk01_panel02a_s
     {
         texture pk01/pk01_panel02a_glow
         blend GL_SRC_ALPHA GL_ONE

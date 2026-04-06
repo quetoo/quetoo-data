@@ -1,6 +1,5 @@
 {
 	diffusemap omf/wlight1
-	normalmap omf/wlight1_nm
 	roughness 1.50
 	hardness 2.00
 	specularity 1.70

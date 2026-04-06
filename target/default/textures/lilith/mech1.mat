@@ -1,7 +1,4 @@
 {
 	diffusemap lilith/mech1_d
-	normalmap lilith/mech1_bump
-	heightmap lilith/mech1_height
-	specularmap lilith/mech1_gloss
 	parallax 2.04
 }

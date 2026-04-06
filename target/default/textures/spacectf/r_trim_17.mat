@@ -1,8 +1,5 @@
 {
 	diffusemap spacectf/r_trim_17
-	normalmap spacectf/r_trim_17_nm
-	heightmap spacectf/r_trim_17_height
-	specularmap spacectf/r_trim_17_gloss
 	roughness 0.99
 	hardness 2.17
 	parallax 2.25

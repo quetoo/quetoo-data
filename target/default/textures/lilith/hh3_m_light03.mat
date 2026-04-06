@@ -1,8 +1,5 @@
 {
 	diffusemap lilith/hh3_m_light03
-	normalmap lilith/hh3_m_light03_nm
-	heightmap lilith/hh3_m_light03_height
-	specularmap lilith/hh3_m_light03_gloss
 	hardness 2.00
 	parallax 1.96
 	{

@@ -1,8 +1,5 @@
 {
 	diffusemap evil/e8xgirder
-	normalmap evil/e8xgirder_bump
-	heightmap evil/e8xgirder_height
-	specularmap evil/e8xgirder_gloss
 	roughness 1.50
 	hardness 0.50
 	specularity 1.30

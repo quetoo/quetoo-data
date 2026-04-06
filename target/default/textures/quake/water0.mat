@@ -1,8 +1,5 @@
 {
 	diffusemap quake/water0
-	normalmap quake/water0_bump
-	heightmap quake/water0_height
-	specularmap quake/water0_gloss
 	roughness 0.00
 	hardness 6.00
 	specularity 2.00

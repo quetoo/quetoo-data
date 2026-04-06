@@ -1,6 +1,5 @@
 {
 	diffusemap atlantis/light12
-	normalmap atlantis/light12_nm
 	hardness 2
 	specularity 2
 	parallax 1.5

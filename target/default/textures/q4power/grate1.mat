@@ -1,6 +1,3 @@
 {
 	diffusemap q4power/grate1_d
-	normalmap q4power/grate1_local
-	heightmap q4power/grate1_h
-	specularmap q4power/grate1_s
 }

@@ -1,7 +1,5 @@
 {
 	diffusemap quake/metal9_2
-	normalmap quake/metal9_2_norm
-	specularmap quake/metal9_2_gloss
 	parallax 2.50
 	shadow 0.00
 	{

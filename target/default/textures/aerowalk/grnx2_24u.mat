@@ -1,8 +1,5 @@
 {
 	diffusemap aerowalk/grnx2_24u
-	normalmap aerowalk/grnx2_24u_nm
-	heightmap aerowalk/grnx2_24u_height
-	specularmap aerowalk/grnx2_24u_gloss
 	roughness 1.49
 	hardness 4.98
 	specularity 3.00

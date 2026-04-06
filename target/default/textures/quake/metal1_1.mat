@@ -1,7 +1,5 @@
 {
 	diffusemap quake/metal1_1
-	normalmap quake/metal1_1_norm
-	specularmap quake/metal1_1_gloss
 	hardness 2.04
 	specularity 1.22
 	parallax 1.96

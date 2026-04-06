@@ -1,8 +1,6 @@
 {
 	diffusemap quake/mmetal1_3
 	normalmap quake/metal4_6_norm
-	heightmap quake/mmetal1_3_height
-	specularmap quake/mmetal1_3_gloss
 	roughness 1.24
 	hardness 0.98
 	parallax 3.08

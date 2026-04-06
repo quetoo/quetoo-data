@@ -1,8 +1,5 @@
 {
 	diffusemap evil/e6tekmtlrflr
-	normalmap evil/e6tekmtlrflr_bump
-	heightmap evil/e6tekmtlrflr_h
-	specularmap evil/e6tekmtlrflr_gloss
 	roughness 0.98
 	hardness 8.00
 	specularity 0.95

@@ -1,6 +1,5 @@
 {
 	diffusemap omf/metal15_2que2
-	normalmap omf/metal15_2que2_nm
 	roughness 2.40
 	hardness 1.50
 	specularity 1.70

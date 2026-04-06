@@ -1,6 +1,5 @@
 {
 	diffusemap atlantis/light03
-	normalmap atlantis/light03_nm
 	
 	{
 		texture atlantis/light03_glow

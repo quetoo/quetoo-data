@@ -1,8 +1,5 @@
 {
 	diffusemap quake/metal5_3
-	normalmap quake/metal5_3_norm
-	heightmap quake/metal5_3_height
-	specularmap quake/metal5_3_gloss
 	roughness 1.07
 	hardness 2.57
 	specularity 1.36

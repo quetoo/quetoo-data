@@ -1,7 +1,5 @@
 {
 	diffusemap quake/metal6_3
-	normalmap quake/metal6_3_norm
-	specularmap quake/metal6_3_gloss
 	parallax 3.50
 	shadow 1.50
 	contents "detail"

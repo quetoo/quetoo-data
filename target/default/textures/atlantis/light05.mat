@@ -1,6 +1,5 @@
 {
 	diffusemap atlantis/light05
-	normalmap atlantis/light05_nm
 	parallax 2
 	{
 		texture atlantis/light05_glow

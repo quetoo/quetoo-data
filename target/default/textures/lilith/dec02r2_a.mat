@@ -1,8 +1,5 @@
 {
 	diffusemap lilith/dec02r2_a
-	normalmap lilith/dec02r2_a_nm
-	heightmap lilith/dec02r2_a_height
-	specularmap lilith/dec02r2_a_gloss
 	hardness 3.00
 	parallax 3.04
 	{

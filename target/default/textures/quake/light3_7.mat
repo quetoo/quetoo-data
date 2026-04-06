@@ -1,8 +1,5 @@
 {
 	diffusemap quake/light3_7
-	normalmap quake/light3_7_norm
-	heightmap quake/light3_7_height
-	specularmap quake/light3_7_gloss
 	roughness 1.16
 	hardness 3.65
 	specularity 1.66

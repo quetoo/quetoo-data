@@ -1,8 +1,5 @@
 {
 	diffusemap trak5/light2_d
-	normalmap trak5/light2_n
-	heightmap trak5/light2_h
-	specularmap trak5/light2_s
 	shadow 0
 	{
 		scale.s 1.25

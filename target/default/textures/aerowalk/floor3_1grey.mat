@@ -1,8 +1,5 @@
 {
 	diffusemap aerowalk/floor3_1grey
-	normalmap aerowalk/floor3_1grey_nm
-	heightmap aerowalk/floor3_1grey_height
-	specularmap aerowalk/floor3_1grey_gloss
 	roughness 1.97
 	hardness 1.29
 	parallax 1.96

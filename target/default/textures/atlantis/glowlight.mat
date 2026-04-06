@@ -1,6 +1,5 @@
 {
 	diffusemap atlantis/glowlight
-	normalmap atlantis/glowlight_nm	
 	contents "detail"
 	{
 		texture atlantis/glowlight

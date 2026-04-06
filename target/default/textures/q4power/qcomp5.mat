@@ -1,8 +1,5 @@
 {
 	diffusemap q4power/qcomp5_d
-	normalmap q4power/qcomp5_local
-	heightmap q4power/qcomp5_h
-	specularmap q4power/qcomp5_s
 	{
 		texture q4power/qcomp5_glow
 		blend GL_SRC_ALPHA GL_ONE

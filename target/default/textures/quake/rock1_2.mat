@@ -1,8 +1,5 @@
 {
 	diffusemap quake/rock1_2
-	normalmap quake/rock1_2_norm
-	heightmap quake/rock1_2_height
-	specularmap quake/rock1_2_gloss
 	roughness 1.41
 	hardness 3.18
 	specularity 1.87

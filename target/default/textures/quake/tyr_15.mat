@@ -1,5 +1,3 @@
 {
 	diffusemap quake/tyr_15
-	normalmap quake/tyr_15_norm
-	specularmap quake/tyr_15_gloss
 }

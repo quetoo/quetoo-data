@@ -1,8 +1,6 @@
 {
 	diffusemap q4power/light_flouro1_d
 	normalmap q4power/light_flouro0_local
-	heightmap q4power/light_flouro1_h
-	specularmap q4power/light_flouro1_s
 	shadow 0
 	{
 		scale.s 1.25

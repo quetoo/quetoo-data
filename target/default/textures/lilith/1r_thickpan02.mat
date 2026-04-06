@@ -1,8 +1,5 @@
 {
 	diffusemap lilith/1r_thickpan02
-	normalmap lilith/1r_thickpan02_nm
-	heightmap lilith/1r_thickpan02_height
-	specularmap lilith/1r_thickpan02_gloss
 	roughness 2.54
 	hardness 2.50
 	parallax 2.00

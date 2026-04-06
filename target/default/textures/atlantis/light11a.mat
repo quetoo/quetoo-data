@@ -1,6 +1,5 @@
 {
 	diffusemap atlantis/light11a
-	normalmap atlantis/light11a_nm
 	hardness 2
 	specularity 2
 	parallax 2		

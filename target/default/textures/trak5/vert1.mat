@@ -1,6 +1,4 @@
 {
 	diffusemap trak5/vert1_d
-	normalmap trak5/vert1_n
-	heightmap trak5/vert1_h
 	parallax 3.0
 }

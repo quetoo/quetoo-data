@@ -1,8 +1,5 @@
 {
 	diffusemap catfight/u_lamp4
-	normalmap catfight/u_lamp4_nm
-	heightmap catfight/u_lamp4_height
-	specularmap catfight/u_lamp4_gloss
 	hardness 2.39
 	specularity 2.42
 	parallax 1.98

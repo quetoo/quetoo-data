@@ -1,8 +1,5 @@
 {
 	diffusemap quake2/metal17_2
-	normalmap quake2/metal17_2_nm
-	heightmap quake2/metal17_2_height
-	specularmap quake2/metal17_2_gloss
 	roughness 1.80
 	hardness 2.53
 	specularity 1.80

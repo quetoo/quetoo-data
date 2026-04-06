@@ -1,8 +1,5 @@
 {
 	diffusemap quake2/fmetal4
-	normalmap quake2/fmetal4_nm
-	heightmap quake2/fmetal4_height
-	specularmap quake2/fmetal4_gloss
 	roughness 1.48
 	hardness 1.20
 	parallax 1.98

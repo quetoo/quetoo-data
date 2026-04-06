@@ -1,8 +1,5 @@
 {
 	diffusemap aerowalk/telecore
-	normalmap aerowalk/telecore_bump
-	heightmap aerowalk/telecore_height
-	specularmap aerowalk/telecore_gloss
 	roughness 1.02
 	hardness 8.00
 	specularity 0.24

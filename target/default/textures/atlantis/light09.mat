@@ -1,6 +1,5 @@
 {
 	diffusemap atlantis/light09
-	normalmap atlantis/light09_nm
 	hardness 2
 	specularity 2
 	parallax 2	

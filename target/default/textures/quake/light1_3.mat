@@ -1,8 +1,5 @@
 {
 	diffusemap quake/light1_3
-	normalmap quake/light1_3_norm
-	heightmap quake/light1_3_height
-	specularmap quake/light1_3_gloss
 	hardness 1.61
 	specularity 6.00
 	parallax 2.07

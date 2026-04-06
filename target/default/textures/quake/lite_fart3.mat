@@ -1,7 +1,6 @@
 {
 	diffusemap quake/lite_fart3
 	normalmap quake/lite_fart_norm
-	specularmap quake/lite_fart3_gloss
 	roughness 1.25
 	hardness 3.75
 	specularity 1.50

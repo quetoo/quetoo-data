@@ -1,8 +1,5 @@
 {
 	diffusemap lilith/1r_light01b
-	normalmap lilith/1r_light01b_nm
-	heightmap lilith/1r_light01b_height
-	specularmap lilith/1r_light01b_gloss
 	hardness 1.80
 	parallax 1.69
 	{

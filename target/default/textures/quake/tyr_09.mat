@@ -1,8 +1,5 @@
 {
 	diffusemap quake/tyr_09
-	normalmap quake/tyr_09_norm
-	heightmap quake/tyr_09_height
-	specularmap quake/tyr_09_gloss
 	roughness 3.83
 	hardness 1.81
 	parallax 4.00

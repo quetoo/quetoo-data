@@ -1,8 +1,6 @@
 {
 	diffusemap quake/tech05_2
 	normalmap quake/tech05_1_norm
-	heightmap quake/tech05_2_height
-	specularmap quake/tech05_2_gloss
 	roughness 1.96
 	hardness 1.96
 	specularity 1.22

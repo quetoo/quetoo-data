@@ -1,6 +1,5 @@
 {
 	diffusemap quake2/wlight1_160
-	normalmap quake2/wlight1_160_nm
 	roughness 1.48
 	hardness 2.87
 	parallax 2.00

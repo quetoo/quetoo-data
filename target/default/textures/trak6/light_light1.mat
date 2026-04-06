@@ -1,6 +1,5 @@
 {
 	diffusemap trak6/light_light1_d
-	normalmap trak6/light_light1_n
 	shadow 0
 	{
 		scale.s 1.25

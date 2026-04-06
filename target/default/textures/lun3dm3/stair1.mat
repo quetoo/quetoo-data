@@ -1,8 +1,5 @@
 {
 	diffusemap lun3dm3/stair1
-	normalmap lun3dm3/stair1_nm
-	heightmap lun3dm3/stair1_height
-	specularmap lun3dm3/stair1_gloss
 	roughness 4.04
 	hardness 3.04
 	specularity 1.47

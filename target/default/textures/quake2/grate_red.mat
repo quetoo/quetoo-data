@@ -1,8 +1,5 @@
 {
 	diffusemap quake2/grate_red
-	normalmap quake2/grate_red_nm
-	heightmap quake2/grate_red_height
-	specularmap quake2/grate_red_gloss
 	roughness 1.44
 	hardness 1.01
 	specularity 1.54

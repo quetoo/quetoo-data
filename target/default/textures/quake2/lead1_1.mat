@@ -1,8 +1,5 @@
 {
 	diffusemap quake2/lead1_1
-	normalmap quake2/lead1_1_nm
-	heightmap quake2/lead1_1_height
-	specularmap quake2/lead1_1_gloss
 	roughness 1.98
 	hardness 3.97
 	specularity 1.12

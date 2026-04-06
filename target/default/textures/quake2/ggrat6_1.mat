@@ -1,7 +1,4 @@
 {
 	diffusemap quake2/ggrat6_1
-	normalmap quake2/ggrat6_1_bump
-	heightmap quake2/ggrat6_1_height
-	specularmap quake2/ggrat6_1_gloss
 	roughness 0.98
 }

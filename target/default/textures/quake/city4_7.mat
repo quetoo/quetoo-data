@@ -1,7 +1,6 @@
 {
 	diffusemap quake/city4_7
 	normalmap quake/city4_1_norm
-	heightmap quake/city4_7_height
 	specularmap quake/city4_1_gloss
 	roughness 0.66
 	hardness 0.55

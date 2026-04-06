@@ -1,8 +1,5 @@
 {
 	diffusemap lun3dm3/metpan3
-	normalmap lun3dm3/metpan3_nm
-	heightmap lun3dm3/metpan3_height
-	specularmap lun3dm3/metpan3_gloss
 	roughness 3.95
 	hardness 3.00
 	specularity 1.50

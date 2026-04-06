@@ -1,8 +1,5 @@
 {
 	diffusemap quake/cop3_4
-	normalmap quake/cop3_4_norm
-	heightmap quake/cop3_4_height
-	specularmap quake/cop3_4_gloss
 	hardness 2.53
 	specularity 1.47
 	parallax 3.54

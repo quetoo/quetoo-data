@@ -1,8 +1,5 @@
 {
 	diffusemap lilith/1r_yuk_sup01
-	normalmap lilith/1r_yuk_sup01_nm
-	heightmap lilith/1r_yuk_sup01_height
-	specularmap lilith/1r_yuk_sup01_gloss
 	specularity 1.96
 	parallax 1.31
 }

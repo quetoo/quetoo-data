@@ -1,8 +1,5 @@
 {
 	diffusemap quake/pbtek1_03
-	normalmap quake/pbtek1_03_norm
-	heightmap quake/pbtek1_03_height
-	specularmap quake/pbtek1_03_gloss
 	roughness 1.48
 	hardness 2.04
 	specularity 1.22

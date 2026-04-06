@@ -1,8 +1,5 @@
 {
 	diffusemap quake/window01_4
-	normalmap quake/window01_4_norm
-	heightmap quake/window01_4_height
-	specularmap quake/window01_4_gloss
 	roughness 0.90
 	hardness 6.96
 	specularity 1.12

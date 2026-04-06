@@ -1,6 +1,5 @@
 {
 	diffusemap quake/cop1_1trim
-	normalmap quake/cop1_1trim_norm
 	roughness 1.25
 	hardness 2.00
 	specularity 1.50

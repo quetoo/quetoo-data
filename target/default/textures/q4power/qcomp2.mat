@@ -1,6 +1,3 @@
 {
 	diffusemap q4power/qcomp2_d
-	normalmap q4power/qcomp2_local
-	heightmap q4power/qcomp2_h
-	specularmap q4power/qcomp2_s
 }

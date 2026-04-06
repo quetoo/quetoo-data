@@ -1,8 +1,5 @@
 {
 	diffusemap quake2/panel64_2
-	normalmap quake2/panel64_2_nm
-	heightmap quake2/panel64_2_height
-	specularmap quake2/panel64_2_gloss
 	roughness 1.55
 	parallax 1.47
 	shadow 3.52

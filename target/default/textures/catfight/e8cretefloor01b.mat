@@ -1,8 +1,5 @@
 {
 	diffusemap catfight/e8cretefloor01b
-	normalmap catfight/e8cretefloor01b_nm
-	heightmap catfight/e8cretefloor01b_height
-	specularmap catfight/e8cretefloor01b_gloss
 	roughness 0.84
 	hardness 0.76
 	specularity 2.96

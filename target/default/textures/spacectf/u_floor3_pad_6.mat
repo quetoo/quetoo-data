@@ -1,8 +1,5 @@
 {
 	diffusemap spacectf/u_floor3_pad_6
-	normalmap spacectf/u_floor3_pad_6_nm
-	heightmap spacectf/u_floor3_pad_6_height
-	specularmap spacectf/u_floor3_pad_6_gloss
 	roughness 1.62
 	parallax 2.50
 	shadow 6.93

@@ -1,8 +1,5 @@
 {
 	diffusemap lilith/1r_clocktrim02
-	normalmap lilith/1r_clocktrim02_nm
-	heightmap lilith/1r_clocktrim02_height
-	specularmap lilith/1r_clocktrim02_gloss
 	hardness 2.00
 	parallax 1.65
 }

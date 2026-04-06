@@ -1,8 +1,5 @@
 {
 	diffusemap quake/sym06_8
-	normalmap quake/sym06_8_norm
-	heightmap quake/sym06_8_height
-	specularmap quake/sym06_8_gloss
 	roughness 1.35
 	parallax 3.02
 	shadow 8.00

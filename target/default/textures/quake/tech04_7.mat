@@ -1,5 +1,3 @@
 {
 	diffusemap quake/tech04_7
-	normalmap quake/tech04_7_norm
-	specularmap quake/tech04_7_gloss
 }

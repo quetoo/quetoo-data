@@ -1,7 +1,4 @@
 {
 	diffusemap aerowalk/lightstrips32
-	normalmap aerowalk/lightstrips32_nm
-	heightmap aerowalk/lightstrips32_height
-	specularmap aerowalk/lightstrips32_gloss
 	roughness 1.07
 }

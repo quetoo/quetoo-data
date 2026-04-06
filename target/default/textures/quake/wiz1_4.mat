@@ -1,8 +1,5 @@
 {
 	diffusemap quake/wiz1_4
-	normalmap quake/wiz1_4_norm
-	heightmap quake/wiz1_4_height
-	specularmap quake/wiz1_4_gloss
 	roughness 0.49
 	hardness 0.60
 	parallax 2.53

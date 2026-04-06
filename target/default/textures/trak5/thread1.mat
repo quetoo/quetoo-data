@@ -1,6 +1,4 @@
 {
 	diffusemap trak5/thread1_d
-	normalmap trak5/thread1_n
-	heightmap trak5/thread1_h
 	parallax 2.5
 }

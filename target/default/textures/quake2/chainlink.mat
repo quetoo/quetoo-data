@@ -1,6 +1,5 @@
 {
 	diffusemap quake2/chainlink
-	normalmap quake2/chainlink_nm
 	roughness 4.00
 	hardness 0.90
 	specularity 1.88

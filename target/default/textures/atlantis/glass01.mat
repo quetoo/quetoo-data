@@ -1,6 +1,5 @@
 {
 	diffusemap atlantis/glass01
-	normalmap atlantis/glass01_nm
 	
 	surface "blend_100"
 	

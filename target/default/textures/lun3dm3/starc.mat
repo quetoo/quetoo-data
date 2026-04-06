@@ -1,8 +1,5 @@
 {
 	diffusemap lun3dm3/starc
-	normalmap lun3dm3/starc_nm
-	heightmap lun3dm3/starc_height
-	specularmap lun3dm3/starc_gloss
 	roughness 0.99
 	hardness 1.63
 	parallax 3.03

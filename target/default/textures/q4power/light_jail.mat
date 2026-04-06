@@ -1,7 +1,5 @@
 {
 	diffusemap q4power/light_jail_d
-	normalmap q4power/light_jail_local
-	heightmap q4power/light_jail_h
 	shadow 0
 	{
 		scale.s 1.25

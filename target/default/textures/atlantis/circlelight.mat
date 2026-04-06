@@ -1,6 +1,5 @@
 {
 	diffusemap atlantis/circlelight
-	normalmap atlantis/circlelight_nm
 	surface "alpha_test"
 	{
 		texture atlantis/circlelight_glow

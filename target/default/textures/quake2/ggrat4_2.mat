@@ -1,8 +1,5 @@
 {
 	diffusemap quake2/ggrat4_2
-	normalmap quake2/ggrat4_2_nm
-	heightmap quake2/ggrat4_2_height
-	specularmap quake2/ggrat4_2_gloss
 	roughness 1.38
 	hardness 1.34
 	parallax 1.39

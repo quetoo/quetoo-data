@@ -1,8 +1,5 @@
 {
 	diffusemap lilith/1r_metbrick01
-	normalmap lilith/1r_metbrick01_nm
-	heightmap lilith/1r_metbrick01_height
-	specularmap lilith/1r_metbrick01_gloss
 	hardness 1.80
 	parallax 2.96
 }

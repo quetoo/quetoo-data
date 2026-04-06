@@ -1,8 +1,5 @@
 {
 	diffusemap q4power/mech1_d
-	normalmap q4power/mech1_local
-	heightmap q4power/mech1_h
-	specularmap q4power/mech1_s
 	roughness 1.53
 	hardness 5.58
 	specularity 1.94

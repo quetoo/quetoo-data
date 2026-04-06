@@ -1,8 +1,6 @@
 {
 	diffusemap quake/sfloor4_8
 	normalmap quake/sfloor4_5_norm
-	heightmap quake/sfloor4_8_height
-	specularmap quake/sfloor4_8_gloss
 	roughness 1.70
 	hardness 3.85
 	parallax 5.58

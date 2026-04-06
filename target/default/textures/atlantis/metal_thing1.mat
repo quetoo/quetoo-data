@@ -1,6 +1,5 @@
 {
 	diffusemap atlantis/metal_thing1
-	normalmap atlantis/metal_thing1_nm
 	parallax 1.5
 	{
 		texture atlantis/metal_thing1_glow

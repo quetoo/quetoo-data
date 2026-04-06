@@ -1,7 +1,5 @@
 {
 	diffusemap quake/lava2
-	normalmap quake/lava2_norm
-	specularmap quake/lava2_gloss
 	roughness 0.00
 	hardness 0.00
 	specularity 0.00

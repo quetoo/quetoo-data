@@ -1,8 +1,5 @@
 {
 	diffusemap quake/comp1_1
-	normalmap quake/comp1_1_norm
-	heightmap quake/comp1_1_height
-	specularmap quake/comp1_1_gloss
 	roughness 4.17
 	hardness 8.00
 	parallax 4.70

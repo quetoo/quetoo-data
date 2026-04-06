@@ -1,6 +1,5 @@
 {
 	diffusemap atlantis/light07
-	normalmap atlantis/light07_nm
 	parallax 2
 	surface "phong"
 	{

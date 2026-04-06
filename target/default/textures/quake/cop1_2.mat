@@ -1,7 +1,6 @@
 {
 	diffusemap quake/cop1_2
 	normalmap quake/cop1_1_norm
-	heightmap quake/cop1_2_height
 	specularmap quake/cop1_1_gloss
 	roughness 1.50
 	hardness 2.46

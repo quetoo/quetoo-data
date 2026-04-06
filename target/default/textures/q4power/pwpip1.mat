@@ -1,6 +1,3 @@
 {
 	diffusemap q4power/pwpip1_d
-	normalmap q4power/pwpip1_local
-	heightmap q4power/pwpip1_h
-	specularmap q4power/pwpip1_s
 }

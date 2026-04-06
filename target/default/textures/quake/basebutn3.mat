@@ -1,7 +1,5 @@
 {
 	diffusemap quake/basebutn3
-	normalmap quake/basebutn3_norm
-	specularmap quake/basebutn3_gloss
 	parallax 1.75
 	{
 		texture quake/basebutn3_luma

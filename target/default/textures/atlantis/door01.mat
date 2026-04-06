@@ -1,5 +1,4 @@
 {
 	diffusemap atlantis/door01
-	normalmap atlantis/door01_nm
 	surface "alpha_test"
 }

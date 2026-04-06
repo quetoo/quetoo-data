@@ -1,6 +1,5 @@
 {
 	diffusemap catfight/u_lamplong1b
-	normalmap catfight/u_lamplong1b_nm
 	specularity 1.5
 	parallax 1.5
 	shadow 0.5

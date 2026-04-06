@@ -1,8 +1,5 @@
 {
 	diffusemap lilith/1_th_trimlamp
-	normalmap lilith/1_th_trimlamp_nm
-	heightmap lilith/1_th_trimlamp_height
-	specularmap lilith/1_th_trimlamp_gloss
 	hardness 2.50
 	parallax 2.96
 	{

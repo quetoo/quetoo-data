@@ -1,5 +1,3 @@
 {
 	diffusemap quake/metal4_5
-	normalmap quake/metal4_5_norm
-	specularmap quake/metal4_5_gloss
 }

@@ -1,8 +1,6 @@
 {
 	diffusemap trak5/base1a_d
 	normalmap trak5/base1_n
-	heightmap trak5/base1a_height
-	specularmap trak5/base1a_gloss
 	roughness 0.98
 	hardness 1.01
 	parallax 0.00

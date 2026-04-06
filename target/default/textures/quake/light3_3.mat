@@ -1,7 +1,5 @@
 {
 	diffusemap quake/light3_3
-	normalmap quake/light3_3_norm
-	specularmap quake/light3_3_gloss
 	parallax 3.00
 	shadow 0.00
 	contents "detail"

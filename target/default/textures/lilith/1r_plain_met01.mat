@@ -1,8 +1,5 @@
 {
 	diffusemap lilith/1r_plain_met01
-	normalmap lilith/1r_plain_met01_nm
-	heightmap lilith/1r_plain_met01_height
-	specularmap lilith/1r_plain_met01_gloss
 	roughness 2.50
 	hardness 2.00
 }

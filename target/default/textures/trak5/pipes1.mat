@@ -1,6 +1,5 @@
 {
 	diffusemap trak5/pipes1_d
-	normalmap trak5/pipes1_n
 	heightmap trak5/pipes_h
 	parallax 2.5
 }

@@ -1,8 +1,5 @@
 {
 	diffusemap evil/e6v_light
-	normalmap evil/e6v_light_nm
-	heightmap evil/e6v_light_height
-	specularmap evil/e6v_light_gloss
 	roughness 0.99
 	shadow 0.00
 	{

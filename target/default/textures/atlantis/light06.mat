@@ -1,6 +1,5 @@
 {
 	diffusemap atlantis/light06
-	normalmap atlantis/light06_nm
 	parallax 0
 	surface "blend_100"
 	{

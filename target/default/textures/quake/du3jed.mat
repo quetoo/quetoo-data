@@ -1,8 +1,5 @@
 {
 	diffusemap quake/du3jed
-	normalmap quake/du3jed_norm
-	heightmap quake/du3jed_height
-	specularmap quake/du3jed_gloss
 	roughness 1.47
 	hardness 4.26
 	specularity 1.31

@@ -1,8 +1,5 @@
 {
 	diffusemap quake2/trimmet2_1
-	normalmap quake2/trimmet2_1_nm
-	heightmap quake2/trimmet2_1_height
-	specularmap quake2/trimmet2_1_gloss
 	roughness 1.44
 	hardness 1.40
 	parallax 0.98

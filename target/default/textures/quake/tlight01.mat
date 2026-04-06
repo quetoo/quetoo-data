@@ -1,8 +1,5 @@
 {
 	diffusemap quake/tlight01
-	normalmap quake/tlight01_norm
-	heightmap quake/tlight01_height
-	specularmap quake/tlight01_gloss
 	roughness 1.25
 	hardness 2.00
 	specularity 1.25

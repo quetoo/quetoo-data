@@ -1,8 +1,5 @@
 {
 	diffusemap quake/tele_top
-	normalmap quake/tele_top_norm
-	heightmap quake/tele_top_height
-	specularmap quake/tele_top_gloss
 	roughness 1.18
 	hardness 4.76
 	specularity 1.47

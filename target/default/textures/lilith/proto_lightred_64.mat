@@ -1,8 +1,5 @@
 {
 	diffusemap lilith/proto_lightred_64
-	normalmap lilith/proto_lightred_64_nm
-	heightmap lilith/proto_lightred_64_height
-	specularmap lilith/proto_lightred_64_gloss
 	hardness 4.00
 	parallax 1.23
 	{

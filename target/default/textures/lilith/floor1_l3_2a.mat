@@ -1,8 +1,5 @@
 {
 	diffusemap lilith/floor1_l3_2a
-	normalmap lilith/floor1_l3_2a_nm
-	heightmap lilith/floor1_l3_2a_height
-	specularmap lilith/floor1_l3_2a_gloss
 	hardness 2.50
 	parallax 1.81
 }

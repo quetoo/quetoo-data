@@ -1,8 +1,5 @@
 {
 	diffusemap quake/light_rail01
-	normalmap quake/light_rail01_norm
-	heightmap quake/light_rail01_height
-	specularmap quake/light_rail01_gloss
 	roughness 2.00
 	hardness 2.50
 	specularity 1.25

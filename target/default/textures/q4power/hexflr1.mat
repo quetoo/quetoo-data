@@ -1,6 +1,3 @@
 {
 	diffusemap q4power/hexflr1_d
-	normalmap q4power/hexflr1_local
-	heightmap q4power/hexflr1_h
-	specularmap q4power/hexflr1_s
 }

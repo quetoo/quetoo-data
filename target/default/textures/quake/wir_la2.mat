@@ -1,8 +1,5 @@
 {
 	diffusemap quake/wir_la2
-	normalmap quake/wir_la2_norm
-	heightmap quake/wir_la2_height
-	specularmap quake/wir_la2_gloss
 	roughness 1.97
 	hardness 1.50
 	parallax 1.96

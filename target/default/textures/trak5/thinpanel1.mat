@@ -1,6 +1,4 @@
 {
 	diffusemap trak5/thinpanel1_d
-	normalmap trak5/thinpanel1_n
-	heightmap trak5/thinpanel1_h
 	parallax 2.0
 }

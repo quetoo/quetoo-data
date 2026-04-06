@@ -1,0 +1,8 @@
+{
+	diffusemap lilith/barrel_rst_sign
+	normalmap lilith/barrel_rst_sign_nm
+	heightmap lilith/barrel_rst_sign_height
+	specularmap lilith/barrel_rst_sign_gloss
+	hardness 2.50
+	parallax 0.81
+}

@@ -1,0 +1,8 @@
+{
+	material lilith/1r_metpan02
+	normalmap lilith/1r_metpan02_nm
+	bump 1.8
+	hardness 1.8
+	specular 2.8
+	parallax 0.0
+}

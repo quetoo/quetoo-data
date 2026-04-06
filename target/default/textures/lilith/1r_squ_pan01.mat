@@ -1,0 +1,8 @@
+{
+	diffusemap lilith/1r_squ_pan01
+	normalmap lilith/1r_squ_pan01_nm
+	heightmap lilith/1r_squ_pan01_height
+	specularmap lilith/1r_squ_pan01_gloss
+	hardness 2.50
+	parallax 3.00
+}

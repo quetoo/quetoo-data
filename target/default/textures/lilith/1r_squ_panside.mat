@@ -1,0 +1,8 @@
+{
+	material lilith/1r_squ_panside
+	normalmap lilith/1r_squ_panside_nm
+	bump 1.2
+	hardness 2.5
+	specular 1.7
+	parallax 1.2
+}

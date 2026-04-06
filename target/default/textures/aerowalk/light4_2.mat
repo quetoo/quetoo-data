@@ -4,4 +4,7 @@
 	specularity 2.25
 	parallax 1.20
 	shadow 1.23
+	{
+		texture common/fx/padbase/padfx
+	}
 }

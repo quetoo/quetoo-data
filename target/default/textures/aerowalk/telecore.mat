@@ -3,4 +3,12 @@
 	roughness 1.02
 	hardness 8.00
 	specularity 0.24
+	{
+		texture aerowalk/telecore_fx
+		pulse .5
+	}
+	{
+		texture aerowalk/telecore_fx2
+		scroll.t .3
+	}
 }

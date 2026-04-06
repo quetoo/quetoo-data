@@ -1,4 +1,8 @@
 {
 	diffusemap aerowalk/lightstrips32
-	roughness 1.07
+	roughness 1.0
+	{
+		texture aerowalk/lightstrips32_glow
+		scroll.t 2
+	}
 }

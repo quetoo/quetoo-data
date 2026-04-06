@@ -1,0 +1,9 @@
+{
+	diffusemap quake2/panel64_1hori
+	normalmap quake2/panel64_1hori_nm
+	heightmap quake2/panel64_1hori_height
+	specularmap quake2/panel64_1hori_gloss
+	roughness 1.50
+	parallax 1.00
+	shadow 1.04
+}

@@ -1,0 +1,9 @@
+{
+	diffusemap quake2/panel128_1
+	normalmap quake2/panel128_1_nm
+	heightmap quake2/panel128_1_height
+	specularmap quake2/panel128_1_gloss
+	roughness 1.51
+	parallax 1.02
+	shadow 1.01
+}

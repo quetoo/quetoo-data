@@ -1,0 +1,10 @@
+{
+	diffusemap aerowalk/light4_2
+	normalmap aerowalk/light4_2_nm
+	heightmap aerowalk/light4_2_height
+	specularmap aerowalk/light4_2_gloss
+	hardness 2.47
+	specularity 2.25
+	parallax 1.20
+	shadow 1.23
+}

@@ -1,0 +1,16 @@
+{
+	diffusemap aerowalk/telelaser
+	roughness 1.0
+	hardness 8.00
+	contents "detail mist"
+	surface material
+	{
+		texture aerowalk/telelaser
+		scroll.s .2
+	}
+	{
+		texture aerowalk/telelaserfx
+		color .1 .1 .1
+		scroll.s -.2
+	}
+}

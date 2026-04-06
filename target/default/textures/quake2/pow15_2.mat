@@ -1,0 +1,9 @@
+{
+	diffusemap quake2/pow15_2
+	normalmap quake2/pow15_2_nm
+	heightmap quake2/pow15_2_height
+	specularmap quake2/pow15_2_gloss
+	roughness 1.51
+	parallax 2.54
+	shadow 3.51
+}

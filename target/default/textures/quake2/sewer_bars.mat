@@ -1,5 +1,6 @@
 {
 	diffusemap quake2/sewer_bars
+	normalmap quake2/sewer_bars_nm
 	roughness 1.50
 	hardness 3.30
 	specularity 1.50

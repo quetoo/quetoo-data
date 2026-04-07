@@ -2,14 +2,15 @@
 	diffusemap aerowalk/light4_2
 	hardness 2.47
 	specularity 2.25
-	parallax 1.20
+	parallax 1.18
 	shadow 1.23
 	{
 		texture common/fx/padbase/padfx
 		blend GL_SRC_ALPHA GL_ONE
 	}
 	{
+		color 0.30 0.30 0.30 1.00
 		flare flare_1
-		color .3 .3 .3
+		fog 0.00
 	}
 }

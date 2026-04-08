@@ -1,5 +1,5 @@
 {
-	diffusemap q4power/light_fifty2_d
+	diffusemap q4power/light_fifty2
 	shadow 0
 	{
 		scale.s 1.25

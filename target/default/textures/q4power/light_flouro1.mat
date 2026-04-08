@@ -1,5 +1,5 @@
 {
-	diffusemap q4power/light_flouro1_d
+	diffusemap q4power/light_flouro1
 	normalmap q4power/light_flouro0_local
 	shadow 0
 	{

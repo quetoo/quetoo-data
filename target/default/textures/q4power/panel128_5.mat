@@ -1,5 +1,5 @@
 {
-	diffusemap q4power/panel128_5_d
+	diffusemap q4power/panel128_5
 	{
 		texture q4power/panel128_5_glow
 		blend GL_SRC_ALPHA GL_ONE

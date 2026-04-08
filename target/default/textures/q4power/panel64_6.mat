@@ -1,5 +1,5 @@
 {
-	diffusemap q4power/panel64_6_d
+	diffusemap q4power/panel64_6
 	normalmap q4power/panel64_6b_nm
 	specularmap q4power/panel64_6b_s
 }

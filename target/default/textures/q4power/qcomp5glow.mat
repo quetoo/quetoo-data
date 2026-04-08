@@ -1,5 +1,5 @@
 {
-	diffusemap q4power/qcomp5_d
+	diffusemap q4power/qcomp5
 	{
 		texture q4power/qcomp5_glow
 		blend GL_SRC_ALPHA GL_ONE

@@ -1,5 +1,5 @@
 {
-	diffusemap q4power/light_flouro0a_d
+	diffusemap q4power/light_flouro0a
 	shadow 0
 	{
 		scale.s 1.25

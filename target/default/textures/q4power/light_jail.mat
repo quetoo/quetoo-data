@@ -1,5 +1,5 @@
 {
-	diffusemap q4power/light_jail_d
+	diffusemap q4power/light_jail
 	shadow 0
 	{
 		scale.s 1.25

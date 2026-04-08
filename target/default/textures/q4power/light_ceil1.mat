@@ -1,5 +1,5 @@
 {
-	diffusemap q4power/light_ceil1_d
+	diffusemap q4power/light_ceil1
 	shadow 0
 	{
 		scale.s 1.25

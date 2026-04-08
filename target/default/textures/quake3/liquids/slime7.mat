@@ -2,4 +2,16 @@
 	diffusemap quake3/liquids/slime7
 	hardness 1.15
 	contents "slime"
+	surface "blend_66"
+	{
+		texture quake3/liquids/slime7
+		color 1 1 1 .66
+		warp .3 .3
+	}
+	{
+		texture quake3/liquids/slime7
+		color 1 1 1 .66
+		warp .6 .3
+	}
+
 }

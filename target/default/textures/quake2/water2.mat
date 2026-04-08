@@ -20,7 +20,16 @@
 		blend GL_SRC_ALPHA GL_ONE
 		scale.s 1.000
 		scale.t 1.000
-		warp 0.40 0.40
+		warp 0.40 0.30
 		lighting .5
 	}
+	{
+		texture common/fx/water2fx
+		blend GL_SRC_ALPHA GL_ONE
+		scale.s 1.000
+		scale.t 1.000
+		warp 0.50 0.30
+		lighting .5
+	}
+
 }

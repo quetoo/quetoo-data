@@ -25,24 +25,27 @@
 {
 	name warehouse
 }
-#{
-#	name aerowalk
-#}
 {
-	name claustrophobopolis
+	name aerowalk
 }
 {
 	name badplace
 }
 {
-	name darkzone
+	name chthon
 }
 {
-	name omf
+	name claustrophobopolis
+}
+{
+	name darkzone
 }
 #{
 #	name fractures
 #}
+{
+	name fraggin
+}
 #{
 #	name grunt
 #}
@@ -55,6 +58,12 @@
 #{
 #	name lilith
 #}
+{
+	name longyard
+}
+{
+	name omf
+}
 {
 	name rage
 }
@@ -70,13 +79,4 @@
 #{
 #	name wake
 #}
-{
-	name fraggin
-}
-{
-	name chthon
-}
-{
-	name longyard
-}
 # End of file

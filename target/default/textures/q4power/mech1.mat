@@ -1,9 +1,9 @@
 {
 	diffusemap q4power/mech1
-	roughness 1.16
-	hardness 5.58
-	specularity 2.96
-	parallax 2.04
+	roughness 2.00
+	hardness 5.08
+	specularity 2.18
+	parallax 2.52
 	shadow 4.59
 	{
 		texture q4power/mech1_glow

@@ -1,7 +1,7 @@
 {
 	diffusemap quake2/panel64_1
-	roughness 1.54
-	hardness 1.02
+	roughness 2.97
+	hardness 1.54
 	parallax 2.47
-	shadow 3.48
+	shadow 8.00
 }

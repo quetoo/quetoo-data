@@ -2,8 +2,8 @@
 	diffusemap q4power/panel128_4
 	roughness 2.96
 	hardness 1.99
-	parallax 0.00
-	shadow 0.00
+	parallax 2.49
+	shadow 8.00
 	{
 		texture q4power/panel128_4_glow
 		blend GL_SRC_ALPHA GL_ONE

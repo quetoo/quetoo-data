@@ -1,6 +1,7 @@
 {
 	diffusemap quake2/prwlt1_4
-	roughness 1.47
-	parallax 0.99
-	shadow 1.03
+	roughness 2.00
+	hardness 2.79
+	parallax 3.49
+	shadow 8.00
 }

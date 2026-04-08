@@ -1,8 +1,8 @@
 {
 	diffusemap aerowalk/florr2_7
-	roughness 3.00
+	roughness 1.50
 	hardness 2.58
 	specularity 1.22
-	parallax 2.97
-	shadow 4.53
+	parallax 2.99
+	shadow 8.00
 }

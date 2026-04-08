@@ -1,7 +1,7 @@
 {
 	diffusemap aerowalk/floor3_1grey
-	roughness 1.97
+	roughness 0.71
 	hardness 1.29
-	parallax 1.96
-	shadow 5.47
+	parallax 2.78
+	shadow 7.21
 }

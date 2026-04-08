@@ -1,10 +1,13 @@
 {
 	diffusemap aerowalk/core1_1
-	parallax 0.25
-	shadow 0
+	roughness 1.96
+	hardness 8.00
+	specularity 2.01
+	parallax 1.96
+	shadow 0.00
 	{
 		texture aerowalk/core1_1scroll
 		blend GL_SRC_ALPHA GL_ONE
-		scroll.t 0.25
+		scroll.t 0.250
 	}
 }

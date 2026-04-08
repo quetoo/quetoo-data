@@ -1,8 +1,13 @@
 {
 	diffusemap aerowalk/lightstrips32
-	roughness 1.0
+	roughness 1.58
+	hardness 8.00
+	specularity 1.74
+	parallax 0.00
+	shadow 0.00
 	{
 		texture aerowalk/lightstrips32_glow
-		scroll.t 2
+		scroll.t 2.000
+		fog 0.00
 	}
 }

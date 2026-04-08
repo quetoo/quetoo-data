@@ -1,3 +1,7 @@
 {
-	diffusemap q4power/panel64_0_d
+	diffusemap q4power/panel64_0
+	roughness 1.97
+	hardness 1.96
+	parallax 3.46
+	shadow 7.30
 }

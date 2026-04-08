@@ -3,7 +3,7 @@
 "classname" "worldspawn"
 "_tb_textures" "textures/common;textures/quake2"
 "ambient" "0.15"
-"message" "q2dm8: WareHouse"
+"message" "The WareHouse"
 "model" "*0"
 "sky" "atsea"
 // brush 0

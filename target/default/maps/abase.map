@@ -5,7 +5,7 @@
 "ambient" "0.125"
 "author" "Skies912 - Remake of DM3 from Quake 1"
 "give" "shotgun"
-"message" "Abandoned Base"
+"message" "The Abandoned Base"
 "model" "*0"
 "num_teams" "2"
 "sky" "miramar"

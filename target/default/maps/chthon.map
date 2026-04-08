@@ -2,7 +2,7 @@
 {
 "classname" "worldspawn"
 "_tb_textures" "textures/ad;textures/common;textures/common/decals;textures/common/fx;textures/common/prototype;textures/quake;textures/quake/animated;textures/quake/animated/slip;textures/quake3/sfx;textures/quake3/skin;textures/sandbox"
-"message" "Chthon's Arena of Madness"
+"message" "House of Chthon"
 "sky" "dragonheart"
 "ambient" "0.175"
 "give" "shotgun"

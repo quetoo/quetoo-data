@@ -1,0 +1,22 @@
+{
+	diffusemap darkzone/sky
+	surface sky
+	{
+		texture common/sky/sky1_clouds
+		blend GL_SRC_ALPHA GL_ONE
+		color 1 1 1 .666
+		scroll.s -.1
+		scroll.t -.1
+		scale.s .5
+		scale.t .5
+	}
+	{
+		texture common/sky/sky1_clouds
+		blend GL_SRC_ALPHA GL_ONE
+		color 1 1 1 .666
+		scroll.s .05
+		scroll.t .05
+		scale.s .15
+		scale.t .15
+	}
+}

@@ -4,12 +4,14 @@
 	surface "material"
 	{
 		texture quake/teleport
-		warp 0.12 0.10
+		blend GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
+		color 1.00 1.00 1.00 0.666
+		warp 0.33 3.00
 	}
 	{
 		texture quake/teleport
 		blend GL_SRC_ALPHA GL_ONE
-		color 1.00 1.00 1.00 0.25
-		warp -0.12 -0.10
+		color 1.00 1.00 1.00 0.666
+		warp -0.33 -3.00
 	}
 }

@@ -7361,3 +7361,9 @@
 "team" "torch"
 "team_master" "1"
 }
+// entity 125
+{
+"classname" "misc_sound"
+"origin" "-768 -736 384"
+"sound" "ambient/wind_3"
+}

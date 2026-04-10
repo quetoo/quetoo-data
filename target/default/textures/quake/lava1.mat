@@ -3,6 +3,6 @@
 	contents "lava"
 	{
 		texture quake/lava1
-		warp 0.1 0.05
+		warp 0.125 0.27
 	}
 }

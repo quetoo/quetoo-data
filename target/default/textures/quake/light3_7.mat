@@ -6,11 +6,6 @@
 	parallax 2.48
 	shadow 2.83
 	{
-		scale.s 0.500
-		scale.t 0.500
-		flare flare_0
-	}
-	{
 		texture quake/light3_7_luma
 		blend GL_SRC_ALPHA GL_ONE
 		pulse 0.48

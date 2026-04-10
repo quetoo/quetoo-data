@@ -1,11 +1,14 @@
+// Game: Quetoo
+// Format: Quake3
 // entity 0
 {
 "classname" "worldspawn"
-"ambient" "0.040 0.036 0.024"
-"message" "Lava Tomb"
-"radiosity" "2.4"
-"sky" "dragonheart"
 "_tb_textures" "textures/common;textures/quake2"
+"ambient" "0.33"
+"message" "Lava Tomb"
+"model" "*0"
+"sky" "dragonheart"
+"_tb_layer_hidden" "1"
 // brush 0
 {
 ( 320 0 -240 ) ( 272 -64 -248 ) ( 320 0 -248 ) common/caulk 0 0 0 0.25 0.25 1 0 0
@@ -17211,7 +17214,7 @@
 // entity 107
 {
 "classname" "weapon_railgun"
-"origin" "240.000000 -608.000000 -300.000000"
+"origin" "248 -608 -300"
 }
 // entity 108
 {
@@ -17552,7 +17555,7 @@
 "color" "1 .5 .2"
 "intensity" "1.5"
 "origin" "828 544 -48"
-"radius" "512"
+"radius" "450"
 "team" "sun"
 "team_master" "1"
 }
@@ -17620,14 +17623,14 @@
 {
 "classname" "light"
 "origin" "-80 1440 120"
-"radius" "2048"
+"radius" "1024"
 "team" "sun"
 }
 // entity 173
 {
 "classname" "light"
 "color" "1 .6 .2"
-"intensity" "2.2"
+"intensity" "2"
 "origin" "-264 1272 -120"
 "radius" "240"
 "team" "smoll"
@@ -17875,13 +17878,13 @@
 // entity 213
 {
 "classname" "light"
-"origin" "-384 -60 -352"
+"origin" "-384 -60 -388"
 "team" "lava"
 }
 // entity 214
 {
 "classname" "light"
-"origin" "180 -664 -368"
+"origin" "180 -664 -436"
 "team" "lava"
 }
 // entity 215
@@ -18063,6 +18066,7 @@
 // entity 244
 {
 "classname" "func_wall"
+"model" "*17"
 "_tb_group" "4"
 // brush 0
 {
@@ -18456,6 +18460,12 @@
 }
 // entity 245
 {
+"classname" "light"
+"origin" "164 -280 -456"
+"team" "lava"
+}
+// entity 246
+{
 "classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "Clip"
@@ -18755,13 +18765,14 @@
 ( 568 1096 64 ) ( 568 1096 -8 ) ( 568 1088 64 ) common/clip 0 0 0 0.25 0.25 65536 128 0
 }
 }
-// entity 246
+// entity 247
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "Sky"
 "_tb_id" "2"
 "_tb_layer_sort_index" "1"
+"_tb_layer_hidden" "1"
 // brush 0
 {
 ( -480 -992 -128 ) ( -480 -1064 -192 ) ( -480 -992 -304 ) common/sky 0 0 0 0.5 0.5
@@ -19177,19 +19188,18 @@
 ( 192 -7920 8064 ) ( 192 8464 8064 ) ( 192 8464 -8320 ) common/sky 0 0 0 0.5 0.5
 }
 }
-// entity 247
+// entity 248
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "Fog"
 "_tb_id" "3"
 "_tb_layer_sort_index" "2"
-"_tb_layer_hidden" "1"
 }
-// entity 248
+// entity 249
 {
 "classname" "misc_fog"
-"density" "0.3"
+"density" ".25"
 "_tb_layer" "3"
 // brush 0
 {
@@ -19246,10 +19256,10 @@
 ( 960 1472 0 ) ( 960 1472 1 ) ( 960 1473 0 ) common/fog 0 0 0 0.25 0.25
 }
 }
-// entity 249
+// entity 250
 {
 "classname" "misc_fog"
-"density" "0.3"
+"density" ".25"
 "_tb_layer" "3"
 // brush 0
 {
@@ -19288,10 +19298,10 @@
 ( -704 1216 96 ) ( -704 832 32 ) ( -704 832 96 ) common/fog 0 0 0 0.25 0.25
 }
 }
-// entity 250
+// entity 251
 {
 "classname" "misc_fog"
-"density" "0.3"
+"density" ".25"
 "_tb_layer" "3"
 // brush 0
 {
@@ -19312,10 +19322,10 @@
 ( -704 608 128 ) ( -704 608 129 ) ( -704 609 128 ) common/fog 0 0 0 0.25 0.25
 }
 }
-// entity 251
+// entity 252
 {
 "classname" "misc_fog"
-"density" "0.3"
+"density" ".25"
 "_tb_layer" "3"
 // brush 0
 {
@@ -19372,10 +19382,10 @@
 ( 64 768 128 ) ( 64 768 129 ) ( 64 769 128 ) common/fog 0 0 0 0.25 0.25
 }
 }
-// entity 252
+// entity 253
 {
 "classname" "misc_fog"
-"density" "0.3"
+"density" ".25"
 "_tb_layer" "3"
 // brush 0
 {
@@ -19432,10 +19442,10 @@
 ( 0 304 128 ) ( 0 304 129 ) ( 0 305 128 ) common/fog 0 0 0 0.25 0.25
 }
 }
-// entity 253
+// entity 254
 {
 "classname" "misc_fog"
-"density" "0.3"
+"density" ".25"
 "_tb_layer" "3"
 // brush 0
 {
@@ -19474,10 +19484,10 @@
 ( -384 -64 -80 ) ( -384 -64 -79 ) ( -384 -63 -80 ) common/fog 0 0 0 0.25 0.25
 }
 }
-// entity 254
+// entity 255
 {
 "classname" "misc_fog"
-"density" "0.3"
+"density" ".25"
 "_tb_layer" "3"
 // brush 0
 {
@@ -19525,10 +19535,10 @@
 ( 704 64 64 ) ( 704 64 65 ) ( 704 65 64 ) common/fog 0 0 0 0.25 0.25
 }
 }
-// entity 255
+// entity 256
 {
 "classname" "misc_fog"
-"density" "0.15"
+"density" ".25"
 "_tb_layer" "3"
 // brush 0
 {
@@ -19540,10 +19550,10 @@
 ( 1232 992 -16 ) ( 1232 992 -15 ) ( 1232 993 -16 ) common/fog 0 0 0 0.25 0.25
 }
 }
-// entity 256
+// entity 257
 {
 "classname" "misc_fog"
-"density" "0.3"
+"density" ".25"
 "_tb_layer" "3"
 // brush 0
 {
@@ -19573,23 +19583,24 @@
 ( 256 -128 0 ) ( 256 -128 1 ) ( 256 -127 0 ) common/fog 0 0 0 0.25 0.25
 }
 }
-// entity 257
+// entity 258
 {
 "classname" "func_group"
 "_tb_type" "_tb_layer"
 "_tb_name" "Dust"
 "_tb_id" "5"
 "_tb_layer_sort_index" "3"
+"_tb_layer_hidden" "1"
 }
-// entity 258
+// entity 259
 {
 "classname" "misc_dust"
+"acceleration" "10 10 0"
 "color" "20 0 0.23 1"
 "end_color" "35 0.23 0.23 0.5"
 "lifetime" "1"
-"velocity" "0 0 15"
-"acceleration" "10 10 0"
 "size" "1.5"
+"velocity" "0 0 15"
 "_tb_layer" "5"
 // brush 0
 {

@@ -300,11 +300,6 @@
 	sound(string) : "The looping sound to play, or 'none' to disable" : "world/fire"
 ]
 
-@SolidClass color(230 230 230) = misc_fog : "Fog volumes. When compiled, fog brushes are merged into the world. Fog volumes are processed during the lighting compile phase. These are typically contents atmospheric, but can be contents water, etc."
-[
-	density(float) : "The fog density, or thickness" : "1"
-]
-
 @PointClass color(80 180 80) size(-16 -16 -16, 16 16 16) = misc_model : "Client-side emission of static models (non-interactive map objects). These are useful for placing trees, torches, and other non-brush scenery."
 [
 	angles(string) : "The angles of orientation for the model"

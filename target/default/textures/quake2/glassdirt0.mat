@@ -1,6 +1,9 @@
 {
 	diffusemap quake2/glassdirt0
-	specularity 1.30
+	roughness 1.01
+	hardness 0.97
+	specularity 0.99
+	parallax 0.00
 	shadow 0.00
 	surface "blend_66"
 }

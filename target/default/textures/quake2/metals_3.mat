@@ -3,5 +3,6 @@
 	roughness 1.40
 	hardness 1.50
 	specularity 1.50
-	shadow 0.00
+	parallax 3.00
+	shadow 1.80
 }

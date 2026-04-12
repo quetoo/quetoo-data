@@ -1,8 +1,9 @@
 {
 	diffusemap quake/lava1
+	roughness 0.96
 	contents "lava"
 	{
 		texture quake/lava1
-		warp 0.125 0.27
+		warp 0.12 0.27
 	}
 }

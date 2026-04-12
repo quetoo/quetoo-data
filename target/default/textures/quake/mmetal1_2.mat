@@ -1,3 +1,8 @@
 {
 	diffusemap quake/mmetal1_2
+	roughness 1.5
+	parallax 4
+	hardness 3
+	shadow 8
+	specularity 2
 }

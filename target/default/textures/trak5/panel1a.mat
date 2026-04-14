@@ -3,5 +3,9 @@
 	normalmap trak5/panel1_n
 	heightmap trak5/panel1_h
 	specularmap trak5/panel1_s
-	parallax 2.5
+	roughness 1.62
+	hardness 2.89
+	specularity 2.37
+	parallax 5.14
+	shadow 8.00
 }

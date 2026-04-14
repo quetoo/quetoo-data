@@ -1,5 +1,9 @@
 {
 	diffusemap trak5/pipes1
 	heightmap trak5/pipes_h
-	parallax 2.5
+	roughness 1.01
+	hardness 2.54
+	specularity 1.76
+	parallax 3.04
+	shadow 3.79
 }

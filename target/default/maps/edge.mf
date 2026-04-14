@@ -1,5 +1,5 @@
 8182326685bb84caee3f743ec2a81c26 docs/map-edge.txt
-97358dc736e204ffef46983a6a45695c maps/edge.bsp
+8d450d27b02d2a66f08a72961849a955 maps/edge.bsp
 a8983acf1707d942b8ca1843dd59732d maps/edge.nav
 fc8b5e8534faed21b9be46d1abcc0902 mapshots/edge/quetoo014.jpg
 070eb7d1762f9c3097298daeb1046488 mapshots/edge/quetoo015.jpg

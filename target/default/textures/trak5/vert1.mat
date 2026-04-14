@@ -1,8 +1,8 @@
 {
 	diffusemap trak5/vert1
 	roughness 1.02
-	hardness 2.98
-	specularity 1.10
+	hardness 3.59
+	specularity 1.35
 	parallax 3.00
 	shadow 8.00
 }

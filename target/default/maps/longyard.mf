@@ -1,4 +1,4 @@
-c6f80ffd7ff3561f687341b13f358100 maps/longyard.bsp
+4e9494f9927ea31fd00146f81d7bb10d maps/longyard.bsp
 59f3d5a6db218be288190df245d37fd4 maps/longyard.nav
 3568c1c58d97e9417a9cd580d2f2376c mapshots/longyard/longyard01.jpg
 cb9c34f4730ff09d005c459f2feaecb9 mapshots/longyard/longyard02.jpg
@@ -135,7 +135,7 @@ d0ad01c7592f74d578a4cff4a5e3cdc9 textures/trak5/ribs1.mat
 468024153c1927203843712c8ae6ba05 textures/trak5/ribs1.tga
 97acf21aefb44bcaa1326cf9abe30b23 textures/trak5/ribs1_n.tga
 415de54b0d61dfbb970e548009e3975c textures/trak5/trim1_n.tga
-65ec59889ddd0cfccd58f77d79b4643f textures/trak5/trim1a.mat
+eb987ace23a2ded2c3fa5152ea12071d textures/trak5/trim1a.mat
 1d0dae460c128382ebd9c4ff93194f8c textures/trak5/trim1a.tga
 1bd39c42141d8667e14f346966f9c004 textures/trak5/trim2_n.tga
 9d034bcdd0ab298e571d618575dc43bb textures/trak5/trim2a.mat

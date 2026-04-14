@@ -1,5 +1,5 @@
 454772ee46af1aa8cee31359f2a7ceeb docs/map-slimyplace.txt
-91b350c9bb91be90db4add5fcf0b8ece maps/slimyplace.bsp
+6d052f087d62ef6f5b73abb2d36c1d11 maps/slimyplace.bsp
 2fa04e2985b87b3032dad006dc1882e3 maps/slimyplace.nav
 8467d6a7679bed3761216ca0640ecb2e mapshots/slimyplace/quetoo036.jpg
 6b87681e37cb245aab34e7e303a7b8dc mapshots/slimyplace/quetoo037.jpg

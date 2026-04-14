@@ -1,4 +1,4 @@
-6430e18d762cf9dcfb8bfcc21ab69916 maps/aerowalk.bsp
+44085d5a20aec926e3b70309006d47d6 maps/aerowalk.bsp
 38a2ff6abc53603499b5c90e03c5e683 maps/aerowalk.nav
 cccca2095d99897d571aa4cb5304b4c8 mapshots/aerowalk/quetoo080.jpg
 4cdfd52234f37f9f698c846929ab24df mapshots/aerowalk/quetoo081.jpg

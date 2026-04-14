@@ -1,4 +1,4 @@
-5d5462db746dd474067f3aed3e87fb56 maps/omf.bsp
+c08ca2f352cec29cad38a9d09fa28253 maps/omf.bsp
 e2fcc8a4a3892b4f0b27379f12f763fe maps/omf.nav
 d545bfc884294e5f58b43a3415b4451b sky/acheron.png
 856b31afd7299a958157052c1beac161 sprites/flare_1.tga

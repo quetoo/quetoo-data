@@ -1,4 +1,8 @@
 {
-	diffusemap trak5/vert1_d
-	parallax 3.0
+	diffusemap trak5/vert1
+	roughness 1.02
+	hardness 2.98
+	specularity 1.10
+	parallax 3.00
+	shadow 8.00
 }

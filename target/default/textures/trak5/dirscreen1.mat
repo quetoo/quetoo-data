@@ -1,5 +1,5 @@
 {
-	diffusemap trak5/dirscreen1_d
+	diffusemap trak5/dirscreen1
 	shadow 0
 	{
 		texture trak5/dirscreen1_glo

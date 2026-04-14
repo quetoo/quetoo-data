@@ -1,6 +1,10 @@
 {
-	diffusemap trak5/floor2f_d
+	diffusemap trak5/floor2f
 	normalmap trak5/floor2_n
 	heightmap trak5/floor2_h
-	parallax 2.5
+	roughness 1.50
+	hardness 1.81
+	specularity 2.53
+	parallax 3.05
+	shadow 8.00
 }

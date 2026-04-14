@@ -1,5 +1,5 @@
 {
-	diffusemap trak5/light2_d
+	diffusemap trak5/light2
 	shadow 0
 	{
 		scale.s 1.25

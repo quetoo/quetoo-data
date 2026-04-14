@@ -1,5 +1,5 @@
 {
-	diffusemap trak5/ribs1_d
+	diffusemap trak5/ribs1
 	normalmap trak5/ribs1_n
 	heightmap trak5/ribs1_h
 	roughness 0.8

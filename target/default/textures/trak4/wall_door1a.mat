@@ -1,5 +1,5 @@
 {
-	diffusemap trak4/wall_door1a_d
-	normalmap trak4/wall_door1_n
-	specularmap trak4/wall_door1_s
+	diffusemap trak4/walloor1a
+	normalmap trak4/walloor1_n
+	specularmap trak4/walloor1_s
 }

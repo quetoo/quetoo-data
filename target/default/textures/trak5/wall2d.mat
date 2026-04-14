@@ -1,5 +1,5 @@
 {
-	diffusemap trak5/wall2d_d
+	diffusemap trak5/wall2d
 	normalmap trak5/wall2_n
 	heightmap trak5/wall2_h
 	parallax 2.5

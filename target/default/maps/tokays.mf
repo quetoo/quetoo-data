@@ -1,4 +1,5 @@
 67daee51d3ed183ac2c2010a54386148 docs/map-tokays.txt
+84297e27cb73af57d7cce91b2de65569 maps/tokays.bsp
 11c9ca144c4780c952b173798c467d07 maps/tokays.nav
 82c4bd5edf9876726be5628b7c22476e mapshots/tokays/quetoo018.jpg
 5efa348a845250cfce81ae0552cfc9e1 mapshots/tokays/quetoo019.jpg
@@ -16,14 +17,13 @@ ab6846eab04f23e52489df2d2e7dea1b textures/common/caulk.mat
 a04cea6262287878ddc34b37e55ffcd1 textures/common/caulk.tga
 c3c95e362ae53ceec4571095fd470c91 textures/common/clip.mat
 2857c84913835ba025fbcb65d6e90818 textures/common/clip.tga
-aba3444532cae75d055ffee25b3f5972 textures/common/decals/stroggwall1_256.mat
-13feb0e979b58a19b10da930abb93c10 textures/common/decals/stroggwall1_256.tga
 8f12552545ad2657743357b89cb4c72f textures/common/dust.mat
 8b31fb7b48d62746fef600fd29520170 textures/common/dust.tga
-fe8849d1a24dce7aff99c8e49929c5b1 textures/common/fx/water2fx.tga
-c9752b05e3b0061afe844b237189a394 textures/common/nodraw.tga
 c330dc68ef54d8ed52f31a7e66e3ab02 textures/common/sky.mat
 4804321ee446769f4cc1819b7b1eeb8a textures/common/sky.tga
+612e9c44402f0f46694edba0deb2da30 textures/decals/stroggwall1_256.mat
+13feb0e979b58a19b10da930abb93c10 textures/decals/stroggwall1_256.tga
+fe8849d1a24dce7aff99c8e49929c5b1 textures/effects/water2fx.tga
 6077526027aa5022bfa7691a9173adc6 textures/quake2/bed3_3.mat
 018a248ef7b166a065be26462a77d830 textures/quake2/bed3_3.tga
 ec8b21594b10ec07f48d8a9a0c8b179e textures/quake2/bed3_3_nm.tga
@@ -112,7 +112,7 @@ c2c75686a6dc4041a70ec5043f1a3a4c textures/quake2/troof4_2.tga
 eac0f9aa6fed27a9c0d49e376ff34a49 textures/quake2/troof4_2_nm.tga
 f2890b16b7f1f04a23686afcc3e23309 textures/quake2/troof4_5.mat
 e8e5de902c1435d723ff407f1692a57f textures/quake2/troof4_5.tga
-1e1ebc0859569b54e87841a5aea0a720 textures/quake2/water2.mat
+27eea5a94bfab4717be28385ca7f9eff textures/quake2/water2.mat
 986a535a215629cee993657cc51ac4bb textures/quake2/water2.tga
 ab2d72f7155edd70866420f461e2e052 textures/quake2/yellow1_4.mat
 69ff17625e4708f08293d44bdab599c5 textures/quake2/yellow1_4.tga

@@ -1,0 +1,6 @@
+{
+	diffusemap decals/dirt2
+	hardness 0.96
+	contents "mist detail"
+	surface "blend_100"
+}

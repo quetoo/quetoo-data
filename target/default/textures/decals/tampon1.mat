@@ -1,0 +1,5 @@
+{
+	diffusemap decals/tampon1
+	surface "blend_100"
+	contents "mist detail"
+}

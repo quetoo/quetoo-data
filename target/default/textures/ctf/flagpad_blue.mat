@@ -1,0 +1,21 @@
+{
+	diffusemap ctf/flagpad_blue
+	roughness 0
+	hardness 0
+	specularity 0
+	parallax 0 
+	contents "mist detail"
+	surface "blend_66 material"
+	{
+		texture ctf/flagpadfx_blue
+		blend GL_SRC_ALPHA GL_ONE
+		stretch 0.5 1
+		rotate 0.75
+	}
+	{
+		texture ctf/flagpadfx_blue
+		blend GL_SRC_ALPHA GL_ONE
+		stretch 0.5 0.25
+		rotate -0.5
+	}
+}

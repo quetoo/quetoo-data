@@ -6,7 +6,7 @@
 	parallax 3.00
 	shadow 8.00
 	{
-		texture common/fx/padbase/padfx
+		texture padbase/padfx
 		blend GL_SRC_ALPHA GL_ONE
 	}
 	{

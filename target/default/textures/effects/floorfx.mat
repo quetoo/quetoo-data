@@ -1,0 +1,8 @@
+{
+	diffusemap effects/floorfx
+	surface "material"
+	{
+		texture effects/floorfx
+		stretch .5 2
+	}
+}

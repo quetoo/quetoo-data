@@ -1,4 +1,5 @@
 b68295bdd21faa1d656dab9badcf54fd docs/map-hallways.txt
+c54d5cc21a16e3fe08abf4179490803a maps/hallways.bsp
 ddbb2038b24723624bb37d03837e0d7f maps/hallways.nav
 2d23e8e2cab17325fe31c37e7269a932 mapshots/hallways/quetoo026.jpg
 9f15829fbc437c7e677c2de7ecab1392 mapshots/hallways/quetoo027.jpg
@@ -14,14 +15,14 @@ ab6846eab04f23e52489df2d2e7dea1b textures/common/caulk.mat
 a04cea6262287878ddc34b37e55ffcd1 textures/common/caulk.tga
 c3c95e362ae53ceec4571095fd470c91 textures/common/clip.mat
 2857c84913835ba025fbcb65d6e90818 textures/common/clip.tga
-43ceb27bed8947f74e7c852793501f4c textures/common/decals/tampon1.mat
-d3208593a29dc75cad67d0778911dc28 textures/common/decals/tampon1.tga
 68c96aad25d1fa26d3e6b8e612a84dfe textures/common/origin.mat
 d49323a65cc0755db5e6ebe23c8f98fc textures/common/origin.tga
 c330dc68ef54d8ed52f31a7e66e3ab02 textures/common/sky.mat
 4804321ee446769f4cc1819b7b1eeb8a textures/common/sky.tga
 d01cc0d7dd7fc37e18c6051d3d9e4ce3 textures/common/trigger.mat
 8c34ff81fe5f0c950c9842cf66f0e806 textures/common/trigger.tga
+ec0e2c0bddf2997bce205054468b1bf8 textures/decals/tampon1.mat
+d3208593a29dc75cad67d0778911dc28 textures/decals/tampon1.tga
 78f7640d04104fb40a6cd3539e79dd9d textures/quake2/baselt_c.mat
 09caea907dcedc2c0e50c4f4cfcbc7b4 textures/quake2/baselt_c.tga
 cf9d6798665082668d92bb37dd9f6f6b textures/quake2/baselt_c_nm.tga

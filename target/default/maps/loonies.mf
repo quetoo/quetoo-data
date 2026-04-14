@@ -1,3 +1,4 @@
+4e3d22e14c9b8aac563f3fbefabbfd4a maps/loonies.bsp
 c686e726c497e868ebb1b0f730e753a6 models/mapobjects/barrel/skin.mat
 3ca1fe255c38d9de3de8ce7c499d437f models/mapobjects/barrel/skin.tga
 9a73fb44f8fdec21f5447d8719443d16 models/mapobjects/barrel/skin_glow.tga

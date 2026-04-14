@@ -1,0 +1,22 @@
+{
+    diffusemap effects/sky2
+    surface sky
+    {
+        texture effects/sky2-layer1
+        blend GL_SRC_ALPHA GL_ONE
+		color 0.75 0.75 0.75 1
+        scroll.s -.006
+        scroll.t -.006
+        scale.s .35
+        scale.t .35
+    }
+    {
+        texture effects/sky2-layer0
+        blend GL_SRC_ALPHA GL_ONE
+		color 0.75 0.75 0.75 1
+        scroll.s .003
+        scroll.t .003
+        scale.s .25
+        scale.t .25
+    }
+}

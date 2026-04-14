@@ -1,7 +1,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"_tb_textures" "textures/common;textures/common/decals;textures/common/fx;textures/common/fx/padbase;textures/common/prototype;textures/quake"
+"_tb_textures" "textures/common;textures/common/decals;textures/effects;textures/padbase;textures/common/prototype;textures/quake"
 "ambient" "0.2"
 "message" "The Twilight Zone"
 "sky" "nebula1"

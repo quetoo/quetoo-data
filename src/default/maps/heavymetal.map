@@ -6,7 +6,7 @@
 "message" "HeavyMetalbyRetinal"
 "gravity" "800"
 "sky" "unit9_"
-"_tb_textures" "textures;textures/common;textures/common/decals;textures/common/fx;textures/quake2"
+"_tb_textures" "textures;textures/common;textures/common/decals;textures/effects;textures/quake2"
 // brush 0
 {
 ( 448 8192 8192 ) ( 448 -8192 8192 ) ( 448 8192 -8192 ) quake2/metal1_2 0 64 0 1 1 1 0 0

@@ -1,4 +1,5 @@
 8182326685bb84caee3f743ec2a81c26 docs/map-edge.txt
+97358dc736e204ffef46983a6a45695c maps/edge.bsp
 a8983acf1707d942b8ca1843dd59732d maps/edge.nav
 fc8b5e8534faed21b9be46d1abcc0902 mapshots/edge/quetoo014.jpg
 070eb7d1762f9c3097298daeb1046488 mapshots/edge/quetoo015.jpg
@@ -19,15 +20,14 @@ ab6846eab04f23e52489df2d2e7dea1b textures/common/caulk.mat
 a04cea6262287878ddc34b37e55ffcd1 textures/common/caulk.tga
 c3c95e362ae53ceec4571095fd470c91 textures/common/clip.mat
 2857c84913835ba025fbcb65d6e90818 textures/common/clip.tga
-3ce3f15024e36578c9944c98b113476d textures/common/decals/tampon0.mat
-eff9040aafaa48fcbf1c223be44486ec textures/common/decals/tampon0.tga
-656eb5e56afafbd3e07ca0bc651ae927 textures/common/decals/tampon2.mat
-f8f2c393a04d9de4ba68f23fe729b82e textures/common/decals/tampon2.tga
-c9752b05e3b0061afe844b237189a394 textures/common/nodraw.tga
 c330dc68ef54d8ed52f31a7e66e3ab02 textures/common/sky.mat
 4804321ee446769f4cc1819b7b1eeb8a textures/common/sky.tga
 d01cc0d7dd7fc37e18c6051d3d9e4ce3 textures/common/trigger.mat
 8c34ff81fe5f0c950c9842cf66f0e806 textures/common/trigger.tga
+ab5f1471519aa155da5dcb11d8933f68 textures/decals/tampon0.mat
+eff9040aafaa48fcbf1c223be44486ec textures/decals/tampon0.tga
+7143e922dd8a67a336fd7e6201bbf633 textures/decals/tampon2.mat
+f8f2c393a04d9de4ba68f23fe729b82e textures/decals/tampon2.tga
 d5dc15b87de7bfa12a2337c7d6bdb931 textures/evil/e8xgirder.mat
 050b44c039ac2b40f7c3e5e9c5713684 textures/evil/e8xgirder.tga
 78f7640d04104fb40a6cd3539e79dd9d textures/quake2/baselt_c.mat

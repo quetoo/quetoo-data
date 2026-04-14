@@ -1,7 +1,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"_tb_textures" "textures/common;textures/common/decals;textures/common/fx;textures/common/prototype;textures/quake2"
+"_tb_textures" "textures/common;textures/common/decals;textures/effects;textures/common/prototype;textures/quake2"
 "message" "Fraggin' Lava Pits"
 "ambient" "0.10 0.08 0.00"
 "sky" "hearth"

@@ -1,3 +1,4 @@
+31e4c7b5d15f7036136643d391bc665c maps/darkzone.bsp
 4994859c2940812dd17f7138e11cf6ea maps/darkzone.nav
 fe66b7e6e8ad9c8a611f79919c8c7f9e mapshots/darkzone/quetoo014.jpg
 a65dcd0e567bba4a5d49f904b575e525 mapshots/darkzone/quetoo015.jpg
@@ -9,9 +10,9 @@ ab6846eab04f23e52489df2d2e7dea1b textures/common/caulk.mat
 a04cea6262287878ddc34b37e55ffcd1 textures/common/caulk.tga
 c3c95e362ae53ceec4571095fd470c91 textures/common/clip.mat
 2857c84913835ba025fbcb65d6e90818 textures/common/clip.tga
-e877a870c0b143699c1de3a261d0ef9c textures/common/sky/sky3.tga
-58da49785915b92b7b7b44116f3a7893 textures/darkzone/sky.mat
+9f3891fece8e269603882a58e3ccebd0 textures/darkzone/sky.mat
 4804321ee446769f4cc1819b7b1eeb8a textures/darkzone/sky.tga
+e877a870c0b143699c1de3a261d0ef9c textures/effects/sky3.tga
 b299f35b992b5d2608aab8201265c942 textures/quake/city2_1_norm.tga
 1ca9a69d498307141ac6afd4cdd3832c textures/quake/city2_6.mat
 2a1b9a1673680cf6d7a95c24b1bd82d3 textures/quake/city2_6.tga

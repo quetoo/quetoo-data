@@ -1,7 +1,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"_tb_textures" "textures/common;textures/common/decals;textures/quake3/liquids;textures/lun3dm3"
+"_tb_textures" "textures/common;textures/decals;textures/quake3/liquids;textures/lun3dm3"
 "ambient" "0.125"
 "author" "Lunaran - lunaran.fragland.net"
 "message" "A Load of Useless Bloody Loonies"

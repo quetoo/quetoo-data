@@ -1,4 +1,4 @@
-d9b76b7b82a5ead6e80fbdfb77d762dc maps/rage.bsp
+17f0f6599df435d7597e47d627c28776 maps/rage.bsp
 db567133973d9cf43a05e7350e32d9c1 maps/rage.nav
 339a2d91dbfb6ccbdd0ec3cdcb34a38e mapshots/rage/quetoo072.jpg
 e460c74429553de74b6e4f58d868410d mapshots/rage/quetoo075.jpg

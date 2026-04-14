@@ -1,4 +1,4 @@
-0ed850bc127d4398ba8902ffec834760 maps/fraggin.bsp
+e64b21e4b76cd0b56a9d48da89bdd2f1 maps/fraggin.bsp
 079594d90e5a97e79f581de2726f17af maps/fraggin.nav
 653c7c1d04584b9772f292e42a49b07a mapshots/fraggin/fraggin01.jpg
 ade5efef2f3fe2ce27f028097ca4795e mapshots/fraggin/fraggin02.jpg

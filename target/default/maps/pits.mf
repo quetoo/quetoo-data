@@ -1,5 +1,5 @@
 50153558ad81ca50f66f9ade2c65583d docs/map-pits.txt
-48755f207598384326974792d00e993d maps/pits.bsp
+65789a4d11dc9eff728058a660ed7ad5 maps/pits.bsp
 0941225f4b0647ca36a5a7b9a6169633 maps/pits.nav
 fe8037ac2e689cc84798186aafc0fd92 mapshots/pits/quetoo031.jpg
 f1b7b56a0295487e7be5cb4a9d7652c7 mapshots/pits/quetoo032.jpg

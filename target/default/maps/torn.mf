@@ -1,5 +1,5 @@
 4db4cbf6b9dd2a46efa108d00fde4146 docs/map-torn.txt
-fb06b59daa4a9e7ee21bf13063138245 maps/torn.bsp
+4fc8ac9eef70e7395611c2f3c58f3e9b maps/torn.bsp
 fa1dc273715e3e6817646f0ff74d52d0 maps/torn.nav
 93ae2ece3072be66e19652510b10fc3c mapshots/torn/quetoo021.jpg
 8f87a1a3140a1dd9be0e1cc1fcaf501e mapshots/torn/quetoo022.jpg

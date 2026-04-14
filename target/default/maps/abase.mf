@@ -1,4 +1,4 @@
-2b6d87cda7e92f45b4c179c8c5e8ba41 maps/abase.bsp
+16ae2d1b855fc0357ceadf85df02c33c maps/abase.bsp
 e4bbf1dee655c5d8f7cb7591b58ddfbd mapshots/abase/quetoo001.jpg
 da66f300f06b3f8149190f7cb1516a82 mapshots/abase/quetoo002.jpg
 80a790cac70cabd9be31c2a228bc0e1b mapshots/abase/quetoo003.jpg
@@ -107,9 +107,9 @@ b5e2ec6a535ed3644c7359a960cc7288 textures/quake/comp1_6_gloss.tga
 721f13f2f5315fe5ce2560da29b42843 textures/quake/comp1_6_luma.tga
 4e02db2413482cb285395d19e47c98c4 textures/quake/comp1_6_norm.tga
 e2dfdc7ebfca0d2719acd57598a09382 textures/quake/comp1_6a.mat
-d28c21d028e2460752b709838b8056a6 textures/quake/comp1_6a.tga
+05e6566c2e6641426ca3ef0089dac528 textures/quake/comp1_6a.tga
 ffef602057ad7611b5f3888b54603ad3 textures/quake/comp1_6a_gloss.tga
-8dbbfb41aa2adc27beae02a52080c849 textures/quake/comp1_6a_norm.tga
+0bdabc20aa843392817521f2087b3c7a textures/quake/comp1_6a_norm.tga
 033fd7b86b15458099987634b958159f textures/quake/cop1_1.mat
 6b93c64b782eca0d59aff844e0f193b7 textures/quake/cop1_1.tga
 65241078bb61ccff2376aaba14029d2c textures/quake/cop1_1_gloss.tga

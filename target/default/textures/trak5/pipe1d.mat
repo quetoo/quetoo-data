@@ -1,8 +1,8 @@
 {
 	diffusemap trak5/pipe1d
 	normalmap trak5/pipe1_n
-	roughness 0.98
-	hardness 2.99
+	roughness 0.00
+	hardness 3.00
 	specularity 1.24
 	parallax 0.00
 	shadow 0.00

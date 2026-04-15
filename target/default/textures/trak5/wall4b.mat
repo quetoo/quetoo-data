@@ -2,5 +2,8 @@
 	diffusemap trak5/wall4b
 	normalmap trak5/wall4_n
 	heightmap trak5/wall4_h
-	parallax 2.5
+	roughness 1.22
+	hardness 1.74
+	parallax 0.00
+	shadow 0.00
 }

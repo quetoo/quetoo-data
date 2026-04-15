@@ -1,0 +1,10 @@
+{
+	diffusemap quake3/liquids/pool2
+	contents water
+	surface blend_66
+	{
+		texture effects/water2fx
+		color 1 1 1 .5
+		warp .5 .5
+	}
+}

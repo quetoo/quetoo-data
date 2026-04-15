@@ -1,4 +1,6 @@
 {
 	diffusemap trak5/floor1a
-	parallax 3.0
+	hardness 5.00
+	parallax 4.04
+	shadow 8.00
 }

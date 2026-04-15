@@ -5,7 +5,7 @@
 	specularmap trak5/panel1_s
 	roughness 1.62
 	hardness 2.89
-	specularity 2.37
-	parallax 5.14
+	specularity 0.98
+	parallax 4.01
 	shadow 8.00
 }

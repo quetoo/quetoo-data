@@ -1,9 +1,13 @@
 {
 	diffusemap trak5/light3b
-	shadow 0
+	roughness 0.37
+	hardness 3.99
+	specularity 1.41
+	parallax 3.00
+	shadow 8.00
 	{
-		scale.s 1.25
-		scale.t 1.25
+		scale.s 1.250
+		scale.t 1.250
 		flare flare_1
 	}
 }

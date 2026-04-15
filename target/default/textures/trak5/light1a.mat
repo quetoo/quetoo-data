@@ -3,10 +3,13 @@
 	normalmap trak5/light1_n
 	heightmap trak5/light1_h
 	specularmap trak5/light1_s
-	shadow 0
+	roughness 1.54
+	hardness 3.69
+	parallax 2.98
+	shadow 8.00
 	{
-		scale.s 1.25
-		scale.t 1.25
+		scale.s 1.250
+		scale.t 1.250
 		flare flare_1
 	}
 	{

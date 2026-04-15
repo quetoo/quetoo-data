@@ -2,9 +2,9 @@
 	diffusemap trak5/trim1a
 	normalmap trak5/trim1_n
 	heightmap trak5/trim1_h
-	roughness 1.39
-	hardness 2.35
-	specularity 2.30
-	parallax 3.04
-	shadow 7.47
+	roughness 1.42
+	hardness 5.00
+	specularity 0.97
+	parallax 4.00
+	shadow 8.00
 }

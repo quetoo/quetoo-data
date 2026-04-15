@@ -26,19 +26,25 @@
 	name warehouse
 }
 {
-	name aerowalk
+	name claustrophobopolis
+}
+{
+	name abase
 }
 {
 	name badplace
 }
 {
-	name chthon
-}
-{
-	name claustrophobopolis
+	name cistern
 }
 {
 	name darkzone
+}
+{
+	name chthon
+}
+{
+	name aerowalk
 }
 #{
 #	name fractures
@@ -72,9 +78,6 @@
 }
 #{
 #	name turbo
-#}
-#{
-#	name trial
 #}
 #{
 #	name wake

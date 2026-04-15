@@ -1,8 +1,8 @@
 {
 	diffusemap quake/afloor1_4
-	roughness 2.25
-	hardness 1.96
-	specularity 1.22
-	parallax 5.49
+	roughness 0.44
+	hardness 2.60
+	specularity 5.05
+	parallax 4.97
 	shadow 8.00
 }

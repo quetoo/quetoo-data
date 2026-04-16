@@ -1,14 +1,13 @@
 {
-	diffusemap trak5/light2
-	shadow 0
+	material gehenna/light2a
+	roughness 3.34694
+	hardness 2.5
+	specularity 3.55102
 	{
-		scale.s 1.25
-		scale.t 1.25
-		flare flare_1
+		texture gehenna/light2a_fx
+		blend GL_SRC_ALPHA GL_ONE
 	}
 	{
-		texture trak5/light2_blend
-		blend GL_SRC_ALPHA GL_ONE
-		color 1.5 1.5 1.5 0.75
+		flare flare_1
 	}
 }

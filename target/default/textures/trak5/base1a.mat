@@ -1,6 +1,6 @@
 {
 	diffusemap trak5/base1a
-	normalmap trak5/base1_n
+	normalmap aerowalk/base1b_nm
 	roughness 0.98
 	hardness 1.01
 	parallax 0.00

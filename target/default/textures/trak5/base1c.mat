@@ -1,5 +1,5 @@
 {
 	diffusemap trak5/base1c
-	normalmap trak5/base1_n
+	normalmap aerowalk/base1b_nm
 	parallax 2.5
 }

@@ -1,6 +1,6 @@
 {
 	diffusemap trak5/trim6c
-	normalmap trak5/trim6_n
+	normalmap quake2/trim6e_nm
 	heightmap trak5/trim6_h
 	parallax 2.5
 }

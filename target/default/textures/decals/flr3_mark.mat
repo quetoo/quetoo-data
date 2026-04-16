@@ -1,10 +1,11 @@
 {
-	diffusemap decals/u_floor3_mark
-	parallax 3.0
+	diffusemap decals/flr3_mark
 	surface "blend_100"
 	contents "mist detail"
+	parallax 3.50
+	shadow 4.00
 	{
-		texture	decals/u_floor3_mark_fx
+		texture decals/flr3_mark_fx-cyan
 		blend GL_SRC_ALPHA GL_ONE
 		pulse 1
 	}

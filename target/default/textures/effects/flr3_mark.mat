@@ -1,0 +1,19 @@
+{
+<<<<<<<< Updated upstream:target/default/textures/decals/u_floor3_mark.mat
+	diffusemap decals/u_floor3_mark
+========
+	diffusemap common/fx/flr3_mark
+>>>>>>>> Stashed changes:target/default/textures/effects/flr3_mark.mat
+	parallax 3.0
+	surface "blend_100"
+	contents "mist detail"
+	{
+<<<<<<<< Updated upstream:target/default/textures/decals/u_floor3_mark.mat
+		texture	decals/u_floor3_mark_fx
+========
+		texture	common/fx/flr3_mark_fx-cyan
+>>>>>>>> Stashed changes:target/default/textures/effects/flr3_mark.mat
+		blend GL_SRC_ALPHA GL_ONE
+		pulse 1
+	}
+}

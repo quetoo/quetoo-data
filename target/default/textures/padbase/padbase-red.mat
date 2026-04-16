@@ -18,6 +18,7 @@
 	}
 	{
 		texture padbase/padfx-iris3
+		blend GL_SRC_ALPHA GL_ONE
 		pulse 0.5
 	}
 }

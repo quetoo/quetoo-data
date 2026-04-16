@@ -1,4 +1,4 @@
-0a41ea32e6bffb50ceb7f04284ddb8aa maps/longyard.bsp
+e38261b321cdcba49336055062351c7b maps/longyard.bsp
 3568c1c58d97e9417a9cd580d2f2376c mapshots/longyard/longyard01.jpg
 cb9c34f4730ff09d005c459f2feaecb9 mapshots/longyard/longyard02.jpg
 6d282e5814ad68056829033ca47c803b mapshots/longyard/longyard03.jpg
@@ -57,7 +57,9 @@ a04cea6262287878ddc34b37e55ffcd1 textures/common/caulk.tga
 4804321ee446769f4cc1819b7b1eeb8a textures/common/sky.tga
 80e09bf9ac283af241c9d3cdc4658c01 textures/common/trigger.mat
 8c34ff81fe5f0c950c9842cf66f0e806 textures/common/trigger.tga
+15d08d5069f0810c143fa479df5f4676 textures/decals/flr3_mark.mat
 82060a15beb8d55f53a78d5bbb25217d textures/decals/flr3_mark.tga
+c29e0ead2c9670839b8f88bf14a0b591 textures/decals/flr3_mark_fx-cyan.tga
 f9f3d80e40797b216ab6d518148cbc85 textures/decals/flr3_mark_nm.tga
 012ac043cb6d6ebdefb346d7f47e454a textures/decals/quetoologo.mat
 3a20c0cc6e5c97b565eec3f808d7f896 textures/decals/quetoologo.tga

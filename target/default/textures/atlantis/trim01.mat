@@ -1,5 +1,5 @@
 {
 	diffusemap atlantis/trim01
-	normalmap atlantis/trim01_nm
+	normalmap atlantis/trim01_norm
 	parallax 1.5
 }

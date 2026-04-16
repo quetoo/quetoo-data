@@ -1,7 +1,6 @@
 {
 	diffusemap trak5/panel2a
-	normalmap trak5/panel2_n
-	heightmap trak5/panel2_h
-	specularmap trak5/panel2_s
+	normalmap trak5/panel2_norm
+	specularmap trak5/panel2_spec
 	parallax 2.5
 }

@@ -1,6 +1,6 @@
 {
 	diffusemap trak5/base1b
-	normalmap trak5/base1_n
+	normalmap trak5/base1_norm
 	hardness 1.01
 	parallax 0.00
 }

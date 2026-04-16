@@ -1,7 +1,6 @@
 {
 	diffusemap trak5/wall7a
-	normalmap trak5/wall7_n
-	heightmap trak5/wall7_h
+	normalmap trak5/wall7_norm
 	roughness 1.65
 	hardness 3.17
 	specularity 2.55

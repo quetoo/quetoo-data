@@ -1,6 +1,6 @@
 {
 	diffusemap quake2/lightstrips32red
-	normalmap quake2/lightstrips32_nm
+	normalmap quake2/lightstrips32_norm
 	roughness 2.00
 	hardness 1.50
 	specularity 1.30

@@ -1,6 +1,6 @@
 {
 	diffusemap quake2/metalbase2
-	normalmap quake2/metalbase1_nm
+	normalmap quake2/metalbase1_norm
 	roughness 2.00
 	hardness 1.40
 	specularity 1.30

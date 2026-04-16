@@ -1,7 +1,6 @@
 {
 	diffusemap trak5/trim6e
-	normalmap trak5/trim6_n
-	heightmap trak5/trim6_h
+	normalmap trak5/trim6_norm
 	roughness 1.46
 	hardness 1.99
 	specularity 1.50

@@ -1,5 +1,5 @@
 {
     diffusemap pk01/pk01_pan_trim01a_d
-    normalmap pk01/pk01_pan_trim01_n
-    specularmap pk01/pk01_pan_trim01_s
+    normalmap pk01/pk01_pan_trim01_norm
+    specularmap pk01/pk01_pan_trim01_spec
 }

@@ -1,7 +1,6 @@
 {
 	diffusemap trak5/pits1a
-	normalmap trak5/pits1_n
-	heightmap trak5/pits1_h
-	specularmap trak5/pits1_s
+	normalmap trak5/pits1_norm
+	specularmap trak5/pits1_spec
 	parallax 2.5
 }

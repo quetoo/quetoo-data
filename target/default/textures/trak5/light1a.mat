@@ -1,8 +1,7 @@
 {
 	diffusemap trak5/light1a
-	normalmap trak5/light1_n
-	heightmap trak5/light1_h
-	specularmap trak5/light1_s
+	normalmap trak5/light1_norm
+	specularmap trak5/light1_spec
 	roughness 1.54
 	hardness 3.69
 	parallax 2.98

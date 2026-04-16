@@ -80,7 +80,7 @@
 
 {
 	diffusemap base1/base1_m01w02
-	normalmap base1/base1_m01w01_nm
+	normalmap base1/base1_m01w01_norm
 	bump 1
 	hardness 3
 	specular 1.5

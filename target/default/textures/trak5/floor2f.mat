@@ -1,7 +1,6 @@
 {
 	diffusemap trak5/floor2f
-	normalmap trak5/floor2_n
-	heightmap trak5/floor2_h
+	normalmap trak5/floor2_norm
 	roughness 2.01
 	hardness 2.75
 	specularity 1.37

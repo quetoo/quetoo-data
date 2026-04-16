@@ -1,6 +1,6 @@
 {
 	diffusemap quake2/mine05_2
-	normalmap quake2/mine03_2_nm
+	normalmap quake2/mine03_2_norm
 	roughness 1.20
 	hardness 2.50
 	specularity 2.00

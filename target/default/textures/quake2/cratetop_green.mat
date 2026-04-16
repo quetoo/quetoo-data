@@ -1,6 +1,6 @@
 {
 	diffusemap quake2/cratetop_green
-	normalmap quake2/cratetop_blue_nm
+	normalmap quake2/cratetop_blue_norm
 	roughness 2.20
 	hardness 2.00
 	specularity 1.70

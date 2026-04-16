@@ -1,7 +1,7 @@
 {
 	diffusemap quake/cop2_2
 	normalmap quake/cop1_1_norm
-	specularmap quake/cop1_1_gloss
+	specularmap quake/cop1_1_spec
 	roughness 0.33
 	hardness 2.14
 	specularity 1.88

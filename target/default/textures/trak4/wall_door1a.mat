@@ -1,5 +1,5 @@
 {
 	diffusemap trak4/walloor1a
-	normalmap trak4/walloor1_n
-	specularmap trak4/walloor1_s
+	normalmap trak4/walloor1_norm
+	specularmap trak4/walloor1_spec
 }

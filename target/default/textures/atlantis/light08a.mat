@@ -1,6 +1,6 @@
 {
 	diffusemap atlantis/light08a
-	normalmap atlantis/light08_nm
+	normalmap atlantis/light08_norm
 	parallax 2		
 	{
 		texture atlantis/light08_glow

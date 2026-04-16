@@ -1,5 +1,5 @@
 {
     diffusemap pk02/pk02_wall08b_d
-    normalmap pk02/pk02_wall08a_n
-    specularmap pk02/pk02_wall08a_s
+    normalmap pk02/pk02_wall08a_norm
+    specularmap pk02/pk02_wall08a_spec
 }

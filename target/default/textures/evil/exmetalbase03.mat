@@ -1,4 +1,3 @@
 {
-	heightmap evil/exmetalbase01_h
-	specularmap evil/exmetalbase01_s
+	specularmap evil/exmetalbase01_spec
 }

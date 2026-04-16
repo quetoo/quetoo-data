@@ -1,6 +1,6 @@
 {
 	diffusemap lilith/1r_thinpan04
-	normalmap lilith/1r_thinpan03_nm
+	normalmap lilith/1r_thinpan03_norm
 	roughness 2.50
 	hardness 2.50
 	parallax 2.00

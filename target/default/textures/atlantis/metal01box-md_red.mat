@@ -1,6 +1,6 @@
 {
 	diffusemap atlantis/metal01box-md_red
-	normalmap atlantis/metal01box-md_nm
+	normalmap atlantis/metal01box-md_norm
 	
 	parallax 2.5
 }

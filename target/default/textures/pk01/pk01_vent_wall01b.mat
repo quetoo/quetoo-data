@@ -1,5 +1,5 @@
 {
     diffusemap pk01/pk01_vent_wall01b_d
-    normalmap pk01/pk01_vent_wall01a_n
-    specularmap pk01/pk01_vent_wall01a_s
+    normalmap pk01/pk01_vent_wall01a_norm
+    specularmap pk01/pk01_vent_wall01a_spec
 }

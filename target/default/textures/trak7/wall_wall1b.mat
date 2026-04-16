@@ -1,5 +1,5 @@
 {
 	diffusemap trak7/wall_wall1b
-	normalmap trak7/wall_wall1_n
-	specularmap trak7/wall_wall1_s
+	normalmap trak7/wall_wall1_norm
+	specularmap trak7/wall_wall1_spec
 }

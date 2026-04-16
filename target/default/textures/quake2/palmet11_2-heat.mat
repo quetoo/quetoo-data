@@ -1,6 +1,6 @@
 {
 	diffusemap quake2/palmet11_2-heat
-	normalmap quake2/palmet11_2_nm
+	normalmap quake2/palmet11_2_norm
 	hardness 1.5
 	specularity 1.5
 	shadow 0

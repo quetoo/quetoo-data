@@ -1,7 +1,6 @@
 {
 	diffusemap trak5/trim1b
-	normalmap trak5/trim1_n
-	heightmap trak5/trim1_h
+	normalmap trak5/trim1_norm
 	hardness 0.37
 	specularity 4.00
 	parallax 2.97

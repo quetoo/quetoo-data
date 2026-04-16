@@ -1,6 +1,6 @@
 {
 	diffusemap q4power/light_flouro1a
-	normalmap q4power/light_flouro0a_local
+	normalmap q4power/light_flouro0a_norm
 	shadow 0
 	{
 		scale.s 1.25

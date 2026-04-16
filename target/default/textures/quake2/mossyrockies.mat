@@ -1,6 +1,6 @@
 {
 	diffusemap quake2/mossyrockies
-	normalmap quake2/rockies_nm
+	normalmap quake2/rockies_norm
 	roughness 2.00
 	specularity 2.00
 	shadow 0.00

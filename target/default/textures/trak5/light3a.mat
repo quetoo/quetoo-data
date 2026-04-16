@@ -1,7 +1,6 @@
 {
 	diffusemap trak5/light3a
-	normalmap trak5/light3_n
-	heightmap trak5/light3_h
-	specularmap trak5/light3_s
+	normalmap trak5/light3_norm
+	specularmap trak5/light3_spec
 	parallax 2.5
 }

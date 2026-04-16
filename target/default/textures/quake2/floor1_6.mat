@@ -1,6 +1,6 @@
 {
 	diffusemap quake2/floor1_6
-	normalmap quake2/floor1_6_nm
+	normalmap quake2/floor1_6_norm
 	roughness 2.45
 	hardness 1.47
 	specularity 1.55

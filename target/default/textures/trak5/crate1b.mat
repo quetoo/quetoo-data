@@ -1,7 +1,6 @@
 {
 	diffusemap trak5/crate1b
-	normalmap trak5/crate1_n
-	heightmap trak5/crate1_h
-	specularmap trak5/crate1_s
+	normalmap trak5/crate1_norm
+	specularmap trak5/crate1_spec
 	parallax 2.5
 }

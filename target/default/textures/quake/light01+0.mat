@@ -1,7 +1,7 @@
 {
 	diffusemap quake/light01+0
 	normalmap quake/light01_norm
-	specularmap quake/light01_gloss
+	specularmap quake/light01_spec
 	roughness 1.00
 	hardness 1.00
 	specularity 1.00

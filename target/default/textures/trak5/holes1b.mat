@@ -1,7 +1,6 @@
 {
 	diffusemap trak5/holes1b
-	normalmap trak5/holes1_n
-	heightmap trak5/holes1_h
-	specularmap trak5/holes1_s
+	normalmap trak5/holes1_norm
+	specularmap trak5/holes1_spec
 	parallax 2.5
 }

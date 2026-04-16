@@ -1,6 +1,6 @@
 {
 	material lilith/1r_plain_met02
-	normalmap lilith/1r_plain_met01_nm
+	normalmap lilith/1r_plain_met01_norm
 	bump 2.0
 	hardness 2.0
 	specular 4.0

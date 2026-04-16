@@ -1,6 +1,5 @@
 {
 	diffusemap trak5/vertpanel1c
-	normalmap trak5/vertpanel1_n
-	heightmap trak5/vertpanel1_h
+	normalmap trak5/vertpanel1_norm
 	parallax 2.5
 }

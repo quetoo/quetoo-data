@@ -58,9 +58,9 @@
 #{
 #	name gym
 #}
-#{
-#	name gehenna
-#}
+{
+	name gehenna
+}
 #{
 #	name lilith
 #}

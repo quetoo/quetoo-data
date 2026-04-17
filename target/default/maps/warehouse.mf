@@ -28,6 +28,7 @@ cf959717c754b0672d70aa195b4196f3 textures/prototype/grid.mat
 9b73c18c288f2b04f07cc66911235b34 textures/prototype/grid_norm.tga
 ee71512927c7b45014bc46bc585af8b1 textures/quake2/baseltwhite_c.mat
 7d8ccc66d0d3fce2e9cad33ffea9849d textures/quake2/baseltwhite_c.tga
+2578fa4403a724d70e62b11100a9d7f5 textures/quake2/baseltwhite_cfx.tga
 9744e49af2b3fbf1608599748c5bade1 textures/quake2/conveyor.mat
 6950cdc3c73b2dac630e88fe1b4ae4bf textures/quake2/conveyor.tga
 c94704fdd90ef0dde4ced46afd3f05bc textures/quake2/conveyor_belt.tga

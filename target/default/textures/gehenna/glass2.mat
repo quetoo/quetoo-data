@@ -5,10 +5,14 @@
 	surface "blend_100"
 	{
 		texture gehenna/plasma
+		blend GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		scroll.s 1
+		lighting .333
 	}
 	{
 		texture gehenna/plasma2
+		blend GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
 		scroll.s -1
+		lighting .333
 	}
 }

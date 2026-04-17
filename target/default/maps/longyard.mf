@@ -85,7 +85,6 @@ ed944e1236e6e1318f28c2f5489e1768 textures/evil/e6v_light.mat
 9de75963b996ecaaf1f6bf5283b4173f textures/evil/e8trimlight2.mat
 7f34350c51f74a5d856ca93e5e9785f1 textures/gehenna/glass90.mat
 c05a22a0de286bbe4bc88c99b94152fb textures/gehenna/glass90.tga
-be8697ed98c40948d11b441db9d9182f textures/gehenna/light2a_fx.png
 cf959717c754b0672d70aa195b4196f3 textures/prototype/grid.mat
 51491fd2be923d87a6bae22b32c90dc2 textures/prototype/grid.tga
 9b73c18c288f2b04f07cc66911235b34 textures/prototype/grid_norm.tga
@@ -126,8 +125,10 @@ f1b2490b6b7b9def73330df7dd419c9e textures/trak5/holes1_norm.tga
 aa081048fde1470d651b266a7594ab84 textures/trak5/holes1_spec.tga
 c323c67644ceeeb393ae7d29b9520f74 textures/trak5/holes1b.mat
 b69573ab8509bcc86b75404fea5a8614 textures/trak5/holes1b.tga
-915d218c4d52bf892308eea4fb7a1018 textures/trak5/light2.mat
+c4efeb2597e0e97cf504eff3996f60eb textures/trak5/light2.mat
 0f692e005db32e75deb22b16233ba28f textures/trak5/light2.tga
+9d65311becb285ad2b141920cb2f14fe textures/trak5/light2_blend.tga
+be8697ed98c40948d11b441db9d9182f textures/trak5/light2_fx.png
 8edb5917b508353d79ed1bee02b5fc77 textures/trak5/light2_norm.tga
 3075085767c5d71e7a7080e924bfcd23 textures/trak5/light2_spec.tga
 ebfdd209ce20f0854b833fea284ab21f textures/trak5/ribs1.mat

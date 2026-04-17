@@ -1,4 +1,7 @@
 {
 	diffusemap q4power/rock1
-	parallax 3.54
+	roughness 0.55
+	hardness 3.55
+	parallax 4.54
+	shadow 8.00
 }

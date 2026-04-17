@@ -1,3 +1,7 @@
 {
 	diffusemap q4power/bigmet2
+	roughness 1.50
+	hardness 1.46
+	specularity 1.27
+	parallax 2.96
 }

@@ -1,10 +1,15 @@
 {
-	material gehenna/light2a
-	roughness 3.34694
-	hardness 2.5
-	specularity 3.55102
+	diffusemap trak5/light2
+	roughness 3.35
+	hardness 2.50
+	specularity 3.55
+	parallax 2.04
 	{
-		texture gehenna/light2a_fx
+		texture trak5/light2_fx
+		blend GL_SRC_ALPHA GL_ONE
+	}
+	{
+		texture trak5/light2_blend
 		blend GL_SRC_ALPHA GL_ONE
 	}
 	{

@@ -1,6 +1,8 @@
 {
 	diffusemap gehenna/pipefix
-	roughness 0.5
-	hardness 3.8
-	specularity 3
+	roughness 1.04
+	hardness 3.80
+	specularity 3.00
+	parallax 1.96
+	shadow 0.96
 }

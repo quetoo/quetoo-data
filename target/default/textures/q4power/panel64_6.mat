@@ -1,5 +1,4 @@
 {
 	diffusemap q4power/panel64_6
-	normalmap q4power/panel64_6b_norm
-	specularmap q4power/panel64_6b_spec
+	parallax 2.00
 }

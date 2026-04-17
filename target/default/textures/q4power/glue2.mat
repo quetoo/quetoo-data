@@ -1,3 +1,5 @@
 {
 	diffusemap q4power/glue2
+	hardness 6.38
+	specularity 2.42
 }

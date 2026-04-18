@@ -1,8 +1,9 @@
 {
 	diffusemap gehenna/glass2
-	hardness 2.44898
-	specularity 3.18367
+	hardness 2.50
+	specularity 3.00
 	surface "blend_100"
+	contents "water"
 	{
 		texture gehenna/plasma
 		blend GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA

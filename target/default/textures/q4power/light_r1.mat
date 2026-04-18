@@ -7,7 +7,7 @@
 		flare flare_1
 	}
 	{
-		texture q4power/light_r1_g
+		texture q4power/light_r1_glow
 		blend GL_SRC_ALPHA GL_ONE
 	}
 }

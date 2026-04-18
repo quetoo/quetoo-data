@@ -5,7 +5,7 @@
 	parallax 2.00
 	shadow 0.57
 	{
-		texture quake2/plite1_3glow
+		texture quake2/plite1_3_glow
 	}
 	{
 		flare flare_1

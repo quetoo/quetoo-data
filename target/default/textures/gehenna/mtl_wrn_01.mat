@@ -1,8 +1,8 @@
 {
 	diffusemap gehenna/mtl_wrn_01_d
-	roughness 0.54
+	roughness 0.55
 	hardness 8.00
-	specularity 2.40
-	parallax 3.08
-	shadow 4.02
+	specularity 2.50
+	parallax 1.50
+	shadow 4.00
 }

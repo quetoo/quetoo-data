@@ -1,6 +1,6 @@
 {
 	diffusemap players/guard/mgss
-	normalmap players/guard/default_nm
+	normalmap players/guard/default_norm
 	tintmap.tint_r_default 0.5 0.28 0.12
 	tintmap.tint_g_default 0.14 0.12 0.10
 }

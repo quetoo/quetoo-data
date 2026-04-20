@@ -38,10 +38,15 @@ compact:
 	@rm -f .git/paths-in-history.txt .git/paths-current.txt
 	@echo "Pruning $$(wc -l < .git/paths-to-prune.txt | tr -d ' ') deleted paths from history..."
 	@echo "Stripping history for binary extensions: $(BINARY_EXTS)"
+	@echo "Snapshotting current binary assets (filter-repo will wipe the working tree)..."
+	@git ls-files | grep -E '\.(7z|ai|bsp|blend|blend1|gtx|ico|icns|jpg|kra|max|mdl|md3|mtr|nav|ogg|otf|pak|pcx|pfm|pk3|png|psd|shader|sib|swp|tga|ttf|wav|xcf|zip)$$' | tar -cf .git/assets-snapshot.tar --files-from=-
 	git filter-repo \
 		--paths-from-file .git/paths-to-prune.txt \
 		$(foreach ext,$(BINARY_EXTS),--path-glob '*.$(ext)') \
 		--invert-paths --force
+	@echo "Restoring binary assets..."
+	@tar -xf .git/assets-snapshot.tar
+	@rm -f .git/assets-snapshot.tar
 	git remote add origin git@github.com:jdolan/quetoo-data.git
 	git remote set-url --push origin git@github.com:jdolan/quetoo-data.git
 	git remote set-url --push --add origin git@github.com:quetoo/quetoo-data.git

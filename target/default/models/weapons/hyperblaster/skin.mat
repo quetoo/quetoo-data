@@ -1,8 +1,8 @@
 {
 	diffusemap weapons/hyperblaster/skin
-	roughness 5.22449
+	roughness 1
 	hardness 8
-	specularity 2.28571
+	specularity 2
 	{
 		texture weapons/hyperblaster/skin_glow
 		blend GL_SRC_ALPHA GL_ONE

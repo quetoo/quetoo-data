@@ -1,6 +1,6 @@
 {
 	diffusemap weapons/shotgun/skin
-	roughness 6.61225
-	hardness 2.69388
-	specularity 1.46939
+	roughness .25
+	hardness 1.5
+	specularity 1.5
 }

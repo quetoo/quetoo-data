@@ -15,8 +15,8 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v6
 
-    - name: Write revision
-      run: git rev-parse --short HEAD > target/revision
+    - name: Write version
+      run: git rev-list --count HEAD > target/version
 
     - name: Publish to S3
       env:

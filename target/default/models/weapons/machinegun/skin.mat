@@ -1,7 +1,6 @@
 {
 	diffusemap weapons/machinegun/skin
 	roughness 4.08163
-	parallax 0.0816327
 	hardness 8
 	specularity 2.93878
-	parallax 0.0816327
+}

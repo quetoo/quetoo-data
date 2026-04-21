@@ -1,11 +1,9 @@
 {
 	diffusemap weapons/grenadelauncher/skin
 	roughness 2.77551
-	parallax 0.0816327
 	hardness 8
 	specularity 1.95918
-	parallax 0.0816327
-		{
+	{
 		texture weapons/grenadelauncher/skin_glow
 		blend GL_SRC_ALPHA GL_ONE
 		pulse 0.75

@@ -3,7 +3,7 @@
 	roughness 4.61225
 	hardness 2.69388
 	specularity 1.46939
-		{
+	{
 		texture weapons/blaster/skin_glow
 		blend GL_SRC_ALPHA GL_ONE
 		pulse 1.25

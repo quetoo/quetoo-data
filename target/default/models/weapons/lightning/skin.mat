@@ -1,12 +1,8 @@
 {
 	diffusemap weapons/lightning/skin
 	roughness 2.28571
-	parallax 0.0816327
 	hardness 7.26531
 	specularity 3.02041
-	parallax 0.0816327
-	surface "alpha_test"
-	alpha_test 0.785714
 	{
 		texture weapons/lightning/skin_glow
 		blend GL_SRC_ALPHA GL_ONE

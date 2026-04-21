@@ -13,7 +13,7 @@ $(TARGET)/default/maps/%.bsp: $(TARGET)/default/maps/%.map
 QUETOO_DATA_S3_BUCKET = s3://quetoo-data
 
 s3:
-	git rev-parse --short HEAD > $(TARGET)/revision
+	git rev-list --count HEAD > $(TARGET)/version
 	aws s3 sync --delete $(TARGET) $(QUETOO_DATA_S3_BUCKET)
 
 # Compact git history to reclaim disk space. Purges history of all files that
@@ -40,4 +40,3 @@ compact:
 	@du -sh .git
 	@echo
 	@echo "Review the result, then run: git push --force --set-upstream origin main"
-

@@ -1,8 +1,8 @@
 {
 	diffusemap weapons/rocketlauncher/skin
-	roughness 1
-	hardness 8
-	specularity 2
+	roughness .666
+	hardness 1.5
+	specularity 1
 	{
 		texture weapons/rocketlauncher/skin_glow
 		blend GL_SRC_ALPHA GL_ONE

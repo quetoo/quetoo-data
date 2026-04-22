@@ -1,7 +1,7 @@
 {
 	diffusemap weapons/hyperblaster/skin
 	roughness 1
-	hardness 8
+	hardness 3
 	specularity 2
 	{
 		texture weapons/hyperblaster/skin_glow

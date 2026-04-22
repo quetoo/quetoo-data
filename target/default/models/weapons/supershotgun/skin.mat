@@ -1,6 +1,6 @@
 {
 	diffusemap weapons/supershotgun/skin
-	roughness 1
-	hardness 8
+	roughness .333
+	hardness 3
 	specularity 2
 }

@@ -166,6 +166,7 @@ fdf515d67d63b459d2dbec4996ac35d4 textures/q4power/wires1_norm.png
 a24a0d53219dadf827ff1a9d5df07782 textures/quake2/grate1.mat
 e8d9e29bac474c4fc850314e928b1733 textures/quake2/grate1.png
 769da5d4f182cc5f7579f87bee3bcb98 textures/quake2/grate1_norm.png
+a745c5dae83d40c67300b9036b39fe30 textures/quake2/grate1_spec.png
 2b495bc4f5885c02f979af104081b756 textures/trak5/light2.mat
 48a95aaae7f781102541b5417a564f16 textures/trak5/light2.png
 195ab48dde69d6a3f703fee0726f3f17 textures/trak5/light2_blend.png

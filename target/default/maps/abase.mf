@@ -450,3 +450,4 @@ c4839674ef09710558da1727b89677aa textures/quake/wir_la4_spec.png
 dd3c25bc39cdf9f13ecbea63f9a2843f textures/quake2/duckw.mat
 385e0f57544bf2f258c89815489df521 textures/quake2/duckw.png
 8ed0b727acd885b2a4ebbf92eb5fc3f7 textures/quake2/duckw_norm.png
+6726a3cec12f472418b67b0399cc301a textures/quake2/duckw_spec.png

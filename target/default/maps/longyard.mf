@@ -91,6 +91,7 @@ cf959717c754b0672d70aa195b4196f3 textures/prototype/grid.mat
 36424a0777688acb7afca4bee849088a textures/quake2/metalbase03.mat
 77e922be0a45167f3fa81a121761d293 textures/quake2/metalbase03.png
 a95b2d338d10035b572372a8ae4c986d textures/quake2/metalbase03_norm.png
+bc262f515b41f2aa8882baea52ce3001 textures/quake2/metalbase03_spec.png
 85ee6d096cdfd12b93f11cce2132e644 textures/spacectf/r_trim_17.mat
 3e0fc57640cce8d39f3c75b9e3ed12ed textures/spacectf/r_trim_17.png
 1c2a0aaac60e61dbcdf77c4399cf237a textures/spacectf/r_trim_17_norm.png

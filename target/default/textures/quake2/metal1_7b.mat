@@ -1,6 +1,7 @@
 {
 	diffusemap quake2/metal1_7b
 	normalmap quake2/metal1_7_norm
+	specularmap quake2/metal1_7_spec
 	roughness 2.40
 	hardness 1.50
 	specularity 1.70

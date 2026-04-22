@@ -1,6 +1,7 @@
 {
 	diffusemap quake2/rmetal6_1
 	normalmap quake2/green3_4_norm
+	specularmap quake2/green3_4_spec
 	roughness 2.40
 	hardness 1.10
 	specularity 1.30

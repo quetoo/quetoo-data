@@ -1,6 +1,7 @@
 {
 	diffusemap quake2/trim_botm
 	normalmap quake2/trim_plat_norm
+	specularmap quake2/trim_plat_spec
 	roughness 1.80
 	hardness 2.50
 	specularity 1.50

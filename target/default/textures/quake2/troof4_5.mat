@@ -1,6 +1,7 @@
 {
 	diffusemap quake2/troof4_5
 	normalmap quake2/troof4_2_norm
+	specularmap quake2/troof4_2_spec
 	roughness 3.50
 	hardness 3.00
 	specularity 1.80

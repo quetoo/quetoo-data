@@ -1,6 +1,7 @@
 {
 	diffusemap quake2/metal18_3b
-	normalmap quake2/metal18_1_norm
+	normalmap quake2/metal19_1_norm
+	specularmap quake2/metal19_1_spec
 	roughness 2.00
 	hardness 1.50
 	parallax 2.50

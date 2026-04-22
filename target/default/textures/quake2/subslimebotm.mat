@@ -1,6 +1,7 @@
 {
 	diffusemap quake2/subslimebotm
 	normalmap quake2/metl_floor_norm
+	specularmap quake2/metl_floor_spec
 	roughness 2.00
 	shadow 0.00
 }

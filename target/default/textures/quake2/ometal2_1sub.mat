@@ -1,6 +1,7 @@
 {
 	diffusemap quake2/ometal2_1sub
 	normalmap quake2/ometal2_1_norm
+	specularmap quake2/ometal2_1_spec
 	hardness 1.20
 	parallax 0.40
 	{

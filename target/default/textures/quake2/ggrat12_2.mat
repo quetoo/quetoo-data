@@ -1,6 +1,7 @@
 {
 	diffusemap quake2/ggrat12_2
 	normalmap quake2/grate2_7_norm
+	specularmap quake2/grate2_7_spec
 	roughness 2.04
 	hardness 2.52
 	specularity 1.47

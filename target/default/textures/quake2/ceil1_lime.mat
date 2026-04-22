@@ -1,6 +1,7 @@
 {
 	diffusemap quake2/ceil1_lime
 	normalmap quake2/ceil1_norm
+	specularmap quake2/ceil1_spec
 	roughness 1.33
 	hardness 3.00
 	specularity 3.50

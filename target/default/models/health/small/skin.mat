@@ -1,7 +1,6 @@
 {
 	diffusemap health/small/skin
-	roughness 5.38775
-	parallax 1.63265
-	hardness 4.08163
-	specularity 2.93878
-	parallax 1.63265
+	roughness 1
+	hardness 3
+	specularity 2
+}

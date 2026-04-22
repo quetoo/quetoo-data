@@ -30,8 +30,8 @@ bc617e0b5831c8c2ab566f8ca7ef75ec textures/quake2/btactmach0fx1.png
 082b0a1491a301a6f1572404982b7f65 textures/quake2/ceil1_lime.png
 9978f008e18e793453f4026c80f9f662 textures/quake2/ceil1_limefx.png
 e01df380b678cb4c9aee7b68dfc7e09b textures/quake2/ceil1_norm.png
-eeed39d7e65c9512d6d1e6217182b727 textures/quake2/floor1_6_norm.png
-1b416251915fc08ebebce0567611ecc6 textures/quake2/floor2_7.mat
+cc4c93821e00bb1f56fc30562af0e87d textures/quake2/floor1_6_norm.png
+fc01aede437e44946a2a8321b5ba5527 textures/quake2/floor2_7.mat
 b0181f9eb2a47c6c9167179e6a7ef021 textures/quake2/floor2_7.png
 34089f2666f3a4e9651728402d59b746 textures/quake2/fmet1_2.mat
 7bedf8a5c80f02200020c19e9c50557d textures/quake2/fmet1_2.png

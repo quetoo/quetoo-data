@@ -1,5 +1,5 @@
 0cab8ce0e2e2d5feed661d0a4451fc53 docs/map-lavatomb.txt
-b3d1bb53a84a938033c50e86d7717e10 maps/lavatomb.bsp
+6625a34db608be96b24de9dbd5200ba8 maps/lavatomb.bsp
 524607c434dac43c53d5ba82cc000dcd maps/lavatomb.nav
 80336c0e6be6ee6a5f49f3a38c9d551d mapshots/lavatomb/quetoo098.jpg
 7f83c172324cb082a471ce0a81ac0ddc mapshots/lavatomb/quetoo099.jpg
@@ -36,8 +36,8 @@ dfb632d5cdf2c6a7e84bd2a0cadae7a3 textures/quake2/drag2_3_norm.png
 a9d2d615bdab67889ff27f22b5e0216a textures/quake2/drag4_3.mat
 63d6072fa92b156360e70da4fae83160 textures/quake2/drag4_3.png
 e13cd30b37e6c6fe065868b87cf1f85a textures/quake2/drag4_3_norm.png
-eeed39d7e65c9512d6d1e6217182b727 textures/quake2/floor1_6_norm.png
-405215c7ca3164ca13dfdc2dfe8e90e3 textures/quake2/flr1_1.mat
+cc4c93821e00bb1f56fc30562af0e87d textures/quake2/floor1_6_norm.png
+92e6af6d7be009a19fb714b61ee6dc6c textures/quake2/flr1_1.mat
 106eebe08a9376ffa21ffd5eeca8792c textures/quake2/flr1_1.png
 4c7eabadcdb9c662aa06d1c3e3390a6e textures/quake2/glowedge-half.png
 a1135ac25ecd046694397a0e797b15b3 textures/quake2/glowedge.png

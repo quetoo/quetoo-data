@@ -53,10 +53,10 @@ e01df380b678cb4c9aee7b68dfc7e09b textures/quake2/ceil1_norm.png
 6450d57790958c7ae062580a8066bbb6 textures/quake2/chainlink.mat
 855ae1fea68d268a6b5264b05a72d4e2 textures/quake2/chainlink.png
 acfea3eebb4f7b02637ebd50938974c2 textures/quake2/chainlink_norm.png
-3e6f603b86673d2861970110d606f385 textures/quake2/floor1_6.mat
+6d95f485f3dc18f32572058650930c47 textures/quake2/floor1_6.mat
 7e9e6fa13d1e4f790cec1b0911db8393 textures/quake2/floor1_6.png
-eeed39d7e65c9512d6d1e6217182b727 textures/quake2/floor1_6_norm.png
-1b416251915fc08ebebce0567611ecc6 textures/quake2/floor2_7.mat
+cc4c93821e00bb1f56fc30562af0e87d textures/quake2/floor1_6_norm.png
+fc01aede437e44946a2a8321b5ba5527 textures/quake2/floor2_7.mat
 b0181f9eb2a47c6c9167179e6a7ef021 textures/quake2/floor2_7.png
 7df3bc3b61f6af4a3f65f9ebc2649d49 textures/quake2/green0_2.mat
 c85b05d702c2d660986fa75c32d594d3 textures/quake2/green0_2.png

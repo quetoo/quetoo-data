@@ -3,6 +3,7 @@ c686e726c497e868ebb1b0f730e753a6 models/mapobjects/barrel/skin.mat
 258dcea9d193d38dfdf77d0350d0b156 models/mapobjects/barrel/skin.png
 f580ae0a116d51f46bf636a475c77705 models/mapobjects/barrel/skin_glow.png
 a4e2090974a16ca5dc74f9b04b4cc31a models/mapobjects/barrel/skin_norm.png
+bdab9581b051033b2dab2f80bdaa3406 models/mapobjects/barrel/skin_spec.png
 8bc05eef1b684def1136b74cac462413 models/mapobjects/barrel/tris.obj
 b03f6847e89f151881c6843ad2253438 sky/phobos.png
 f91a1120de804f7cd4dbba4f12c748e9 sounds/ambient/comp.wav

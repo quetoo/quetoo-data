@@ -41,8 +41,8 @@ d72a2c7d02d06a10afdfbf6fc0a75236 textures/quake2/color1_2_norm.png
 67636181282decd20779d88e2d39de43 textures/quake2/eq2_grate_01.mat
 db14e3094322fa28a04106cfcd08d06e textures/quake2/eq2_grate_01.png
 c5ed89c074fe6cf341a00f29fe435800 textures/quake2/eq2_grate_01_norm.png
-eeed39d7e65c9512d6d1e6217182b727 textures/quake2/floor1_6_norm.png
-5b3b9bcc93b2e3202ae935217d556c6c textures/quake2/flr1_1b.mat
+cc4c93821e00bb1f56fc30562af0e87d textures/quake2/floor1_6_norm.png
+017787c48930b84eac4d402599aac804 textures/quake2/flr1_1b.mat
 1e7223af909e8b5d745a335831a55470 textures/quake2/flr1_1b.png
 34089f2666f3a4e9651728402d59b746 textures/quake2/fmet1_2.mat
 7bedf8a5c80f02200020c19e9c50557d textures/quake2/fmet1_2.png

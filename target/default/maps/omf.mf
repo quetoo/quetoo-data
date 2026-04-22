@@ -67,9 +67,9 @@ c960fa990a4f9059e3400dc6e680aef1 textures/quake2/brickfloor_norm.png
 5296f8251a88f44b38267449a39f3df7 textures/quake2/ceil1_4.png
 677424b9ce9b134979ebbfc9d04512ef textures/quake2/ceil1_4fx.png
 e01df380b678cb4c9aee7b68dfc7e09b textures/quake2/ceil1_norm.png
-eeed39d7e65c9512d6d1e6217182b727 textures/quake2/floor1_6_norm.png
-b0181f9eb2a47c6c9167179e6a7ef021 textures/quake2/floor2_7.png
-1b416251915fc08ebebce0567611ecc6 textures/quake2/floor2_8g.mat
+cc4c93821e00bb1f56fc30562af0e87d textures/quake2/floor1_6_norm.png
+e9abfd3da68ce3f7e48886878978c850 textures/quake2/floor2_8g.mat
+a1d389a55310db81d0eb95312db8fd2f textures/quake2/floor2_8g.png
 a24a0d53219dadf827ff1a9d5df07782 textures/quake2/grate1.mat
 e8d9e29bac474c4fc850314e928b1733 textures/quake2/grate1.png
 294ccc21cddb0989792f18d7840f102c textures/quake2/grate1_4.mat

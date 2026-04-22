@@ -112,7 +112,7 @@ ef5fe725f5bb0feca4c9a1eaa31393d2 textures/quake/dr07_1.png
 0ee60e230f6a6507f4ac9dd02c0d3311 textures/quake/exit02_3.png
 88dd31a4178b627a6bc7e42a00dd4bb8 textures/quake/exit02_3_norm.png
 bb5e65a1b4016ce4b932870731d8a62e textures/quake/exit02_3_spec.png
-1f895374fc8177092cf28bfd2e8f44e3 textures/quake/lava1.mat
+3d5c775a972b14e01f27f283e1e82aad textures/quake/lava1.mat
 fca5919383134b40088f301d4416b2d7 textures/quake/lava1.png
 16dca83ea9183a7d7688eca86189e9fd textures/quake/lava1_flow.mat
 fca5919383134b40088f301d4416b2d7 textures/quake/lava1_flow.png

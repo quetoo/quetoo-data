@@ -32,7 +32,7 @@ fc062faf9b3aeffb2c072fcd7cbf4eea textures/quake/cop3_4.mat
 a31383ae6be2e1e769a8c186c0c736b6 textures/quake/cop3_4.png
 025f90e96189240ff218a13ff3c79c1c textures/quake/cop3_4_norm.png
 89413676baabdccb3eb68d4c5b278bf3 textures/quake/cop3_4_spec.png
-adaf45f5c861ceb9fb0856a07feecb12 textures/quake/lava2.mat
+754e5446d9ca22955e7f2f70deec2ad6 textures/quake/lava2.mat
 71525a40a3ce83bae4bd6760d035622f textures/quake/lava2.png
 fd13c580dd31d76c267e97aa04a5ac52 textures/quake/lava2_glow.png
 f086341d6c5df3d940bcc88d119dff2b textures/quake/lava2_luma.png

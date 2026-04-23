@@ -2,7 +2,7 @@
 	diffusemap weapons/lightning/skin
 	roughness .25
 	hardness 4
-	specularity 3
+	specularity 1
 	{
 		texture weapons/lightning/skin_glow
 		blend GL_SRC_ALPHA GL_ONE

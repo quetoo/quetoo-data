@@ -3,4 +3,8 @@
 	roughness .333
 	hardness 3
 	specularity 2
+	{
+		texture weapons/shotgun/skin_glow
+		blend GL_SRC_ALPHA GL_ONE
+	}
 }

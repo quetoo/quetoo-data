@@ -1,7 +1,7 @@
 {
 	diffusemap weapons/bfg/skin
-	roughness 1
-	hardness 4
+	roughness 2
+	hardness 3
 	specularity 2
 	{
 		texture weapons/bfg/skin_glow

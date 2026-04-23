@@ -1,8 +1,8 @@
 {
 	diffusemap weapons/railgun/skin
-	roughness 1
-	hardness 8
-	specularity 2
+	roughness .5
+	hardness 3
+	specularity 1.5
 	{
 		texture weapons/railgun/skin_glow
 		blend GL_SRC_ALPHA GL_ONE

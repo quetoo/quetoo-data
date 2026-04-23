@@ -1,7 +1,6 @@
 {
 	diffusemap ammo/cells/skin
+	normalmap ammo/bullets/skin_norm
 	roughness 4.24488
-	parallax 0.244898
 	hardness 8
 	specularity 1.41497
-	parallax 0.244898

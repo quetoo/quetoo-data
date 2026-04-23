@@ -1,7 +1,6 @@
 {
 	diffusemap ammo/slugs/skin
+	normalmap ammo/bullets/skin_norm
 	roughness 4.24488
-	parallax 0.326531
 	hardness 8
 	specularity 1.19728
-	parallax 0.326531

@@ -11,9 +11,15 @@ $(TARGET)/default/maps/%.bsp: $(TARGET)/default/maps/%.map
 	quemap -w $(TARGET)/default -bsp maps/$*.map
 
 QUETOO_DATA_S3_BUCKET = s3://quetoo-data
+MANIFEST = $(TARGET)/default/manifest.mf
 
-s3:
-	git rev-list --count HEAD > $(TARGET)/version
+.PHONY: manifest
+manifest:
+	@echo "Writing $(MANIFEST)..."
+	@python3 manifest.py $(TARGET)/default > $(MANIFEST)
+	@echo "Wrote $$(wc -l < $(MANIFEST) | tr -d ' ') entries to $(MANIFEST)."
+
+s3: manifest
 	aws s3 sync --delete $(TARGET) $(QUETOO_DATA_S3_BUCKET)
 
 # Compact git history to reclaim disk space. Purges history of all files that

@@ -1,4 +1,9 @@
 {
 	diffusemap quake/wmet2_4
-	normalmap quake/metal4_6
+	normalmap quake/metal4_6_norm
+	roughness 1.12
+	hardness 3.99
+	specularity 0.96
+	parallax 3.52
+	shadow 8.00
 }

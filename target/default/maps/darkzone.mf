@@ -1,10 +1,10 @@
-7e6ec4c126b31a881c32528c0d09a213 6140586 maps/darkzone.bsp
+78c0a21fe957ef965dd70a6dec976dbd 6140430 maps/darkzone.bsp
 4994859c2940812dd17f7138e11cf6ea 6132 maps/darkzone.nav
 fe66b7e6e8ad9c8a611f79919c8c7f9e 254805 mapshots/darkzone/quetoo014.jpg
 a65dcd0e567bba4a5d49f904b575e525 297171 mapshots/darkzone/quetoo015.jpg
 1e86f17d0c9115ccc02506989d02344d 293700 mapshots/darkzone/quetoo016.jpg
 17f315415a055705dc00f02017f536d8 174180 mapshots/darkzone/quetoo018.jpg
-3217fada4c617953306b80a6f0e74958 1596307 sky/sky1.png
+934bfdf0b76abf133bb510c4bfd39e37 338643 sky/sky1.jpg
 38bb016d3b85c77377be752c5797bce9 322470 sounds/ambient/wind_3.wav
 ab6846eab04f23e52489df2d2e7dea1b 29 textures/common/caulk.mat
 cd018ec8b5685a747891ff2693dc2067 2361 textures/common/caulk.png
@@ -12,7 +12,7 @@ c3c95e362ae53ceec4571095fd470c91 28 textures/common/clip.mat
 cca5a3baac61dd922ba6ac6dfbc19fae 1761 textures/common/clip.png
 9f3891fece8e269603882a58e3ccebd0 308 textures/darkzone/sky.mat
 f4322c9e75a0e1b013e0ccee2dbbebda 1887 textures/darkzone/sky.png
-55bb01efd64cfe5284d5d4fd857d997d 43968 textures/effects/sky3.png
+26e470feb6b557b65b7f2e448f6c83ae 7076 textures/effects/sky3.jpg
 90815f2250054caf41dadaef42cadd29 205976 textures/quake/city2_1_norm.png
 dca14b068dae46973333589c5489fb74 137 textures/quake/city2_6.mat
 3a1dd734d9444ac6cbcbb168d9b7dfcd 136614 textures/quake/city2_6.png

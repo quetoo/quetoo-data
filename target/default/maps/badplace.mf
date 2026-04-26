@@ -4,7 +4,7 @@ d8d1928af2743e7a26bdb37cc3530636 254474 mapshots/badplace/quetoo068.jpg
 041b2a6541ec36f1694d2a4a6d94fdb9 222683 mapshots/badplace/quetoo069.jpg
 39fb100e68f8aa44810d99767838825a 170955 mapshots/badplace/quetoo070.jpg
 22636a93d2eaa0d4a45ff41d15dc7da8 201452 mapshots/badplace/quetoo071.jpg
-61a5eb047a672b91f004cf84071af38b 39609717 sky/nebula1.png
+713ae8b6f9912af637d7f7d9eb2d1654 4142599 sky/nebula1.jpg
 9a832755b20df1aca0c656a7edfb09e5 34732 sprites/flare_1.png
 ab6846eab04f23e52489df2d2e7dea1b 29 textures/common/caulk.mat
 cd018ec8b5685a747891ff2693dc2067 2361 textures/common/caulk.png
@@ -32,12 +32,12 @@ fc062faf9b3aeffb2c072fcd7cbf4eea 77 textures/quake/cop3_4.mat
 cd0e1fa0db8522071879ac6f782ba6d0 136649 textures/quake/cop3_4.png
 fc0b141eeb58476aee813cd16b75275f 184506 textures/quake/cop3_4_norm.png
 e955e86ac037e48cba655587707a0ee6 130515 textures/quake/cop3_4_spec.png
+55b33e0259f869472c53bd618521c823 17420 textures/quake/lava2.jpg
 754e5446d9ca22955e7f2f70deec2ad6 491 textures/quake/lava2.mat
-45b056e29008c783e11dc75b57a2e321 49902 textures/quake/lava2.png
-ec096014aba6aafa4a63227e39b49731 31027 textures/quake/lava2_glow.png
-c3c12bf0055aeb66b3b830e7e1e733ff 38999 textures/quake/lava2_luma.png
+42bcddd68ca4323e00053c541a855db3 8917 textures/quake/lava2_glow.jpg
+a689447f5744b0851e8aeccd90987f39 13932 textures/quake/lava2_luma.jpg
 b27dae9becd5fda0c1a3df5e4f2af158 48649 textures/quake/lava2_norm.png
-c6364f227ad46f561876bdc93ae505a8 32485 textures/quake/lava2_spec.png
+e3122f6acd4c362831bb98a64e5521c0 16156 textures/quake/lava2_spec.jpg
 d60554184956e0226a0502ceae78fa6d 185 textures/quake/light3_7.mat
 a56e87c60738da089ffd236ba9eec0f4 37188 textures/quake/light3_7.png
 beffe907c5e9e770851e6f9b0a667f68 6298 textures/quake/light3_7_luma.png

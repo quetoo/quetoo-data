@@ -4,7 +4,7 @@ bc14677052aca2856ead1ddf1c16ddbf 175634 mapshots/claustrophobopolis/quetoo019.jp
 f761e389cfb3740265d2638084129858 210966 mapshots/claustrophobopolis/quetoo021.jpg
 cebebd68cf3cc7d84d90130a8dab8c55 233224 mapshots/claustrophobopolis/quetoo022.jpg
 365ed2c05be2cd6d229a9b2887236718 157023 mapshots/claustrophobopolis/quetoo023.jpg
-3217fada4c617953306b80a6f0e74958 1596307 sky/sky1.png
+934bfdf0b76abf133bb510c4bfd39e37 338643 sky/sky1.jpg
 18af247eb6de93f48f0c3be178ec3738 91668 sounds/ambient/drone_1.wav
 9b48cbb4eed62b68bb675a66858887e3 83218 sounds/ambient/lava_2.wav
 d690fc7c0ce5ea76417e746fa2d9e203 65694 sounds/ambient/lava_flow_1.wav
@@ -24,7 +24,7 @@ dbd77c59dba2ac7e74eac1b0ad4148f9 2487 textures/common/trigger.png
 1556b3813556bcc18f8f93f79a728d75 31 textures/quake/altar1_1.mat
 33f47f7dcdf628f7dbf2b375f97ed8a1 107644 textures/quake/altar1_1.png
 69f9617dc7c8efd5726bf5d5a6f4543e 168849 textures/quake/altar1_1_norm.png
-7493662ae99611b1456679b1317cadae 35418 textures/quake/altar1_1_spec.png
+5b5badea88add23c8c21294854ae3835 25740 textures/quake/altar1_1_spec.jpg
 5c6bc6bbe851416ca27eb40102d970b9 140 textures/quake/cop1_1.mat
 8475a3a88701fc3692b871929fec0b2b 123318 textures/quake/cop1_1.png
 1bd05181d01433d93c6fb2a0d3aca2c8 184402 textures/quake/cop1_1_norm.png

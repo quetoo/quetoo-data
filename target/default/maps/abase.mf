@@ -1,4 +1,4 @@
-bd6e81c1aa52a8c6a432e2363a86f711 12636657 maps/abase.bsp
+c28c75361fcaa7b05aa3c7b96ad410db 12636657 maps/abase.bsp
 ea61c85e3a6332ef5b0fc50bd0db1802 14580 maps/abase.nav
 9bba06fe7223bcd1d20711bdd950d547 127700 mapshots/abase/quetoo001.jpg
 97ef68c5d030e7a0d49e6c9022aad638 170339 mapshots/abase/quetoo002.jpg
@@ -69,7 +69,7 @@ e1f4f959c1a7188ff9d2495e801722bc 91 textures/quake/adoor03_6.mat
 df2635c5a6396434859b5f7745f06999 41403 textures/quake/adoor03_6_norm.png
 4f411dfb9b97c265dacc965f3746be55 5883 textures/quake/adoor03_6_spec.jpg
 755ad7d793efd5ce94787de48b2bb8a0 33182 textures/quake/afloor1_4.jpg
-e422981a1968186a036a3085da8de0ed 109 textures/quake/afloor1_4.mat
+e8cb6c49eae25c2ca036bb805dc173b0 109 textures/quake/afloor1_4.mat
 d2121e3a4f78e9b308293ca0f26c31dd 159680 textures/quake/afloor1_4_norm.png
 fc92d4900628234548f92ede7e9eb1d4 26641 textures/quake/afloor1_4_spec.jpg
 2421d2bc31d96909ad814696d1d3b7c0 8199 textures/quake/basebtn+0.jpg
@@ -113,11 +113,11 @@ e2dfdc7ebfca0d2719acd57598a09382 108 textures/quake/comp1_6a.mat
 6ce2cf4e71fba414fcb4d77c6fb4b614 181081 textures/quake/comp1_6a_norm.png
 f908ae7ad65725669d5b86de9948cd1e 26059 textures/quake/comp1_6a_spec.jpg
 0143d25a94f2f58fedeacce1d8283b52 26632 textures/quake/cop1_1.jpg
-34882fa0c6e28c791bd7ee2570143c48 140 textures/quake/cop1_1.mat
+b1779a70ecc8607f7041d492503905e4 140 textures/quake/cop1_1.mat
 cf9201ff29b9b6eb16120d634225c5ba 185372 textures/quake/cop1_1_norm.png
 e80e95a52eae8c1f6d94f932b585ceca 24739 textures/quake/cop1_1_spec.jpg
 cdae8f7aa006bdde9b03cde4ce6faebc 24454 textures/quake/cop1_2.jpg
-f66327d8eb9ba6eb6db276b52f39063d 165 textures/quake/cop1_2.mat
+54fd347f27c91c46792397db569def67 183 textures/quake/cop1_2.mat
 a302febe6509a76e79730f56fd801add 28770 textures/quake/cop1_4.jpg
 2ecf5cab0504c7cd5f4d6b71daec5617 29 textures/quake/cop1_4.mat
 f8a57b656d89c3e48d85da70c10b750e 147872 textures/quake/cop1_4_norm.png
@@ -136,7 +136,7 @@ e75df9a952e91b24b693b727c7590581 12834 textures/quake/dr02_2_spec.jpg
 4c8d3d35024d266ce2d5d78795c3dd90 5087 textures/quake/grate01_1_spec.jpg
 f93d6d191d34f8b874f92b3938910147 96071 textures/quake/ground1_5_norm.png
 3169e2a55b07a91e90e74fbfb6382f3d 26261 textures/quake/ground1_6.jpg
-bfa53b99985a9068346eb1436217d5c4 141 textures/quake/ground1_6.mat
+c63dc8565010e78036f072db249776bb 141 textures/quake/ground1_6.mat
 2e9198be63344d93675368cc076505d4 16778 textures/quake/ground1_6_spec.jpg
 e40605dc6f28fd024292c96320b59f94 16737 textures/quake/light_rail01.jpg
 53e0814fcbd3d84f9940caa64e493c26 193 textures/quake/light_rail01.mat
@@ -183,7 +183,7 @@ d7cd72ace27603e572742be82321f750 87 textures/quake/metal2_8.mat
 cd3b45359e3946ddb7135edb806dbfc3 95285 textures/quake/mmetal1_2_norm.png
 99ee298c2ba6b5eb85269015e6681ff5 20802 textures/quake/mmetal1_2_spec.jpg
 5e1fddbdb3639cc90c70f6aade8ec967 26878 textures/quake/mmetal1_3.jpg
-66e02241a38baf8d54dc5fb187ffc4a4 155 textures/quake/mmetal1_3.mat
+b38cdfc405f1218a2837efc179589456 155 textures/quake/mmetal1_3.mat
 b2873be8cc1785bf9799c40af592b909 21063 textures/quake/mmetal1_7.jpg
 5fcb5cd2045a1fc08ce157778021d11d 32 textures/quake/mmetal1_7.mat
 b68fb85781f310c6e289c6d9c3c42359 82640 textures/quake/mmetal1_7_norm.png
@@ -218,7 +218,7 @@ b648315458e065679f29eead67e7eb1a 25916 textures/quake/rock5_2_spec.jpg
 4988546b70b83e65f174e3e4e21b205d 181298 textures/quake/sfloor4_1_norm.png
 3e93e0c955e85fbf5b9722fd13fae905 25211 textures/quake/sfloor4_1_spec.jpg
 33d47c14087a7d248080ee0f0d439abd 28571 textures/quake/sfloor4_2.jpg
-38999b708400fa7fd88e0babae164dcd 159 textures/quake/sfloor4_2.mat
+cf4ee2e0434219af76f1717402569411 175 textures/quake/sfloor4_2.mat
 c0b291610f76c66a96bda71952223a6a 26907 textures/quake/sfloor4_5.jpg
 8bd60b7d4b4228eb62419150b4574fa5 32 textures/quake/sfloor4_5.mat
 dcf545dbccdfc90d02cd1f33bd6b9b3c 114426 textures/quake/sfloor4_5_norm.png
@@ -226,14 +226,14 @@ dcf545dbccdfc90d02cd1f33bd6b9b3c 114426 textures/quake/sfloor4_5_norm.png
 00e26ad9d6dfc3440b04d4208f2540e7 29566 textures/quake/sfloor4_6.jpg
 ce77856bde66acdd477de637f43874ee 157 textures/quake/sfloor4_6.mat
 c775f1fb1a61102d009352ccfa1531de 27767 textures/quake/sfloor4_8.jpg
-c32cd60bd6293c325c0fb2d4a7990dbd 157 textures/quake/sfloor4_8.mat
+ffef874a72141e7d81ca3dcd024dfd27 175 textures/quake/sfloor4_8.mat
 2918b445e1313afd1a4d505d453f47bb 7989 textures/quake/switch_1.jpg
 5db4e85756b1ecb499e52dc9752115ac 108 textures/quake/switch_1.mat
 7e2d48ef9e4074a45e5c01c1a1fce70a 2322 textures/quake/switch_1_luma.jpg
 55a53fab2ca89706f67d465c4891078d 34482 textures/quake/switch_1_norm.png
 4a6861ef36e00d00c45adb24bbfb0366 6157 textures/quake/switch_1_spec.jpg
 205f8b2d988e3166762275d9e852f155 30495 textures/quake/sym06_4.jpg
-2a956f4e34743818640a557eeb13039a 78 textures/quake/sym06_4.mat
+5acc05905b930fcc79077545f9a8218d 91 textures/quake/sym06_4.mat
 f6a0dcc5c9a151060d3a7d5b45b5eaa0 79661 textures/quake/sym06_4_norm.png
 a6d08cf27ee869dbcb5aa877c6c4a9e9 25804 textures/quake/sym06_4_spec.jpg
 f347b81f54cdcf61374ca06dc69fe9b7 15719 textures/quake/sym06_8.jpg
@@ -299,12 +299,12 @@ a29ee58b7ca290649612647078d2e236 26218 textures/quake/tech06_1.jpg
 394aadce47ff50f8de10120f5d766c3d 98787 textures/quake/tech06_1_norm.png
 9d6221793875cd3f9653ec4956bc3587 22149 textures/quake/tech06_1_spec.jpg
 641a036edf4e63ebeec6f9998685517c 34364 textures/quake/tech07_2.jpg
-01b14cda2845350cbdbbc288b822f827 108 textures/quake/tech07_2.mat
+787e428d3d9a31a17d63adc1e01e699e 108 textures/quake/tech07_2.mat
 a3c35cefd374e27839178e35d692a963 114894 textures/quake/tech07_2_norm.png
 e03b650d69396c0375029ce87b23e174 30234 textures/quake/tech07_2_spec.jpg
 1f0253be8b585103d09603d81ee85939 106595 textures/quake/tech08_1_norm.png
 2c9cf632815987642ae0e2846490fa98 37616 textures/quake/tech08_1a.jpg
-08da99bfeae1e595ef8238a03af5b393 110 textures/quake/tech08_1a.mat
+4166baa8be7859b54edfb2123e8bf2a6 139 textures/quake/tech08_1a.mat
 b83614fad5881769a72f79174311dded 31867 textures/quake/tech08_1a_spec.jpg
 e3158541631697d3d06dc5c2b7aa9125 32208 textures/quake/tech08_2.jpg
 1dea92576112ccc0f77c5ce0016b02e0 110 textures/quake/tech08_2.mat
@@ -436,7 +436,7 @@ e6ff715fbb1c05e0a7851b25eac6e9d2 14853 textures/quake/tyr_09.jpg
 4e6653dc2962937635e7db738e2e8c01 3964 textures/quake/tyr_09_norm.png
 112ecc9b36b62563f9d65f7429653d4d 12959 textures/quake/tyr_09_spec.jpg
 bde6b610a9696433425cf8ef9782c0bd 11083 textures/quake/water0.jpg
-148306794e373476a748868c6a699371 246 textures/quake/water0.mat
+902ed0f31bf846900a8e2d7cca307c09 248 textures/quake/water0.mat
 70350b37ed7b9d3ffd5ad38447de5afe 7647 textures/quake/water0_spec.jpg
 4acecda389fe169b1210a8aebe0042bd 38396 textures/quake/wir_la2.jpg
 217e5f7325d47ebafc92aec875f10a00 89 textures/quake/wir_la2.mat

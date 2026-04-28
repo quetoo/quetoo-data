@@ -1,7 +1,9 @@
 {
 	diffusemap quake/tech08_1a
 	normalmap quake/sym06_4_norm
+	roughness 1.97
 	hardness 2.53
 	specularity 1.47
-	parallax 2.04
+	parallax 2.51
+	shadow 8.00
 }

@@ -1,36 +1,35 @@
 {
 	diffusemap quake/water1
 	roughness 0.00
-	hardness 1.65
-	specularity 0.62
+	hardness 3.61
+	specularity 0.59
 	parallax 0.00
 	shadow 0.00
-	contents "water
-	surface "blend_33"
+	contents "water"
 	{
 		texture effects/water6fx
 		blend GL_SRC_ALPHA GL_ONE
-		scale.s .5
-		scale.t .5
-		scroll.s .05
+		scroll.s 0.050
+		scale.s 0.500
+		scale.t 0.500
 		warp 0.30 0.30
-		lighting .333
+		lighting 0.33
 	}
 	{
 		texture effects/water6fx
 		blend GL_SRC_ALPHA GL_ONE
-		scale.s .66
-		scale.t .66
-		scroll.t -.05
+		scroll.t -0.050
+		scale.s 0.660
+		scale.t 0.660
 		warp 0.40 0.30
-		lighting .333
+		lighting 0.33
 	}
 	{
 		texture effects/water6fx
 		blend GL_SRC_ALPHA GL_ONE
-		scale.s 1
-		scale.t 1
+		scale.s 1.000
+		scale.t 1.000
 		warp 0.50 0.30
-		lighting .333
+		lighting 0.33
 	}
 }

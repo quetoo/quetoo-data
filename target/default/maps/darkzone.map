@@ -1,5 +1,3 @@
-// Game: Quetoo
-// Format: Quake3
 // entity 0
 {
 "classname" "worldspawn"

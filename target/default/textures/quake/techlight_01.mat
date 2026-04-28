@@ -1,7 +1,7 @@
 {
 	diffusemap quake/techlight_01
-	roughness 1.26
-	hardness 1.96
+	roughness 1.00
+	hardness 3.54
 	parallax 2.51
-	shadow 2.54
+	shadow 8.00
 }

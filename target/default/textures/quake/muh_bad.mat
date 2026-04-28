@@ -1,9 +1,9 @@
 {
 	diffusemap quake/muh_bad
 	roughness 1.18
-	hardness 1.85
-	specularity 1.02
-	parallax 4.77
+	hardness 8.00
+	specularity 1.98
+	parallax 3.02
 	shadow 8.00
 	{
 		texture quake/muh_bad_luma

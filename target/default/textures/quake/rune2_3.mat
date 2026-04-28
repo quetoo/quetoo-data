@@ -1,7 +1,12 @@
 {
+	diffusemap quake/rune2_3
 	normalmap quake/rune1_4_norm
 	specularmap quake/rune1_4_spec
-	diffusemap quake/rune2_3
+	roughness 1.49
+	hardness 3.98
+	specularity 1.47
+	parallax 2.01
+	shadow 8.00
 	{
 		texture quake/rune2_3_luma
 		blend GL_SRC_ALPHA GL_ONE

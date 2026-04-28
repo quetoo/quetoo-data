@@ -1,5 +1,5 @@
 {
-diffusemap quake/tek_la25
-normalmap quake/dr02_2_norm
-specularmap quake/dr02_2_spec
+	diffusemap quake/tek_la25
+	normalmap quake/tech10_4_norm
+	specularmap quake/tech10_4_spec
 }

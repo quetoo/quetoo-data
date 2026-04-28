@@ -1,6 +1,7 @@
 {
 	diffusemap quake/light1_4
-	normalmap quake/cop1_7
+	normalmap quake/cop1_7_norm
+	specularmap quake/cop1_7_spec
 	{
 		texture quake/light1_4_luma
 		blend GL_SRC_ALPHA GL_ONE

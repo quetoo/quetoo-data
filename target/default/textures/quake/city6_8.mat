@@ -1,4 +1,5 @@
 {
 	diffusemap quake/city6_8
-	normalmap quake/city6_7
+	normalmap quake/city6_7_norm
+	specularmap quake/city6_7_spec
 }

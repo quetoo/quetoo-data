@@ -1,4 +1,5 @@
 {
 	diffusemap quake/grave03_6
-	normalmap quake/grave03_2
+	normalmap quake/grave03_2_norm
+	specularmap quake/grave03_2_spec
 }

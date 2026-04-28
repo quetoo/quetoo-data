@@ -1,5 +1,6 @@
 {
 	normalmap quake/rune1_4_norm
+	specularmap quake/rune1_4_spec
 	diffusemap quake/rune2_3
 	{
 		texture quake/rune2_3_luma

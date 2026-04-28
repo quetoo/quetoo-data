@@ -1,4 +1,5 @@
 {
 	normalmap quake/wmet3_3_norm
+	specularmap quake/wmet3_3_spec
 	diffusemap quake/nmetal2_6
 }

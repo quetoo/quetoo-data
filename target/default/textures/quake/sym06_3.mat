@@ -1,4 +1,5 @@
 {
 diffusemap quake/sym06_3
 normalmap quake/pwall1_norm
+specularmap quake/pwall1_spec
 }

@@ -1,6 +1,7 @@
 {
 	diffusemap quake/wmet2_4
 	normalmap quake/metal4_6_norm
+	specularmap quake/metal4_6_spec
 	roughness 1.12
 	hardness 3.99
 	specularity 0.96

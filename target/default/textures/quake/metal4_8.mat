@@ -1,5 +1,6 @@
 {
 	diffusemap quake/metal4_8
 	normalmap quake/metal4_7_norm
+	specularmap quake/metal4_7_spec
 	parallax 4.98
 }

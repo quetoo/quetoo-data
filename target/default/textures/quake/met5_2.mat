@@ -1,4 +1,5 @@
 {
 	diffusemap quake/met5_2
 	normalmap quake/altar1_1_norm
+	specularmap quake/altar1_1_spec
 }

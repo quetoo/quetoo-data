@@ -1,4 +1,5 @@
 {
 	diffusemap quake/dung01_3
-	normalmap quake/dung01_2
+	normalmap quake/dung01_2_norm
+	specularmap quake/dung01_2_spec
 }

@@ -12,14 +12,14 @@ f81dd582c8a3148e826395481c9b1ef5 33959 sky/khaki.jpg
 4ca344374b0feff43d6c9491ef497953 490874 sounds/ambient/wind_1.wav
 9a832755b20df1aca0c656a7edfb09e5 34732 sprites/flare_1.png
 649ffcd19896ebe708b38f5dfb8e657c 61888 sprites/flare_2.png
+9ea6e8e60c8cf57062db09c12386f065 2028 textures/common/caulk.jpg
 ab6846eab04f23e52489df2d2e7dea1b 29 textures/common/caulk.mat
-cd018ec8b5685a747891ff2693dc2067 2361 textures/common/caulk.png
 c3c95e362ae53ceec4571095fd470c91 28 textures/common/clip.mat
 cca5a3baac61dd922ba6ac6dfbc19fae 1761 textures/common/clip.png
+2a1b49cbfe055dec00b23d65163f56f6 2115 textures/common/origin.jpg
 68c96aad25d1fa26d3e6b8e612a84dfe 30 textures/common/origin.mat
-72e0e5cf9660a8d1bf64c24e62b338c3 2551 textures/common/origin.png
+9243c7ad7e16a9a96f4a5f89b4212458 1512 textures/common/sky.jpg
 c330dc68ef54d8ed52f31a7e66e3ab02 27 textures/common/sky.mat
-f4322c9e75a0e1b013e0ccee2dbbebda 1887 textures/common/sky.png
 ec0e2c0bddf2997bce205054468b1bf8 76 textures/decals/tampon1.mat
 7174ef5af863e1104d5b53908f21e3ce 194252 textures/decals/tampon1.png
 deedad35444fcc492dfad13f2f305e07 146455 textures/effects/water6fx.png
@@ -63,7 +63,7 @@ acfea3eebb4f7b02637ebd50938974c2 12521 textures/quake2/chainlink_norm.png
 a900987e83756dd200efbe16d1282671 5469 textures/quake2/chainlink_spec.jpg
 512b874060ffc2dc7fc72993eb66af21 23912 textures/quake2/floor1_6.jpg
 6d95f485f3dc18f32572058650930c47 109 textures/quake2/floor1_6.mat
-cc4c93821e00bb1f56fc30562af0e87d 102784 textures/quake2/floor1_6_norm.png
+33ece21cf528fc322eb9979145f3e076 129643 textures/quake2/floor1_6_norm.png
 5a19eee1dd2297e0bcc541f15e9ed84f 15266 textures/quake2/floor1_6_spec.jpg
 b567f8959167d467f464946f5e9c2bc7 25236 textures/quake2/floor2_7.jpg
 9f8a496df00f75da667954a4ec555796 175 textures/quake2/floor2_7.mat

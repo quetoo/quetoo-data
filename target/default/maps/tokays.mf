@@ -13,14 +13,14 @@
 01a3009417ffcacc75069643bc626589 110314 sounds/ambient/water_2.wav
 4ca344374b0feff43d6c9491ef497953 490874 sounds/ambient/wind_1.wav
 649ffcd19896ebe708b38f5dfb8e657c 61888 sprites/flare_2.png
+9ea6e8e60c8cf57062db09c12386f065 2028 textures/common/caulk.jpg
 ab6846eab04f23e52489df2d2e7dea1b 29 textures/common/caulk.mat
-cd018ec8b5685a747891ff2693dc2067 2361 textures/common/caulk.png
 c3c95e362ae53ceec4571095fd470c91 28 textures/common/clip.mat
 cca5a3baac61dd922ba6ac6dfbc19fae 1761 textures/common/clip.png
+4495dd84862adc3bbcf3e0006e16b545 1627 textures/common/dust.jpg
 8f12552545ad2657743357b89cb4c72f 28 textures/common/dust.mat
-a0d899b89597f0edb738b166119fb2b6 2176 textures/common/dust.png
+9243c7ad7e16a9a96f4a5f89b4212458 1512 textures/common/sky.jpg
 c330dc68ef54d8ed52f31a7e66e3ab02 27 textures/common/sky.mat
-f4322c9e75a0e1b013e0ccee2dbbebda 1887 textures/common/sky.png
 612e9c44402f0f46694edba0deb2da30 107 textures/decals/stroggwall1_256.mat
 9ec429af755181c3a281b1d526203b59 38357 textures/decals/stroggwall1_256.png
 e2b767ca608390c6a6c6fd5f145302b8 88418 textures/effects/water2fx.png
@@ -96,7 +96,7 @@ d068f9ce8660323f4fd6dc43c55fff46 12975 textures/quake2/metal20_2_spec.jpg
 9c742fe256eafe1588d0c3e8758e5b58 110 textures/quake2/metal20_3.mat
 3669b3906791a776f07ea43d0d5ee686 30894 textures/quake2/metal20_3_norm.png
 f5a6ade5cc82a0b260eef448d8072d3a 6466 textures/quake2/metal20_3_spec.jpg
-05ff647e76b833e62c7e477bcc942cda 127618 textures/quake2/metal21_1.png
+e5d37af3be5a86bc86037d473fe96817 23638 textures/quake2/metal21_1.jpg
 a211ce650b53695ded64d7e856c8d7d4 90762 textures/quake2/metal21_1_norm.png
 d519b1aaaab921cdbebe162c5a36be01 15064 textures/quake2/metal21_1_spec.jpg
 fab096f4798987c372c1c60e836f669b 25085 textures/quake2/metal21_2.jpg
@@ -130,7 +130,7 @@ eaca86c771d19c7bf51ed62e5042aa6c 127 textures/quake2/stflr1_3.mat
 43011b1a24b1a17e05cafe10962cd24c 15126 textures/quake2/stflr1_3_spec.jpg
 db7b958eaf3913d4836d8eadd82610f4 13932 textures/quake2/stflr1_4.jpg
 c4f63289c988cbd380693920adfa0673 109 textures/quake2/stflr1_4.mat
-7ff2232416a5d581fb8da5978561f008 53950 textures/quake2/stflr1_4_norm.png
+7c844e2ad471a0063f280fdfbf95b787 77547 textures/quake2/stflr1_4_norm.png
 691bdc37f31479eb4760eeefedca6f6f 9281 textures/quake2/stflr1_4_spec.jpg
 9479d8ab8765731683762c9f1a788779 18497 textures/quake2/troof4_2.jpg
 105bb91c9b01dbad14aeb7aa8508b52d 126 textures/quake2/troof4_2.mat
@@ -138,8 +138,8 @@ c323e7182febdeedf49a8303ed6a4741 116857 textures/quake2/troof4_2_norm.png
 0028b7d804d15d5996a676559e833f0d 12418 textures/quake2/troof4_2_spec.jpg
 404935ea96a6aa3a36d581a5e9ea1616 21339 textures/quake2/troof4_5.jpg
 f6ad26ea717d19e6e07b2234a4cb6807 192 textures/quake2/troof4_5.mat
+86f35d8414b8b5fc8115bec341004f10 2974 textures/quake2/water2.jpg
 ed712805f3ab791875224b861ae05576 536 textures/quake2/water2.mat
-8cddf4e877e3c521ce03ec95354f0ac7 8386 textures/quake2/water2.png
 7de527ac027787a9be5bff39c68889c2 2499 textures/quake2/yellow1_4.jpg
 ab2d72f7155edd70866420f461e2e052 110 textures/quake2/yellow1_4.mat
 ed68bcec5588be1fa8d32b6d105d4c09 4601 textures/quake2/yellow1_4_norm.png

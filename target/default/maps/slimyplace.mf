@@ -11,11 +11,11 @@
 93a193c6297f052781a4e02051aa4fd7 747312 sounds/ambient/water_1.wav
 4b1146f6da1472b65b2f6ffdbdfe8a64 23409 sprites/flare_0.png
 649ffcd19896ebe708b38f5dfb8e657c 61888 sprites/flare_2.png
+9ea6e8e60c8cf57062db09c12386f065 2028 textures/common/caulk.jpg
 ab6846eab04f23e52489df2d2e7dea1b 29 textures/common/caulk.mat
-cd018ec8b5685a747891ff2693dc2067 2361 textures/common/caulk.png
 c3c95e362ae53ceec4571095fd470c91 28 textures/common/clip.mat
 cca5a3baac61dd922ba6ac6dfbc19fae 1761 textures/common/clip.png
-b443e99661c9d7baa806c66a5167d216 2227 textures/common/ladder.png
+91dd63875eb668f99b05c86c0572c13f 1757 textures/common/ladder.jpg
 6b90b4a0628db07be8c1f79fe3e6b193 54 textures/decals/alienpuke.mat
 c2e3b395fd3be34955376c201d1cef88 27497 textures/decals/alienpuke.png
 f0f2951fac46049ceb7fd2b88f2a206c 5219 textures/quake2/btactmach0.jpg
@@ -32,7 +32,7 @@ cc18876d273ef9d4158beaf19e497ca0 285 textures/quake2/ceil1_lime.mat
 9978f008e18e793453f4026c80f9f662 8161 textures/quake2/ceil1_limefx.png
 e01df380b678cb4c9aee7b68dfc7e09b 2911 textures/quake2/ceil1_norm.png
 ea4472e920f11a496bd84dea5230887b 2247 textures/quake2/ceil1_spec.jpg
-cc4c93821e00bb1f56fc30562af0e87d 102784 textures/quake2/floor1_6_norm.png
+33ece21cf528fc322eb9979145f3e076 129643 textures/quake2/floor1_6_norm.png
 5a19eee1dd2297e0bcc541f15e9ed84f 15266 textures/quake2/floor1_6_spec.jpg
 b567f8959167d467f464946f5e9c2bc7 25236 textures/quake2/floor2_7.jpg
 9f8a496df00f75da667954a4ec555796 175 textures/quake2/floor2_7.mat

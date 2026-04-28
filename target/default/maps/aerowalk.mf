@@ -34,7 +34,7 @@ b0ce0e679a14ab2f5f85203e21045b73 112 textures/aerowalk/grnx2_24u.mat
 adcc3683cffdd6ea68fe678da37d8049 230 textures/aerowalk/light4_2.mat
 f79c035f2d07e8a2214338347a0e347c 1343 textures/aerowalk/light4_2_norm.png
 e08eaf6c02cf5aedcb056b7035271609 3969 textures/aerowalk/lightline32.jpg
-13829c6d3db7e18213b156ea96a0d87f 201 textures/aerowalk/lightline32.mat
+002605466d6be98d28dca2933eac9851 191 textures/aerowalk/lightline32.mat
 02ad4acb62b369aca6428f163d8e0ba0 480 textures/aerowalk/lightline32_glow.png
 228126247a96231e90f2fa70c11fc024 891 textures/aerowalk/lightline32_norm.png
 ad88b6eae3e5be254acd08c1561425d2 4296 textures/aerowalk/lightstrips32.jpg
@@ -48,14 +48,14 @@ f3d9dcbbc298edb5eb2a768d60a1bdb0 74488 textures/aerowalk/telecore_fx2.png
 138c6e7d970828a960886f3c7aa3c90c 240 textures/aerowalk/telelaser.mat
 34640d65e00a338aa8024aba53dedaa9 8586 textures/aerowalk/telelaser.png
 49ea6b78b58fd3286ba9ad2ec3c415ea 11787 textures/aerowalk/telelaserfx.jpg
+9ea6e8e60c8cf57062db09c12386f065 2028 textures/common/caulk.jpg
 ab6846eab04f23e52489df2d2e7dea1b 29 textures/common/caulk.mat
-cd018ec8b5685a747891ff2693dc2067 2361 textures/common/caulk.png
 c3c95e362ae53ceec4571095fd470c91 28 textures/common/clip.mat
 cca5a3baac61dd922ba6ac6dfbc19fae 1761 textures/common/clip.png
+9243c7ad7e16a9a96f4a5f89b4212458 1512 textures/common/sky.jpg
 c330dc68ef54d8ed52f31a7e66e3ab02 27 textures/common/sky.mat
-f4322c9e75a0e1b013e0ccee2dbbebda 1887 textures/common/sky.png
+a0feeecfbbb5815c43cfbdec4a7936d4 1972 textures/common/trigger.jpg
 d01cc0d7dd7fc37e18c6051d3d9e4ce3 31 textures/common/trigger.mat
-dbd77c59dba2ac7e74eac1b0ad4148f9 2487 textures/common/trigger.png
 0907113d51417666b7d74a58b324a640 351 textures/padbase/padbase.mat
 318a6ccdc992bacd45ca6079e6e0c221 163522 textures/padbase/padbase.png
 59f417af38fd6830821430e5aeb48d10 105839 textures/padbase/padbase_norm.png

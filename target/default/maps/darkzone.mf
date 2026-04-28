@@ -36,6 +36,7 @@ d12756ec4778f82f886bb293972227fc 22764 textures/quake/cop1_7_spec.jpg
 b20212a2626f201784c712053630f7c8 24744 textures/quake/ground1_5.jpg
 eaa81efcc1db6159a8e8d433faed77cb 94 textures/quake/ground1_5.mat
 f93d6d191d34f8b874f92b3938910147 96071 textures/quake/ground1_5_norm.png
+c6bb13d4130aac92896b2818575fc9cb 12213 textures/quake/ground1_5_spec.jpg
 cfd12faf74d9e93d1987a612a1dec26e 177745 textures/quake/m5_8_norm.png
 0f33cda74ec3c480f11bd066977bb91f 22286 textures/quake/m5_8_spec.jpg
 944d8f8e758479bedc324f60043e1e96 29613 textures/quake/metal2_2.jpg
@@ -52,3 +53,4 @@ e59998088ac4a44746d56c8ea7a63ea4 129013 textures/quake/metal4_7_norm.png
 161c669b6dc4fa3bda3ef9727d35e85d 21564 textures/quake/teleport.png
 bde6b610a9696433425cf8ef9782c0bd 11083 textures/quake/water0.jpg
 148306794e373476a748868c6a699371 246 textures/quake/water0.mat
+70350b37ed7b9d3ffd5ad38447de5afe 7647 textures/quake/water0_spec.jpg

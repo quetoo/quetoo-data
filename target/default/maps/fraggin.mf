@@ -84,6 +84,7 @@ e79e78641be1df09b09eda682ae8819f 122 textures/quake/city4_8.mat
 499453770b42f11dfcfd4bdeb404f357 29511 textures/quake/city5_3.jpg
 c3d0be8d05f8b53414bceb89441e7a31 30 textures/quake/city5_3.mat
 5f638a2fedb0c97851836cf2c97373bd 161456 textures/quake/city5_3_norm.png
+2fcce72e4403a7b50339e064b06a3e3a 20700 textures/quake/city5_3_spec.jpg
 0143d25a94f2f58fedeacce1d8283b52 26632 textures/quake/cop1_1.jpg
 34882fa0c6e28c791bd7ee2570143c48 140 textures/quake/cop1_1.mat
 cf9201ff29b9b6eb16120d634225c5ba 185372 textures/quake/cop1_1_norm.png
@@ -190,6 +191,7 @@ ddb3af9ee94dd207b82251caaf973a8d 10392 textures/quake/tyr_15_norm.png
 473c2523d0035a7ec6a4e735e4621e74 12143 textures/quake/tyr_15_spec.jpg
 008e9ad3358d5b3393fe971363f56230 11830 textures/quake/water2.jpg
 6091fcf173bb5d5d21ea27337470b5c3 72 textures/quake/water2.mat
+03c6671261cc897babd6a808ab9c050c 7844 textures/quake/water2_spec.jpg
 ea7f2cf79404d2e3ec3d0cb1d6afb9d5 34296 textures/quake/wbrick1_3.jpg
 38845f05328b239e50b5a197edd6ddb7 76 textures/quake/wbrick1_3.mat
 f98ae3f7463cb45a4c2705d27e2fdc16 123645 textures/quake/wbrick1_3_norm.png

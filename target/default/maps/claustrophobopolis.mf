@@ -35,6 +35,7 @@ fc062faf9b3aeffb2c072fcd7cbf4eea 77 textures/quake/cop3_4.mat
 f53e222bf018d055e4847567c3bfd5cf 29101 textures/quake/cop3_4_spec.jpg
 80ba02608bdf6d29eb942ed2f6361163 25315 textures/quake/lava1.jpg
 3d5c775a972b14e01f27f283e1e82aad 119 textures/quake/lava1.mat
+706c164325e4d538c9cc8e843945b4ac 12896 textures/quake/lava1_spec.jpg
 3a90a6939e019629b4ef48c5c06af7a5 8954 textures/quake/light3_7.jpg
 d60554184956e0226a0502ceae78fa6d 185 textures/quake/light3_7.mat
 34e8c2c7e803555d1bc3376a0cdd2d56 2165 textures/quake/light3_7_luma.jpg
@@ -132,3 +133,4 @@ fb0b9041f6d668a4311134fe30a0bd47 168 textures/quake/rune2_3.mat
 161c669b6dc4fa3bda3ef9727d35e85d 21564 textures/quake/teleport.png
 bde6b610a9696433425cf8ef9782c0bd 11083 textures/quake/water0.jpg
 148306794e373476a748868c6a699371 246 textures/quake/water0.mat
+70350b37ed7b9d3ffd5ad38447de5afe 7647 textures/quake/water0_spec.jpg

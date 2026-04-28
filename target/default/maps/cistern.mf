@@ -41,6 +41,7 @@ e366fcf2bd6f4923dbeded8d50a3188b 6248 textures/quake/button+0.jpg
 8c5a6caf98b9875775d2ef5eb2c2697b 108 textures/quake/button+0.mat
 4d9ef33dcdc4b80c97fc59720da85409 1561 textures/quake/button+0_luma.jpg
 cec01bd573f170c617f11c9b471782da 25567 textures/quake/button+0_norm.png
+da9374f02ea50e0193dc89e8ac3d73fb 3813 textures/quake/button+0_spec.jpg
 e900d84662024b9f2a882f771c7d7759 148749 textures/quake/city2_1_norm.png
 4995e97c09d68b029566225ae8963142 26353 textures/quake/city2_1_spec.jpg
 6956fe314eb1b4719b34db80854ba5b4 33352 textures/quake/city2_3.jpg
@@ -81,3 +82,4 @@ afa937450056f46e62529118b478a828 25031 textures/quake/metal2_4_spec.jpg
 161c669b6dc4fa3bda3ef9727d35e85d 21564 textures/quake/teleport.png
 73d81c5eeb8b75ebf9667a462ff33ce6 11375 textures/quake/water1.jpg
 4e2dd6d5dd94053cdc3414b358eadbb8 534 textures/quake/water1.mat
+2225e543b2b03ef1853045b8470ccb30 7802 textures/quake/water1_spec.jpg

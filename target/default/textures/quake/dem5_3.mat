@@ -1,5 +1,5 @@
 {
     diffusemap quake/dem5_3
-    normalmap quake/demc4_4_norm
-    specularmap quake/demc4_4_spec
+    normalmap quake/dem4_4_norm
+    specularmap quake/dem4_4_spec
 }

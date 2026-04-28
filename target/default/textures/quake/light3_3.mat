@@ -1,5 +1,6 @@
 {
 	diffusemap quake/light3_3
+	normalmap quake/light1_7_norm
 	parallax 3.00
 	shadow 0.00
 	contents "detail"

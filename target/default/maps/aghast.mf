@@ -1,4 +1,4 @@
-a9735b3475498460d0616437ae6ecd20 6915698 maps/aghast.bsp
+09a76b14aecec3195a5e8587d5d1c6cd 6923006 maps/aghast.bsp
 d13ab1144ca3b85d5c5d0b668cf16d17 10628 maps/aghast.nav
 f9f045c1738a99810c1cddc8817599a5 275072 mapshots/aghast/quetoo012.jpg
 9244fe27b99ffb58ff1de02ba94836db 322159 mapshots/aghast/quetoo013.jpg
@@ -77,12 +77,12 @@ f9c19cfd90c73aeabf0171a0c1d2f867 9974 textures/quake/tele_top.jpg
 1acd33a2c71f39f3e5947a6cdc499667 31950 textures/quake/tele_top_norm.png
 39a50a3d94277c020c47cd4014fdd0c4 7850 textures/quake/tele_top_spec.jpg
 54b57b26a88aa6ede72ee78ad79651a2 20889 textures/quake/teleport.jpg
-197a40e5889d5650a0b4c4348815306f 336 textures/quake/teleport.mat
+b69f25a4f19ff3853dacbe86a7ea5595 340 textures/quake/teleport.mat
 73d81c5eeb8b75ebf9667a462ff33ce6 11375 textures/quake/water1.jpg
 c0f3808b248e0aeebb0ff74b127e035b 519 textures/quake/water1.mat
 2225e543b2b03ef1853045b8470ccb30 7802 textures/quake/water1_spec.jpg
 14cb7ee1e44b644679a3340cac862b9f 19647 textures/quake/wizmet1_2.jpg
-1172df9b6247e1d52e5dbe2321b9f12b 175 textures/quake/wizmet1_2.mat
+092135d0843dcdb67cc9a8cf4d84375c 175 textures/quake/wizmet1_2.mat
 bbf64c7da3ebe1e4dd42974292613354 24772 textures/quake/wmet2_4.jpg
 4ea4a1b60ce3a9d4bac0f2259767e0c1 171 textures/quake/wmet2_4.mat
 ba6ef4c4ccc1c4a7f9b21eb544391b80 32891 textures/quake/wswamp1_4.jpg

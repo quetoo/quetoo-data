@@ -1,5 +1,6 @@
 {
 	diffusemap quake/teleport2
+	contents "mist detail"
 	{
 		texture quake/teleport2
 		blend src_alpha one_minus_src_alpha

@@ -1,4 +1,25 @@
 {
-diffusemap quake/slime
-contents "slime"
+	diffusemap quake/slime
+	roughness 0.00
+	hardness 4.00
+	specularity 2.50
+	parallax 0.00
+	shadow 0.00
+	contents "slime detail"
+	surface "liquid"
+	{
+		texture quake/slime
+		blend src_alpha one
+		warp -0.33 0.25
+		lighting 0.50
+		scale.s 1.5
+		scale.t 1.5
+	}
+	{
+		texture quake/slime0
+		blend src_alpha one
+		color 1 1 1 0.5
+		warp 0.33 -0.25
+		lighting 1
+	}
 }

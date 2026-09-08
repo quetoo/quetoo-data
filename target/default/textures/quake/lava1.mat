@@ -6,6 +6,13 @@
 		texture quake/lava1
 		blend one zero
 		lighting 1.00
-		warp 0.12 0.27
+		warp -0.12 0.27
+	}
+	{
+		texture quake/lava1
+		blend src_alpha one
+		color 1 1 1 0.666
+		lighting 0.5
+		warp 0.12 -0.27
 	}
 }

@@ -7,13 +7,13 @@
 		blend src_alpha one_minus_src_alpha
 		color 1.00 1.00 1.00 0.666
 		warp 0.33 3.00
-		lighting 1 flat
+		lighting 0.5 flat
 	}
 	{
 		texture quake/teleport
 		blend src_alpha one
 		color 1.00 1.00 1.00 0.666
 		warp -0.33 -3.00
-		lighting 1 flat
+		lighting 0.5 flat
 	}
 }

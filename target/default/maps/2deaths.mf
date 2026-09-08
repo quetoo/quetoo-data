@@ -1,4 +1,4 @@
-35a3c2f374ccd9452e23813b7dd72184 9661417 maps/2deaths.bsp
+28d5b287f89bc6c3c9fc7208f1212aff 9687353 maps/2deaths.bsp
 5db92fe47355bd8dcfb63eeafcac5abe 8476 maps/2deaths.nav
 9008535dd81e400c4dff83e643fa6bae 216659 mapshots/2deaths/quetoo003.jpg
 49034947a1767fdda10c6303a855ac71 334483 mapshots/2deaths/quetoo004.jpg
@@ -94,15 +94,15 @@ a6ed90af49a62db2453050bd61669e26 164 textures/quake/floorsw.mat
 bd5191836a7a9af1436f4fd0e064ca77 6529 textures/quake/floorsw_luma.jpg
 4f4e336a38a78261635bc358eea90d5b 175309 textures/quake/floorsw_norm.png
 8ff8f067d93797bf65d715726b54b4ba 36263 textures/quake/floorsw_spec.jpg
-857330a2c5f8e2a68bfd4a2410ba4545 187333 textures/quake/m5_8_norm.png
-0f33cda74ec3c480f11bd066977bb91f 22286 textures/quake/m5_8_spec.jpg
+548667f88750392c1dbdb8a9cbe1571e 154351 textures/quake/m5_8_norm.png
+cfa36bd28f4f37ec7a4ef1fdfda23f56 24346 textures/quake/m5_8_spec.jpg
 a1601ef78c2aadd7e88022fdfb458fbe 20639 textures/quake/metal1_3.jpg
 2837bf26deaa887e71d47fe9c517c2f2 62 textures/quake/metal1_3.mat
 9a69758dca031542f5bd988c1c150219 17148 textures/quake/metal1_3_spec.jpg
 944d8f8e758479bedc324f60043e1e96 29613 textures/quake/metal2_2.jpg
 b6ef81f8b71a4752a312ef7e5b00040c 102 textures/quake/metal2_2.mat
 54b57b26a88aa6ede72ee78ad79651a2 20889 textures/quake/teleport.jpg
-197a40e5889d5650a0b4c4348815306f 336 textures/quake/teleport.mat
+b69f25a4f19ff3853dacbe86a7ea5595 340 textures/quake/teleport.mat
 2ca10c7e3f202f26d7c61b820be20705 167468 textures/quake2/brlava.jpg
 ef052954406f2f784a6a507f121ca591 355 textures/quake2/brlava.mat
 bcca561e00db12163045b0d91175b18f 183685 textures/quake2/brlava1.jpg
